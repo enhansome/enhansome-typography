@@ -1,0 +1,3464 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "amigafonts",
+          "description": "Faithfully remade multi platform Amiga fonts in Amiga aspect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-02-05T20:51:40Z",
+            "owner": "rewtnull",
+            "repo": "amigafonts",
+            "stars": 369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fontraption",
+          "description": "A tiny but powerful VGA text mode font editor for DOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2024-09-07T08:29:06Z",
+            "owner": "viler-int10h",
+            "repo": "Fontraption",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gb-vwf",
+          "description": "A very powerful Variable-Width Font engine for the Game Boy & Game Boy Color.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-09-23T11:28:47Z",
+            "owner": "ISSOtm",
+            "repo": "gb-vwf",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protracker-font",
+          "description": "8x8 pixel font reconstructed as TTF from the Protracker v2.3D/v2.3E assembly source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-05-22T16:49:07Z",
+            "owner": "echolevel",
+            "repo": "protracker-font",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CGA-font-compare",
+          "description": "DOS tool to check if your CGA card uses the same ROM font as the original IBM CGA.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2022-11-18T16:54:10Z",
+            "owner": "viler-int10h",
+            "repo": "CGA-font-compare",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "x86-Assembly-Font-Renderer",
+          "description": "Bootloader that draws characters from a 5x7px font.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2018-06-12T05:00:49Z",
+            "owner": "mchlmmc",
+            "repo": "x86-Assembly-Font-Renderer",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atari-Font-To-Code",
+          "description": "An over-engineered Linux tool to convert an Atari 8-bit font to BASIC, C, and Assembly source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-08-26T17:44:36Z",
+            "owner": "kenjennings",
+            "repo": "Atari-Font-To-Code",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "x86-Assembly-Fonts",
+          "description": "Use different bitmap fonts in your Real Mode OS using bitmaps and pixel routines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2024-03-22T00:44:17Z",
+            "owner": "ArTicZera",
+            "repo": "x86-Assembly-Fonts",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xfnt",
+          "description": "Fontes gráficas para Hexagon/Hexagon graphic fonts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-08-14T01:13:39Z",
+            "owner": "hexagonix",
+            "repo": "xfnt",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "persian-assembly-font",
+          "description": "Design and implementation of Persian alphabet letters in Assembly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2019-06-22T18:53:06Z",
+            "owner": "imnr",
+            "repo": "persian-assembly-font",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atari-Binary-To-Code",
+          "description": "Over-engineered Linux utility to output binary data as text source for Atari 8-bit BASIC, 6502 Assembly, C, or text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-10-31T20:28:20Z",
+            "owner": "kenjennings",
+            "repo": "Atari-Binary-To-Code",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "again",
+          "description": "My custom DirectX/Assembly/Raster-font PC Intro engine (2005).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2015-09-03T01:06:08Z",
+            "owner": "samoylenko",
+            "repo": "again",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cracker",
+          "description": "Text, graphics and font ripper for the ZX Spectrum.",
+          "children": []
+        }
+      ],
+      "title": "Assembly"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "stb_truetype",
+          "description": "Parse, decode, and rasterize characters for TrueType fonts. Single header file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-02T06:42:09Z",
+            "owner": "nothings",
+            "repo": "stb",
+            "stars": 34397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sway",
+          "description": "This is a fork of https://github.com/swaywm/sway that replaces pango with https://codeberg.org/dnkl/fcft for font rendering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-31T11:47:08Z",
+            "owner": "swaywm",
+            "repo": "sway",
+            "stars": 17231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "freetype-gl",
+          "description": "OpenGL text using one vertex buffer, one texture and FreeType.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-20T07:32:29Z",
+            "owner": "rougier",
+            "repo": "freetype-gl",
+            "stars": 1744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slug",
+          "description": "Reference code for the Slug Algorithm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HLSL",
+            "last_commit": "2026-04-15T17:56:36Z",
+            "owner": "EricLengyel",
+            "repo": "Slug",
+            "stars": 1500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AFDKO",
+          "description": "Adobe Font Development Kit for OpenType. See AFDKO Overview.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PostScript",
+            "last_commit": "2026-07-10T21:03:24Z",
+            "owner": "adobe-type-tools",
+            "repo": "afdko",
+            "stars": 1174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "otfcc",
+          "description": "Parses & writes SFNT structures.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2022-06-03T19:18:27Z",
+            "owner": "caryll",
+            "repo": "otfcc",
+            "stars": 436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picasso",
+          "description": "High quality 2D vector graphic rendering library. It support path , matrix , gradient , pattern , image and truetype font.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-21T04:51:40Z",
+            "owner": "onecoolx",
+            "repo": "picasso",
+            "stars": 377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Raqm",
+          "description": "Library for complex text layout.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-23T10:13:31Z",
+            "owner": "HOST-Oman",
+            "repo": "libraqm",
+            "stars": 330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ttf2mesh",
+          "description": "Standalone library for TrueType font tessellation. Allows to load ttf-file and convert its glyphs to 2D or 3D mesh objects without rasterization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-06-26T01:30:21Z",
+            "owner": "fetisov",
+            "repo": "ttf2mesh",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SheenBidi",
+          "description": "World's most sophisticated implementation of latest unicode bidirectional algorithm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-01T14:41:21Z",
+            "owner": "Tehreer",
+            "repo": "SheenBidi",
+            "stars": 215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sluggish",
+          "description": "Toy CPU and GPU implementations of the Slug rendering algorithm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-17T20:30:14Z",
+            "owner": "mightycow",
+            "repo": "Sluggish",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sfntly",
+          "description": "A Library for Using, Editing, and Creating SFNT-based Fonts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-01-27T19:30:35Z",
+            "owner": "rillig",
+            "repo": "sfntly",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "slughorn",
+          "description": "Library for shoehorning the Slug text/graphics GPU rendering library into projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T21:04:11Z",
+            "owner": "AlphaPixel",
+            "repo": "slughorn",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hamza",
+          "description": "C Unicode/OpenType Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-03-13T19:44:50Z",
+            "owner": "saidwho12",
+            "repo": "hamza",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RREFont",
+          "description": "Fast RRE Font rendering library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-09-19T14:05:09Z",
+            "owner": "cbm80amiga",
+            "repo": "RREFont",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SheenFigure",
+          "description": "Implementation of advanced typographic tables of OpenType specification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-11-17T16:08:12Z",
+            "owner": "Tehreer",
+            "repo": "SheenFigure",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WOFF",
+          "description": "Conversion reference code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-02-24T17:06:59Z",
+            "owner": "samboy",
+            "repo": "WOFF",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ttf",
+          "description": "TrueType/OpenType Font Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-05T21:03:27Z",
+            "owner": "michaelrsweet",
+            "repo": "ttf",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "osgSlug",
+          "description": "Slug support for OpenSceneGraph via SlugHorn",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T18:01:58Z",
+            "owner": "AlphaPixel",
+            "repo": "osgSlug",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "craftmicro-fonts",
+          "description": "Pixel/bitmap font library for Craft Micro SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-08-16T22:10:33Z",
+            "owner": "craftmicro",
+            "repo": "craftmicro-fonts",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libint10h_fonts",
+          "description": "The int10h.org bitmap font collection as a library of C structs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-06-26T04:12:25Z",
+            "owner": "cellularmitosis",
+            "repo": "libint10h_fonts",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TeensieFont",
+          "description": "A tiny font library intended for use on Arduino and other similar platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-09-04T21:27:32Z",
+            "owner": "roundsToThree",
+            "repo": "TeensieFont",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "C"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WOFF2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-29T17:04:31Z",
+            "owner": "google",
+            "repo": "woff2",
+            "stars": 1814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FontView",
+          "description": "Demo app that displays fonts with a free/libre/open-source text rendering stack: FreeType, HarfBuzz and Raqm.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2021-03-01T21:50:00Z",
+            "owner": "googlefonts",
+            "repo": "fontview",
+            "stars": 336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "font to svg",
+          "description": "Render characters from font files into an SVG path.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-11-21T04:06:07Z",
+            "owner": "donbright",
+            "repo": "font_to_svg",
+            "stars": 268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Text rendering tests",
+          "description": "Test suite for text rendering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-06-30T12:11:37Z",
+            "owner": "unicode-org",
+            "repo": "text-rendering-tests",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LCDF Typetools",
+          "description": "Utilities for manipulating OpenType, PostScript Type 1, and Multiple Master fonts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-05-08T01:44:11Z",
+            "owner": "kohler",
+            "repo": "lcdf-typetools",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FTGLES",
+          "description": "TrueType font rendering library for OpenGL ES on iOS devices (iPad and iPhone).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-02-28T04:58:33Z",
+            "owner": "cdave1",
+            "repo": "ftgles",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ascii-art",
+          "description": "A C++ library to make everyday alphabets look much better on the terminal , this project uses OOPS concepts to make unique fonts and display letters on command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-01-29T11:04:20Z",
+            "owner": "codewithnick",
+            "repo": "ascii-art",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stb-truetype-opengl-examples",
+          "description": "Examples of TrueType font rendering in C++11 using stb_truetype library and OpenGL 3+.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-31T07:46:00Z",
+            "owner": "lexfn",
+            "repo": "demos",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trex",
+          "description": "Font rendering, atlas generation and text shaping library written in C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-07-27T10:26:32Z",
+            "owner": "KyrietS",
+            "repo": "trex",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "artery-font-format",
+          "description": "Artery Atlas Font format library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-06-30T15:33:24Z",
+            "owner": "Chlumsky",
+            "repo": "artery-font-format",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DigiFont",
+          "description": "Library for nice, scalable digit rendering using any Arduino GFX libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-09-09T05:02:37Z",
+            "owner": "cbm80amiga",
+            "repo": "DigiFont",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TTFPatch",
+          "description": "Mirror of TTFPATCH by Wolfram Esser, modified to support fonts conforming to newer OTF specifications, built for modern versions of Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2014-07-12T11:47:30Z",
+            "owner": "rmuch",
+            "repo": "ttfpatch",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vectorfontstorm",
+          "description": "C++ vector font rendering library for OpenGL 3D text rendering, by VoxelStorm Resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-10T14:26:53Z",
+            "owner": "VoxelStorm-Ltd",
+            "repo": "vectorfontstorm",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HarfBuzz",
+          "description": "OpenType text shaping engine.",
+          "children": []
+        }
+      ],
+      "title": "C++"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Typography",
+          "description": "C# Font Reader (TrueType / OpenType / OpenFont), Glyphs Layout and Rendering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-09-18T03:48:55Z",
+            "owner": "LayoutFarm",
+            "repo": "Typography",
+            "stars": 455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SixLabors.Fonts",
+          "description": "Font loading and drawing library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T23:23:35Z",
+            "owner": "SixLabors",
+            "repo": "Fonts",
+            "stars": 347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SharpFont",
+          "description": "Pure managed TTF / OTF reader and renderer.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2015-08-01T16:34:42Z",
+            "owner": "MikePopoloski",
+            "repo": "SharpFont",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NRasterizer",
+          "description": "Simple and clean TrueType font renderer written purely in c#.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-02-14T13:19:53Z",
+            "owner": "vidstige",
+            "repo": "NRasterizer",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "C#"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "font-kit",
+          "description": "A cross-platform font loading library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-21T18:45:35Z",
+            "owner": "servo",
+            "repo": "font-kit",
+            "stars": 835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "font-rs",
+          "description": "The fastest font renderer in the world.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2020-09-05T13:57:44Z",
+            "owner": "raphlinus",
+            "repo": "font-rs",
+            "stars": 774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RustType",
+          "description": "Pure Rust alternative to libraries like FreeType.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-02-07T21:58:54Z",
+            "owner": "redox-os",
+            "repo": "rusttype",
+            "stars": 639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pathfinder",
+          "description": "Fast, practical GPU rasterizer for OpenType fonts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-07-29T19:17:23Z",
+            "owner": "pcwalton",
+            "repo": "pathfinder",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "freetype-rs",
+          "description": "Rust bindings for FreeType library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-01-08T21:38:52Z",
+            "owner": "PistonDevelopers",
+            "repo": "freetype-rs",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Font toolbox",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-24T05:48:34Z",
+            "owner": "bodoni",
+            "repo": "font",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parser for OpenType fonts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-05-15T09:50:58Z",
+            "owner": "bodoni",
+            "repo": "opentype",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "freetype-sys",
+          "description": "Low level bindings for the FreeType font library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-12-14T19:01:37Z",
+            "owner": "PistonDevelopers",
+            "repo": "freetype-sys",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "truetype",
+          "description": "Library for reading fonts from the TrueType format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2016-01-27T15:57:44Z",
+            "owner": "PistonDevelopers",
+            "repo": "truetype",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parser for TrueType fonts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-05-15T09:49:56Z",
+            "owner": "bodoni",
+            "repo": "truetype",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parser for PostScript fonts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-05-15T09:50:42Z",
+            "owner": "bodoni",
+            "repo": "postscript",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Rust"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Web Font Loader",
+          "description": "Gives you added control when using linked fonts via @font-face.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-04T09:27:53Z",
+            "owner": "typekit",
+            "repo": "webfontloader",
+            "stars": 9254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fontello",
+          "description": "This tool lets you combine icon webfonts for your own project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-31T23:41:36Z",
+            "owner": "fontello",
+            "repo": "fontello",
+            "stars": 7082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fontmin",
+          "description": "Minify font seamlessly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-13T07:03:41Z",
+            "owner": "ecomfe",
+            "repo": "fontmin",
+            "stars": 6207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "font-spider",
+          "description": "Smart webfont compression and format conversion tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-30T18:18:29Z",
+            "owner": "aui",
+            "repo": "font-spider",
+            "stars": 5144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenType.js",
+          "description": "Read and write OpenType fonts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T03:59:23Z",
+            "owner": "opentypejs",
+            "repo": "opentype.js",
+            "stars": 5008
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Font Face Observer",
+          "description": "Font load events, simple, small and efficient fontfaceobserver.com.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-18T06:37:15Z",
+            "owner": "bramstein",
+            "repo": "fontfaceobserver",
+            "stars": 4335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Typeset.js",
+          "description": "HTML pre-processor for web typography (hanging punctuation, soft hyphen insertion, optical margin outdents, small-caps conversion and punctuation substitution).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-19T13:46:51Z",
+            "owner": "davidmerfield",
+            "repo": "Typeset",
+            "stars": 2679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Font Preview",
+          "description": "Adds a preview for fonts & glyphs on GitHub with OpenType.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-07T09:28:41Z",
+            "owner": "Mottie",
+            "repo": "GitHub-userscripts",
+            "stars": 2027
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Punycode.js",
+          "description": "Robust Punycode converter that fully complies to RFC 3492 and RFC 5891.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-18T16:14:56Z",
+            "owner": "mathiasbynens",
+            "repo": "punycode.js",
+            "stars": 1689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fontkit",
+          "description": "Advanced font engine for Node and the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-14T09:31:51Z",
+            "owner": "foliojs",
+            "repo": "fontkit",
+            "stars": 1667
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "subfont",
+          "description": "Command line tool to inject Google font subsets used glyphs into your page.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-21T20:54:02Z",
+            "owner": "Munter",
+            "repo": "subfont",
+            "stars": 1635
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-emoji",
+          "description": "😏 simple emoji support for Node.js projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-02-07T08:30:10Z",
+            "owner": "omnidan",
+            "repo": "node-emoji",
+            "stars": 1342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glyphhanger",
+          "description": "Your web font utility belt. It shows what unicode-ranges are used on a web site (optionally for a font-family or for each font-family). It can also subset web fonts.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-07-01T15:32:31Z",
+            "owner": "filamentgroup",
+            "repo": "glyphhanger",
+            "stars": 1123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Typeset",
+          "description": "TeX line breaking algorithm in JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-20T08:15:01Z",
+            "owner": "bramstein",
+            "repo": "typeset",
+            "stars": 1036
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Typr.js",
+          "description": "Process fonts in JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-28T18:36:56Z",
+            "owner": "photopea",
+            "repo": "Typr.js",
+            "stars": 1001
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grapheme-splitter",
+          "description": "JavaScipt library that breaks strings into their individual user-perceived characters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-02-12T00:21:57Z",
+            "owner": "orling",
+            "repo": "grapheme-splitter",
+            "stars": 985
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "localFont",
+          "description": "Implement localStorage web font caching in seconds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2016-02-19T12:46:25Z",
+            "owner": "jaicab",
+            "repo": "localFont",
+            "stars": 846
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fontplop",
+          "description": "Fast, Simple, & Free Open Source Webfont Converter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-09-22T08:32:09Z",
+            "owner": "matthewgonzalez",
+            "repo": "fontplop",
+            "stars": 789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyphenopoly.js",
+          "description": "JavaScript polyfill for client-side hyphenation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-30T22:05:06Z",
+            "owner": "mnater",
+            "repo": "Hyphenopoly",
+            "stars": 733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyphenator.js",
+          "description": "JavaScript that implements client-side hyphenation of HTML-Documents.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-08-23T19:30:17Z",
+            "owner": "mnater",
+            "repo": "Hyphenator",
+            "stars": 595
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plumin.js",
+          "description": "Create and manipulate fonts in the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-20T17:30:17Z",
+            "owner": "byte-foundry",
+            "repo": "plumin.js",
+            "stars": 591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hypher",
+          "description": "Fast and small JavaScript hyphenation engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-07-29T10:22:24Z",
+            "owner": "bramstein",
+            "repo": "hypher",
+            "stars": 583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brotli.js",
+          "description": "A JavaScript port of the Brotli compression algorithm, as used in WOFF2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-14T13:52:43Z",
+            "owner": "foliojs",
+            "repo": "brotli.js",
+            "stars": 537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fonteditor-core",
+          "description": "Read, write, transform fonts in JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-22T03:08:17Z",
+            "owner": "kekee000",
+            "repo": "fonteditor-core",
+            "stars": 385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ttf2woff",
+          "description": "Convert TTF to WOFF, for Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-11-23T10:48:31Z",
+            "owner": "fontello",
+            "repo": "ttf2woff",
+            "stars": 359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ttf2woff2",
+          "description": "Convert TTF files to WOFF2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-18T16:52:47Z",
+            "owner": "nfroidure",
+            "repo": "ttf2woff2",
+            "stars": 342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fontblast",
+          "description": "Give me an icon-font, and I'll create individual SVG/PNG files for all icons in it.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-05-07T11:51:27Z",
+            "owner": "eugene1g",
+            "repo": "font-blast",
+            "stars": 339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webfont",
+          "description": "Awesome generator of webfont, WOFF2, WOFF, EOT, TTF and SVG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T03:57:16Z",
+            "owner": "itgalaxy",
+            "repo": "webfont",
+            "stars": 308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-unicode-data",
+          "description": "JavaScript-compatible Unicode data generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-13T07:27:35Z",
+            "owner": "node-unicode",
+            "repo": "node-unicode-data",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "variableFont.js",
+          "description": "Handles variable fonts through OpenType.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-05-18T16:43:52Z",
+            "owner": "Monotype",
+            "repo": "variableFont.js",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ttf2eot",
+          "description": "Convert TTF to EOT for Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-04T18:16:58Z",
+            "owner": "fontello",
+            "repo": "ttf2eot",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fontwr",
+          "description": "Font manager for web projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-10-30T09:21:26Z",
+            "owner": "fontwr",
+            "repo": "fontwr",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenType",
+          "description": "Font parser in JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-05-16T12:17:07Z",
+            "owner": "bramstein",
+            "repo": "opentype",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "custom-fonts-in-emails",
+          "description": "Extremely easy way to use custom fonts in emails without having to use art software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-06-20T00:17:27Z",
+            "owner": "forwardemail",
+            "repo": "custom-fonts-in-emails",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opentype-layout",
+          "description": "Experimental word-wrapping and layout for OpenType.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-06-21T19:08:33Z",
+            "owner": "Experience-Monks",
+            "repo": "opentype-layout",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChromaCheck",
+          "description": "Feature test for color font support in browsers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-08T21:05:19Z",
+            "owner": "RoelN",
+            "repo": "ChromaCheck",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SVG font creator",
+          "description": "Create SVG font from separate images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-18T01:19:30Z",
+            "owner": "fontello",
+            "repo": "svg-font-create",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fontfacegen",
+          "description": "Browser font-face generator for creating browser usable fonts from TTF's or OTF's.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T23:26:38Z",
+            "owner": "dotcore64",
+            "repo": "fontfacegen",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unicode-properties",
+          "description": "Provides fast access to unicode character properties.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-08T21:51:57Z",
+            "owner": "foliojs",
+            "repo": "unicode-properties",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A-binary-parser-generator",
+          "description": "This project aims to create a tool that can turn a spec file into a parser skeleton for binary data files such as OpenType fonts, PNG images, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-19T23:34:10Z",
+            "owner": "Pomax",
+            "repo": "A-binary-parser-generator",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cubic2quad",
+          "description": "Approximates cubic bezier curves with quadratic ones.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-27T17:32:30Z",
+            "owner": "fontello",
+            "repo": "cubic2quad",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Type playground",
+          "description": "Playground for Open Type experiments with CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2016-04-11T13:50:54Z",
+            "owner": "magalhini",
+            "repo": "open-type-playground",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "otfcc-cubic2quad",
+          "description": "Losslessly turn CFF OTF to TTF using otfcc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-26T08:03:11Z",
+            "owner": "caryll",
+            "repo": "otfcc-cubic2quad",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NType",
+          "description": "4D Type Extruder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-06-03T15:40:40Z",
+            "owner": "kevinzweerink",
+            "repo": "ntype",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenType-SVG Workshop",
+          "description": "Web application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-11-18T03:59:44Z",
+            "owner": "rocallahan",
+            "repo": "svg-opentype-workshop",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "code-point-at",
+          "description": "ES2015 String#codePointAt() ponyfill.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-01-23T08:47:41Z",
+            "owner": "sindresorhus",
+            "repo": "code-point-at",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bdfparser-js",
+          "description": "BDF (Glyph Bitmap Distribution) format bitmap font file parser library in TypeScript (JavaScript).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-01-07T16:32:38Z",
+            "owner": "tomchen",
+            "repo": "bdfparser-js",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "canvas-text-opentypejs-shim",
+          "description": "Consistent text rendering for (backed by OpenType.js).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-17T19:14:33Z",
+            "owner": "shyiko",
+            "repo": "canvas-text-opentypejs-shim",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-sfnt",
+          "description": "SFNT parser and generator for Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-08-31T12:10:30Z",
+            "owner": "be5invis",
+            "repo": "node-sfnt",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google Fonts Infos",
+          "description": "Extract info out of the Google Fonts archive.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-01-14T11:05:46Z",
+            "owner": "thisarmy",
+            "repo": "fontsinfo",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "svgfont2svgicons",
+          "description": "Extract SVG icons from an SVG font.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-12T07:59:16Z",
+            "owner": "nfroidure",
+            "repo": "svgfont2svgicons",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "font-toolkit",
+          "description": "Font file manipulating in TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-06T19:52:24Z",
+            "owner": "hsiaosiyuan0",
+            "repo": "fonts",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minimal-font-generator",
+          "description": "Font's Hello world.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-24T00:44:11Z",
+            "owner": "Pomax",
+            "repo": "minimal-font-generator",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unicode-tr51-emoji",
+          "description": "Emoji data extracted from Unicode Technical Report #51 v1.0 – v5.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-05-04T19:22:55Z",
+            "owner": "cameronhunter",
+            "repo": "unicode-tr51-emoji",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caryll / shapeops",
+          "description": "Boolean operations and overlap removal for curves.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-01T13:40:15Z",
+            "owner": "caryll",
+            "repo": "shapeops",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-fonttools",
+          "description": "Native bindings to fonttools to decompile and compile fonts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-07-03T16:08:35Z",
+            "owner": "dfrankland",
+            "repo": "node-fonttools",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UCD",
+          "description": "Unicode Character Database for JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2013-04-27T08:07:09Z",
+            "owner": "ynakajima",
+            "repo": "ucd",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Character Set Inspector",
+          "description": "Unicode Character Database for JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-10-29T19:09:24Z",
+            "owner": "graphicore",
+            "repo": "charset-inspector",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unidata",
+          "description": "Unicode Character Database for JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-05-18T15:59:59Z",
+            "owner": "chbrown",
+            "repo": "unidata",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sfnt2woff",
+          "description": "Convert TTF or OTF to WOFF, support Node.js and Browsers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-08T13:32:04Z",
+            "owner": "laoshu133",
+            "repo": "sfnt2woff",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opentype-geometry",
+          "description": "Convert Text from OpenType font to three.js 3D.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-09-29T16:40:27Z",
+            "owner": "nascherman",
+            "repo": "opentype-geometry",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simple-cff-builder",
+          "description": "Simple CFF builder for testing fonts with different Type2 charstrings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-02-19T17:38:39Z",
+            "owner": "Pomax",
+            "repo": "simple-cff-builder",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CharacterMap",
+          "description": "Online Character Map / Glyph / Icon / Font Viewer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-11-17T08:34:50Z",
+            "owner": "bluejamesbond",
+            "repo": "CharacterMap",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ideohint",
+          "description": "Optimized hinter for Ideographs.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Typefont",
+          "description": "First open-source library that detects the font of a text in a image.",
+          "children": []
+        }
+      ],
+      "title": "JavaScript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fontTools",
+          "description": "Library for manipulating fonts, written in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:32:12Z",
+            "owner": "fonttools",
+            "repo": "fonttools",
+            "stars": 5203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fontmake",
+          "description": "Compile fonts from sources (UFO, Glyphs) to binary (OpenType, TrueType).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T23:08:20Z",
+            "owner": "googlefonts",
+            "repo": "fontmake",
+            "stars": 884
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Font Bakery",
+          "description": "Tools to prepare font families for inclusion in github.com/google/fonts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-04T18:52:25Z",
+            "owner": "fonttools",
+            "repo": "fontbakery",
+            "stars": 688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyftfeatfreeze",
+          "description": "With pyftfeatfreeze, you can “freeze” some OpenType features into a font.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-05T07:46:37Z",
+            "owner": "twardoch",
+            "repo": "fonttools-opentype-feature-freezer",
+            "stars": 483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monospacifier.py",
+          "description": "Convert variable-pitch fonts to monospace (useful for unicode and indentation-friendly programming).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-30T10:26:19Z",
+            "owner": "cpitclaudel",
+            "repo": "monospacifier",
+            "stars": 428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Noto Tools",
+          "description": "Noto fonts support tools and scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T16:25:19Z",
+            "owner": "notofonts",
+            "repo": "nototools",
+            "stars": 303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenType-SVG Tools",
+          "description": "Tools and sample files for making OpenType-SVG fonts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-14T18:21:01Z",
+            "owner": "adobe-type-tools",
+            "repo": "opentype-svg",
+            "stars": 231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Icon Font to PNG",
+          "description": "Python script (and library) for exporting icons from icon fonts (e.g. Font Awesome, Octicons) as PNG images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-28T14:14:18Z",
+            "owner": "Pythonity",
+            "repo": "icon-font-to-png",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "font-line",
+          "description": "OpenType vertical metrics reporting and font line spacing adjustment tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-11T00:57:14Z",
+            "owner": "source-foundry",
+            "repo": "font-line",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "boxDrawing.py",
+          "description": "Python script to draw all the box drawing characters and block elements based on parameters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-31T08:36:53Z",
+            "owner": "adobe-type-tools",
+            "repo": "box-drawing",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fontdiff",
+          "description": "Tool for finding visual differences between two font versions.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2021-03-01T21:49:00Z",
+            "owner": "googlefonts",
+            "repo": "fontdiff",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PageBot",
+          "description": "Scripted page layout program, as application inside Drawbot generating high quality typographic documents that support high quality fonts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-14T22:10:33Z",
+            "owner": "PageBot",
+            "repo": "PageBot",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyfontaine",
+          "description": "Python tool to check font files for language/character set support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-21T21:09:30Z",
+            "owner": "googlefonts",
+            "repo": "pyfontaine",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scfbuild",
+          "description": "Create OpenType-SVG color fonts from a set of SVG source files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-04T19:22:41Z",
+            "owner": "13rac1",
+            "repo": "scfbuild",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glyphNameFormatter",
+          "description": "Generate list of glyphnames from unicode names.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T10:06:10Z",
+            "owner": "LettError",
+            "repo": "glyphNameFormatter",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Huerta Tipográfica Letterspacer",
+          "description": "HT Letterspacer is a tool for spacing fonts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T19:05:04Z",
+            "owner": "huertatipografica",
+            "repo": "HTLetterspacer",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kernagic",
+          "description": "Semi-automatic font spacing tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-03-27T12:57:30Z",
+            "owner": "hodefoting",
+            "repo": "kernagic",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kern-dump",
+          "description": "Scripts for working with and analyzing kerning information (ATypI 2013).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-03T15:45:17Z",
+            "owner": "adobe-type-tools",
+            "repo": "kern-dump",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glyph Nanny",
+          "description": "Live report about potential drawing issues in your glyph.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-18T12:13:36Z",
+            "owner": "typesupply",
+            "repo": "glyph-nanny",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cu2qu",
+          "description": "Cubic-to-quadratic bezier curve conversion.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-12-09T12:10:28Z",
+            "owner": "googlefonts",
+            "repo": "cu2qu",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UFO Extractor",
+          "description": "Tools for extracting data from font binaries into UFO objects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-11T17:29:53Z",
+            "owner": "robotools",
+            "repo": "extractor",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FontReport",
+          "description": "Tool to create PDF files containing glyph images and information about a font.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-08-12T15:05:20Z",
+            "owner": "googlefonts",
+            "repo": "fontreport",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "woffTools",
+          "description": "Library for working with WOFF files.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-04-16T09:28:46Z",
+            "owner": "typesupply",
+            "repo": "woffTools",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bdfparser",
+          "description": "BDF (Glyph Bitmap Distribution) format bitmap font file parser library in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-07T16:31:13Z",
+            "owner": "tomchen",
+            "repo": "bdfparser",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Compositor",
+          "description": "Basic OpenType GSUB and GPOS layout engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-30T14:36:42Z",
+            "owner": "robotools",
+            "repo": "compositor",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "compreffor",
+          "description": "CFF table subroutinizer for FontTools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-02T09:51:27Z",
+            "owner": "googlefonts",
+            "repo": "compreffor",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "edf825/SVG-OpenType-Utils",
+          "description": "SVG in OpenType Utils (!Old: 2013).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2013-06-09T22:55:34Z",
+            "owner": "edf825",
+            "repo": "SVG-OpenType-Utils",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoboFab",
+          "description": "Library with objects that deal with data usually associated with fonts and type design.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "color-emoji",
+          "description": "Tool to build color fonts using Google color-font format (CBDT/CBLC).",
+          "children": []
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sfntly",
+          "description": "Library for Using, Editing, and Creating SFNT-based Fonts.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2022-08-03T10:19:55Z",
+            "owner": "googlefonts",
+            "repo": "sfntly",
+            "stars": 471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emoji-Tools",
+          "description": "Multiple useful tools to help Android and iOS/macOS developers with creating and modifying Emoji Font files.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-07-06T20:07:35Z",
+            "owner": "MitchTalmadge",
+            "repo": "Emoji-Tools",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tehreer-Android",
+          "description": "Library that gives full control over text related technologies such as bidirectional algorithm, open type shaping engine, text typesetting and text rendering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-06-17T19:30:10Z",
+            "owner": "Tehreer",
+            "repo": "Tehreer-Android",
+            "stars": 92
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "emoji-extractor",
+          "description": "Extracts high-resolution emoji pngs from Apple Color Emoji.ttf.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-01-26T23:22:23Z",
+            "owner": "tmm1",
+            "repo": "emoji-extractor",
+            "stars": 562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "font",
+          "description": "Command-line font manager.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2016-09-29T18:09:09Z",
+            "owner": "alyssais",
+            "repo": "font",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Ruby"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "freetype",
+          "description": "Font rasterizer in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-04-15T01:50:06Z",
+            "owner": "golang",
+            "repo": "freetype",
+            "stars": 819
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "font",
+          "description": "Parsing OpenType fonts in Golang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-02T16:14:08Z",
+            "owner": "ConradIrwin",
+            "repo": "font",
+            "stars": 77
+          }
+        }
+      ],
+      "title": "Go"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PHP Font Lib",
+          "description": "Library to read, parse, export and make subsets of different types of font files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-20T14:14:46Z",
+            "owner": "dompdf",
+            "repo": "php-font-lib",
+            "stars": 1801
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JoliTypo",
+          "description": "Microtypography fixer for the web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-04T12:02:34Z",
+            "owner": "jolicode",
+            "repo": "JoliTypo",
+            "stars": 349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP SmartyPants",
+          "description": "SmartyPants is a free web typography prettifyier tool for web writers. It easily translates plain ASCII punctuation characters into \"smart\" typographic punctuation HTML entities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-08-14T10:13:06Z",
+            "owner": "michelf",
+            "repo": "php-smartypants",
+            "stars": 112
+          }
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": "unifiedfontobject.org",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ufo-spec",
+          "description": "The official Unified Font Object specification source files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-05-21T20:43:01Z",
+            "owner": "unified-font-object",
+            "repo": "ufo-spec",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ufo2ft",
+          "description": "UFO to FontTools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T16:05:42Z",
+            "owner": "googlefonts",
+            "repo": "ufo2ft",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ufoJS",
+          "description": "JavaScript API for the Unified Font Object.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-05-19T23:47:24Z",
+            "owner": "graphicore",
+            "repo": "ufoJS",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ufoNormalizer",
+          "description": "Tool that will normalize the XML and other data inside of a UFO.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-03T23:06:23Z",
+            "owner": "unified-font-object",
+            "repo": "ufoNormalizer",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ufoLib",
+          "description": "Low-level UFO reader and writer.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-01-21T19:33:17Z",
+            "owner": "unified-font-object",
+            "repo": "ufoLib",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "UFO"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools with GUI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FontForge",
+          "description": "Free (libre) font editor for Windows, macOS and GNU+Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T19:47:54Z",
+            "owner": "fontforge",
+            "repo": "fontforge",
+            "stars": 7893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fonteditor",
+          "description": "Web-based TTF font editor, live at fontstore.baidu.com.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-15T07:19:10Z",
+            "owner": "ecomfe",
+            "repo": "fonteditor",
+            "stars": 1493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Birdfont",
+          "description": "Font editor which can generate fonts in TTF, EOT, SVG and BF format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2025-11-23T19:49:15Z",
+            "owner": "johanmattssonm",
+            "repo": "birdfont",
+            "stars": 550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TruFont",
+          "description": "UFO3 font editor. À l’ancienne.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-02T16:43:50Z",
+            "owner": "trufont",
+            "repo": "trufont",
+            "stars": 504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenType-SVG-Font-Editor",
+          "description": "OpenType-SVG font editor.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2018-10-17T19:38:40Z",
+            "owner": "microsoft",
+            "repo": "OpenType-SVG-Font-Editor",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SdfFontDesigner",
+          "description": "A generator of bitmap font, based on ttf & otf, rendered with custom shaders in glsl.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "GLSL",
+            "last_commit": "2025-06-29T22:59:46Z",
+            "owner": "aiekick",
+            "repo": "SdfFontDesigner",
+            "stars": 79
+          }
+        }
+      ],
+      "title": "Free"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenType Sanitiser",
+          "description": "The OpenType Sanitiser (OTS) parses and serialises OpenType files (OTF, TTF) and WOFF and WOFF2 font files, validating them and sanitising them as it goes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-04T00:28:23Z",
+            "owner": "khaledhosny",
+            "repo": "ots",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Font Validator",
+          "description": "Tool for testing fonts prior to release. See Install post for Mac.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-06-13T17:37:46Z",
+            "owner": "HinTak",
+            "repo": "Font-Validator",
+            "stars": 160
+          }
+        }
+      ],
+      "title": "Font Validator"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Twitter Emoji (Twemoji)",
+          "description": "The Twemoji library offers support for +2k emojis, including skin tone and gender modifiers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-07T21:41:18Z",
+            "owner": "twitter",
+            "repo": "twemoji",
+            "stars": 17726
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EmojiOne",
+          "description": "EmojiOne™ is the open emoji standard.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2019-07-22T23:23:07Z",
+            "owner": "joypixels",
+            "repo": "emojione",
+            "stars": 4430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Font-Awesome-SVG-PNG",
+          "description": "Font Awesome split to individual SVG and PNG files of different sizes along with Node.js based generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-21T00:44:51Z",
+            "owner": "Rush",
+            "repo": "Font-Awesome-SVG-PNG",
+            "stars": 3228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emoj",
+          "description": "Find relevant emoji from text on the command-line 😮 ✨ 🙌 🐴 💥 🙈.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-13T08:33:59Z",
+            "owner": "sindresorhus",
+            "repo": "emoj",
+            "stars": 2430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "designwithfontforge.com",
+          "description": "Book about how to design new typefaces with FontForge. See designwithfontforge.com.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-16T20:17:55Z",
+            "owner": "fontforge",
+            "repo": "designwithfontforge.com",
+            "stars": 1038
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSS Utility OpenType",
+          "description": "Simple, CSS utility classes for advanced typographic features. See it here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-04-28T17:21:25Z",
+            "owner": "kennethormandy",
+            "repo": "utility-opentype",
+            "stars": 500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "homebrew-webfonttools",
+          "description": "Homebrew formulae for font tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2021-08-18T17:15:37Z",
+            "owner": "bramstein",
+            "repo": "homebrew-webfonttools",
+            "stars": 363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FontTesting Page",
+          "description": "Webpage for testing typefaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-09-10T17:19:40Z",
+            "owner": "impallari",
+            "repo": "Font-Testing-Page",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "I Can Variable Font",
+          "description": "Tips for making variable fonts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-01-18T17:44:50Z",
+            "owner": "scribbletone",
+            "repo": "i-can-variable-font",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Font Falsehoods",
+          "description": "Falsehoods programmers believe about fonts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-01-23T13:37:45Z",
+            "owner": "RoelN",
+            "repo": "Font-Falsehoods",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AGL & AGLFN",
+          "description": "AGL / AGLFN (Adobe Glyph List / For New Fonts) simply provides mappings from glyph names to Unicode scalar values. See specification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-10-31T23:06:26Z",
+            "owner": "adobe-type-tools",
+            "repo": "agl-aglfn",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ofont",
+          "description": "Web interface for font collections (used by usemodify.com)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2016-04-21T09:56:52Z",
+            "owner": "raphaelbastide",
+            "repo": "ofont",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git for Type Designers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-01-21T00:52:05Z",
+            "owner": "frankrolf",
+            "repo": "git-for-type-designers",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unicodes",
+          "description": "Browse all of the unicodes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-17T01:28:59Z",
+            "owner": "jessetane",
+            "repo": "unicodes",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The State of Web Type",
+          "description": "\"Can I Use\" for typography.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-18T15:37:30Z",
+            "owner": "bramstein",
+            "repo": "stateofwebtype",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Type Facet",
+          "description": "Collection of Python scripts for working with fonts. See TypeFacet Autokern",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2012-10-21T19:42:48Z",
+            "owner": "charlesmchen",
+            "repo": "typefacet",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kernall",
+          "description": "Kerning and letterspacing research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-04-25T22:31:36Z",
+            "owner": "n8willis",
+            "repo": "kernall",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenType Feature Bundle",
+          "description": "Syntax highlighting and snippets for OpenType feature development in TextMate/Sublime Text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-03-22T16:30:19Z",
+            "owner": "brew",
+            "repo": "opentype-feature-bundle",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crypto Puzzles",
+          "description": "Functions for encryption and stegonagraphy as puzzles or brain teasers. Online demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-11T09:45:57Z",
+            "owner": "ruppde",
+            "repo": "crypto_puzzles",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alfred Special Characters",
+          "description": "Typefacts Special Characters Workflow for Alfred 3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-18T16:12:07Z",
+            "owner": "typefacts",
+            "repo": "alfred-special-characters",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenType feature reference",
+          "description": "Documentation and other info about advanced font features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2015-07-17T23:06:25Z",
+            "owner": "opensource-opentype",
+            "repo": "features",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenType_Table_Source",
+          "description": "Documentation for Monotype's OpenType Layout Source File Format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-02-22T16:26:08Z",
+            "owner": "Monotype",
+            "repo": "OpenType_Table_Source",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jenskutilek/TypoLabs2016",
+          "description": "Code examples from Jens Kutilek's TypoLabs workshop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-12T08:54:58Z",
+            "owner": "jenskutilek",
+            "repo": "TypoLabs2016",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Type Tools dotfiles",
+          "description": "Setup for type tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-09-03T15:12:25Z",
+            "owner": "benkiel",
+            "repo": "dotfiles",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Iosevka",
+          "description": "Slender typeface for code, from code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:23:28Z",
+            "owner": "be5invis",
+            "repo": "Iosevka",
+            "stars": 22617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Source Han Sans",
+          "description": "Set of OpenType/CFF Pan-CJK fonts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-25T03:30:03Z",
+            "owner": "adobe-fonts",
+            "repo": "source-han-sans",
+            "stars": 17057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Source Han Serif",
+          "description": "Set of OpenType/CFF Pan-CJK fonts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-07-30T18:57:27Z",
+            "owner": "adobe-fonts",
+            "repo": "source-han-serif",
+            "stars": 9613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hasklig",
+          "description": "Code font with monospaced ligatures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-19T01:25:54Z",
+            "owner": "i-tu",
+            "repo": "Hasklig",
+            "stars": 5721
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Noto Emoji",
+          "description": "Color and Black-and-White Noto emoji fonts, and tools for working with them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-15T22:36:48Z",
+            "owner": "googlefonts",
+            "repo": "noto-emoji",
+            "stars": 4879
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Noto Fonts",
+          "description": "Noto’s goal is to provide a beautiful reading experience for all languages.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-01-25T13:40:16Z",
+            "owner": "notofonts",
+            "repo": "noto-fonts",
+            "stars": 2504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Overpass",
+          "description": "Open source font family inspired by Highway Gothic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2023-07-20T19:49:53Z",
+            "owner": "RedHatOfficial",
+            "repo": "Overpass",
+            "stars": 2097
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twitter Color Emoji Font",
+          "description": "Color emoji OpenType-SVG font using Twitter Unicode 9.0 emoji with diversity and country flags.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-06-25T23:04:22Z",
+            "owner": "13rac1",
+            "repo": "twemoji-color-font",
+            "stars": 1917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EmojiOne OpenType-SVG",
+          "description": "Color emoji OpenType-SVG font using EmojiOne Unicode 9.0 emoji with diversity and country flags.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Makefile",
+            "last_commit": "2018-03-12T05:34:57Z",
+            "owner": "13rac1",
+            "repo": "emojione-color-font",
+            "stars": 904
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FiraSystemFontReplacement",
+          "description": "Modified version of the Fira Sans fonts to replace the default system font on macOS 10.10 and 10.11.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-05-31T13:52:59Z",
+            "owner": "jenskutilek",
+            "repo": "FiraSystemFontReplacement",
+            "stars": 746
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Raleway",
+          "description": "Elegant sans-serif, designed in a single thin weight.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-07-27T10:56:36Z",
+            "owner": "theleagueof",
+            "repo": "raleway",
+            "stars": 627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wavefont",
+          "description": "Typeface for rendering data: waveforms, spectrums, diagrams, bars etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-28T03:04:10Z",
+            "owner": "dy",
+            "repo": "wavefont",
+            "stars": 466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EmojiOne COLR/CPAL",
+          "description": "EmojiOne font in COLR/CPAL layered format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-28T14:16:37Z",
+            "owner": "mozilla",
+            "repo": "twemoji-colr",
+            "stars": 393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bungee",
+          "description": "Chromatic signage typeface for vertical and horizontal setting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-01T15:17:57Z",
+            "owner": "djrrb",
+            "repo": "Bungee",
+            "stars": 375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firefox OS Emojis",
+          "description": "Emoji set from Mozilla available as SVGs and TTF font.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-10T12:27:52Z",
+            "owner": "mozilla",
+            "repo": "fxemoji",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SansBullshitSans Font",
+          "description": "Every buzzword will be replaced by a Comic Sans-styled censorship bar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-05-08T21:22:09Z",
+            "owner": "RoelN",
+            "repo": "SansBullshitSans",
+            "stars": 321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adobe Blank",
+          "description": "Maps 1,111,998 Unicode code points to 2,048 non-spacing and non-marking glyphs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PostScript",
+            "last_commit": "2019-12-03T17:28:23Z",
+            "owner": "adobe-fonts",
+            "repo": "adobe-blank",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adobe Variable Font Prototype",
+          "description": "Variable font example in OpenType-CFF2 & TrueType formats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-09T15:32:38Z",
+            "owner": "adobe-fonts",
+            "repo": "adobe-variable-font-prototype",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft open source fonts",
+          "description": "Central location to share Microsoft's open source fonts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-11-28T19:14:04Z",
+            "owner": "microsoft",
+            "repo": "fonts",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Gilbert Font",
+          "description": "OpenType-SVG font named after Gilbert Baker, the creator of the rainbow flag.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-05-28T13:26:02Z",
+            "owner": "Fontself",
+            "repo": "TypeWithPride",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adobe NotDef",
+          "description": "Maps 1,111,998 Unicode code points to 2,048 .notdef glyphs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PostScript",
+            "last_commit": "2019-12-03T17:18:24Z",
+            "owner": "adobe-fonts",
+            "repo": "adobe-notdef",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adobe Fonts / Source Emoji",
+          "description": "Source Emoji is an emoji font project that began development in order to provide monochrome representative glyphs to the Unicode Consortium for emoji candidates that have been accepted by the UTC (Unicode Technical Committee) but have not yet been fully ratified to become a part of the official standard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-10-28T13:39:47Z",
+            "owner": "adobe-fonts",
+            "repo": "source-emoji",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adobe Blank 2",
+          "description": "Based on Adobe Blank, and differs mainly in that the number of glyphs has been reduced to only two, thanks to the Format 13 'cmap' subtable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PostScript",
+            "last_commit": "2022-07-22T07:16:02Z",
+            "owner": "adobe-fonts",
+            "repo": "adobe-blank-2",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BuffaloGals",
+          "description": "Buffalo Gals is one of the very first “Variable Fonts”, originally made in 1992 for an Apple TrueType GX developer CD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-04-19T18:21:08Z",
+            "owner": "TrueTyper",
+            "repo": "BuffaloGals",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Compyx",
+          "description": "8-bit Multicolor OpenType font.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2018-03-17T13:29:21Z",
+            "owner": "RoelN",
+            "repo": "Compyx",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nanofont",
+          "description": "Nano font for testing font format support (TrueType, WOFF, WOFF2).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2015-02-02T06:38:16Z",
+            "owner": "bramstein",
+            "repo": "nanofont",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LapisLegit",
+          "description": "OpenType-SVG testfont.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-10-14T06:41:27Z",
+            "owner": "RoelN",
+            "repo": "LapisLegit",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AIFont",
+          "description": "The fist Chinese font that generated artificial intelligent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-04-01T14:47:13Z",
+            "owner": "Denly",
+            "repo": "AIFont",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multicoloure",
+          "description": "OpenType-SVG color font based on Multicolore Vector Typeface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2016-06-07T22:58:23Z",
+            "owner": "xerographer",
+            "repo": "multicoloure-font",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reinebow",
+          "description": "OpenType-SVG color font.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2016-06-06T01:36:52Z",
+            "owner": "xerographer",
+            "repo": "reinebow-color-font",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TestFont",
+          "description": "Font family for testing OpenType implementations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-05-30T18:10:08Z",
+            "owner": "OpenType",
+            "repo": "TestFont",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blackout",
+          "description": "One font to blackout them all.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2017-04-10T09:07:33Z",
+            "owner": "RoelN",
+            "repo": "Blackout",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Freizer",
+          "description": "OpenType-SVG color font.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2016-06-07T23:07:00Z",
+            "owner": "xerographer",
+            "repo": "freizer-color-font",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "null-ttf",
+          "description": "This font is null. It's the smallest possible TrueType binary still valid on macOS and with most of its bytes wiped out.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2016-02-27T19:38:39Z",
+            "owner": "grzegorzrolek",
+            "repo": "null-ttf",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CFF opcode test fonts",
+          "description": "OTF fonts for testing CFF opcode support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-03-11T18:03:01Z",
+            "owner": "Pomax",
+            "repo": "cff-opcode-fonts",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Width Test",
+          "description": "For testing width-related GSUB features, specifically 'fwid' (Full Widths), 'hwid' (Half Widths), 'twid' (Third Widths), and 'qwid' (Quarter Widths).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PostScript",
+            "last_commit": "2019-12-03T17:27:47Z",
+            "owner": "adobe-fonts",
+            "repo": "width-test",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fontwr-fonts",
+          "description": "Fonts repository for fontwr.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureBasic",
+            "last_commit": "2016-10-13T18:34:10Z",
+            "owner": "raphaklaus",
+            "repo": "fontwr-fonts",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monotype Variable Font Demo",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Fonts"
+    },
+    {
+      "description": "➡️Pull request! (Or open an issue here).",
+      "items": [],
+      "title": "Contribute"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T05:49:00.096Z",
+    "original_repository": "Jolg42/awesome-typography",
+    "original_repository_sha": "a730d37ca502660ac4c897ec7a55d8614f129e6e",
+    "enhanced_repository": "enhansome/enhansome-typography",
+    "enhanced_repository_description": null,
+    "title": "Awesome Typography with stars"
+  }
+}
