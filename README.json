@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8058449,
             "language": null,
             "last_commit": "2020-02-05T20:51:40Z",
             "owner": "rewtnull",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292351105,
             "language": "Assembly",
             "last_commit": "2024-09-07T08:29:06Z",
             "owner": "viler-int10h",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 152318448,
             "language": null,
             "last_commit": "2025-09-23T11:28:47Z",
             "owner": "ISSOtm",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91961899,
             "language": null,
             "last_commit": "2017-05-22T16:49:07Z",
             "owner": "echolevel",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 567812664,
             "language": "Assembly",
             "last_commit": "2022-11-18T16:54:10Z",
             "owner": "viler-int10h",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137016360,
             "language": "Assembly",
             "last_commit": "2018-06-12T05:00:49Z",
             "owner": "mchlmmc",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101322891,
             "language": "C",
             "last_commit": "2017-08-26T17:44:36Z",
             "owner": "kenjennings",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 772142523,
             "language": "Assembly",
             "last_commit": "2024-03-22T00:44:17Z",
             "owner": "ArTicZera",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 437387994,
             "language": "Assembly",
             "last_commit": "2026-08-16T02:00:37Z",
             "owner": "hexagonix",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185026288,
             "language": "Assembly",
             "last_commit": "2019-06-22T18:53:06Z",
             "owner": "imnr",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101505174,
             "language": "C",
             "last_commit": "2017-10-31T20:28:20Z",
             "owner": "kenjennings",
@@ -164,24 +175,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 41826734,
             "language": "C++",
             "last_commit": "2015-09-03T01:06:08Z",
             "owner": "samoylenko",
             "repo": "again",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "cracker",
-          "description": "Text, graphics and font ripper for the ZX Spectrum.",
-          "children": []
         }
       ],
       "title": "Assembly"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -190,11 +196,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20159867,
             "language": "C",
             "last_commit": "2026-08-02T06:42:09Z",
             "owner": "nothings",
             "repo": "stb",
-            "stars": 34437
+            "stars": 34439
           }
         },
         {
@@ -204,11 +211,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40217904,
             "language": "C",
             "last_commit": "2026-07-31T11:47:08Z",
             "owner": "swaywm",
             "repo": "sway",
-            "stars": 17249
+            "stars": 17251
           }
         },
         {
@@ -218,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13210710,
             "language": "C",
             "last_commit": "2026-07-20T07:32:29Z",
             "owner": "rougier",
@@ -232,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1180463457,
             "language": "HLSL",
             "last_commit": "2026-04-15T17:56:36Z",
             "owner": "EricLengyel",
@@ -246,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24213271,
             "language": "PostScript",
             "last_commit": "2026-07-10T21:03:24Z",
             "owner": "adobe-type-tools",
@@ -260,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 50915190,
             "language": "C",
             "last_commit": "2022-06-03T19:18:27Z",
             "owner": "caryll",
@@ -274,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2441631,
             "language": "C++",
             "last_commit": "2026-07-21T04:51:40Z",
             "owner": "onecoolx",
@@ -288,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47186392,
             "language": "C",
             "last_commit": "2026-07-23T10:13:31Z",
             "owner": "HOST-Oman",
@@ -302,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 262707673,
             "language": "C++",
             "last_commit": "2024-06-26T01:30:21Z",
             "owner": "fetisov",
@@ -316,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26597967,
             "language": "C",
             "last_commit": "2026-08-01T14:41:21Z",
             "owner": "Tehreer",
@@ -330,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180254073,
             "language": "C",
             "last_commit": "2026-03-17T20:30:14Z",
             "owner": "mightycow",
@@ -344,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93274384,
             "language": "Java",
             "last_commit": "2022-01-27T19:30:35Z",
             "owner": "rillig",
@@ -358,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1204143287,
             "language": "C++",
             "last_commit": "2026-08-17T18:14:40Z",
             "owner": "AlphaPixel",
@@ -372,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 330111516,
             "language": "C",
             "last_commit": "2025-03-13T19:44:50Z",
             "owner": "saidwho12",
@@ -386,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 209941497,
             "language": "C",
             "last_commit": "2024-09-19T14:05:09Z",
             "owner": "cbm80amiga",
@@ -400,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68462530,
             "language": "C",
             "last_commit": "2023-11-17T16:08:12Z",
             "owner": "Tehreer",
@@ -414,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58320426,
             "language": "C",
             "last_commit": "2019-02-24T17:06:59Z",
             "owner": "samboy",
@@ -428,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 376178347,
             "language": "C",
             "last_commit": "2026-08-05T21:03:27Z",
             "owner": "michaelrsweet",
@@ -442,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1212727734,
             "language": "C++",
             "last_commit": "2026-08-17T18:13:55Z",
             "owner": "AlphaPixel",
@@ -456,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 500045076,
             "language": "C",
             "last_commit": "2024-08-16T22:10:33Z",
             "owner": "craftmicro",
@@ -470,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 820219138,
             "language": "C",
             "last_commit": "2024-06-26T04:12:25Z",
             "owner": "cellularmitosis",
@@ -484,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 852443556,
             "language": "C",
             "last_commit": "2024-09-04T21:27:32Z",
             "owner": "roundsToThree",
@@ -495,7 +523,7 @@
       "title": "C"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -504,6 +532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24993103,
             "language": "C++",
             "last_commit": "2026-06-29T17:04:31Z",
             "owner": "google",
@@ -518,6 +547,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 64843460,
             "language": "C++",
             "last_commit": "2021-03-01T21:50:00Z",
             "owner": "googlefonts",
@@ -532,6 +562,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12229806,
             "language": "C++",
             "last_commit": "2022-11-21T04:06:07Z",
             "owner": "donbright",
@@ -546,6 +577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69223520,
             "language": "HTML",
             "last_commit": "2025-06-30T12:11:37Z",
             "owner": "unicode-org",
@@ -560,6 +592,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10141544,
             "language": "C++",
             "last_commit": "2025-05-08T01:44:11Z",
             "owner": "kohler",
@@ -574,6 +607,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 586267,
             "language": "C++",
             "last_commit": "2018-02-28T04:58:33Z",
             "owner": "cdave1",
@@ -588,6 +622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 692868019,
             "language": "C++",
             "last_commit": "2025-01-29T11:04:20Z",
             "owner": "codewithnick",
@@ -602,6 +637,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57956684,
             "language": "C++",
             "last_commit": "2026-03-31T07:46:00Z",
             "owner": "lexfn",
@@ -616,6 +652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 649351270,
             "language": "C++",
             "last_commit": "2025-07-27T10:26:32Z",
             "owner": "KyrietS",
@@ -630,6 +667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 245604314,
             "language": "C++",
             "last_commit": "2024-06-30T15:33:24Z",
             "owner": "Chlumsky",
@@ -644,6 +682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 281349310,
             "language": "C++",
             "last_commit": "2024-09-09T05:02:37Z",
             "owner": "cbm80amiga",
@@ -658,6 +697,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17179384,
             "language": "C++",
             "last_commit": "2014-07-12T11:47:30Z",
             "owner": "rmuch",
@@ -672,24 +712,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 648393112,
             "language": "C++",
             "last_commit": "2026-04-10T14:26:53Z",
             "owner": "VoxelStorm-Ltd",
             "repo": "vectorfontstorm",
             "stars": 2
           }
-        },
-        {
-          "node_type": "item",
-          "title": "HarfBuzz",
-          "description": "OpenType text shaping engine.",
-          "children": []
         }
       ],
       "title": "C++"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -698,6 +733,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70345567,
             "language": "C#",
             "last_commit": "2023-09-18T03:48:55Z",
             "owner": "LayoutFarm",
@@ -712,6 +748,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80911587,
             "language": "C#",
             "last_commit": "2026-08-11T23:23:35Z",
             "owner": "SixLabors",
@@ -726,6 +763,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 37292117,
             "language": "C#",
             "last_commit": "2015-08-01T16:34:42Z",
             "owner": "MikePopoloski",
@@ -740,6 +778,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24535646,
             "language": "C#",
             "last_commit": "2018-02-14T13:19:53Z",
             "owner": "vidstige",
@@ -751,7 +790,7 @@
       "title": "C#"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -760,6 +799,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137397940,
             "language": "Rust",
             "last_commit": "2026-02-21T18:45:35Z",
             "owner": "servo",
@@ -774,6 +814,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40313708,
             "language": "Rust",
             "last_commit": "2020-09-05T13:57:44Z",
             "owner": "raphlinus",
@@ -788,6 +829,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51160541,
             "language": "Rust",
             "last_commit": "2024-02-07T21:58:54Z",
             "owner": "redox-os",
@@ -802,6 +844,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 233935414,
             "language": null,
             "last_commit": "2020-07-29T19:17:23Z",
             "owner": "pcwalton",
@@ -816,6 +859,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20849255,
             "language": "Rust",
             "last_commit": "2025-01-08T21:38:52Z",
             "owner": "PistonDevelopers",
@@ -830,6 +874,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40658112,
             "language": "Rust",
             "last_commit": "2026-05-24T05:48:34Z",
             "owner": "bodoni",
@@ -844,6 +889,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22879790,
             "language": "Rust",
             "last_commit": "2025-05-15T09:50:58Z",
             "owner": "bodoni",
@@ -858,6 +904,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27889503,
             "language": "C",
             "last_commit": "2025-12-14T19:01:37Z",
             "owner": "PistonDevelopers",
@@ -872,6 +919,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37657330,
             "language": "Rust",
             "last_commit": "2016-01-27T15:57:44Z",
             "owner": "PistonDevelopers",
@@ -886,6 +934,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40772418,
             "language": "Rust",
             "last_commit": "2025-05-15T09:49:56Z",
             "owner": "bodoni",
@@ -900,6 +949,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40659333,
             "language": "Rust",
             "last_commit": "2025-05-15T09:50:42Z",
             "owner": "bodoni",
@@ -911,7 +961,7 @@
       "title": "Rust"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -920,6 +970,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 620636,
             "language": "JavaScript",
             "last_commit": "2024-01-04T09:27:53Z",
             "owner": "typekit",
@@ -934,6 +985,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3411652,
             "language": "JavaScript",
             "last_commit": "2022-12-31T23:41:36Z",
             "owner": "fontello",
@@ -948,6 +1000,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32005403,
             "language": "JavaScript",
             "last_commit": "2025-08-13T07:03:41Z",
             "owner": "ecomfe",
@@ -962,6 +1015,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27417231,
             "language": "JavaScript",
             "last_commit": "2022-12-30T18:18:29Z",
             "owner": "aui",
@@ -976,6 +1030,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13150056,
             "language": "JavaScript",
             "last_commit": "2026-08-08T03:59:23Z",
             "owner": "opentypejs",
@@ -990,11 +1045,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27209132,
             "language": "JavaScript",
             "last_commit": "2025-02-18T06:37:15Z",
             "owner": "bramstein",
             "repo": "fontfaceobserver",
-            "stars": 4334
+            "stars": 4335
           }
         },
         {
@@ -1004,6 +1060,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31377223,
             "language": "JavaScript",
             "last_commit": "2025-04-19T13:46:51Z",
             "owner": "davidmerfield",
@@ -1018,6 +1075,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54686416,
             "language": "JavaScript",
             "last_commit": "2024-07-07T09:28:41Z",
             "owner": "Mottie",
@@ -1032,6 +1090,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2755924,
             "language": "JavaScript",
             "last_commit": "2024-04-18T16:14:56Z",
             "owner": "mathiasbynens",
@@ -1046,11 +1105,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27195805,
             "language": "JavaScript",
             "last_commit": "2024-08-14T09:31:51Z",
             "owner": "foliojs",
             "repo": "fontkit",
-            "stars": 1667
+            "stars": 1668
           }
         },
         {
@@ -1060,6 +1120,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89880181,
             "language": "JavaScript",
             "last_commit": "2026-03-21T20:54:02Z",
             "owner": "Munter",
@@ -1074,11 +1135,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22914463,
             "language": "TypeScript",
             "last_commit": "2025-02-07T08:30:10Z",
             "owner": "omnidan",
             "repo": "node-emoji",
-            "stars": 1342
+            "stars": 1341
           }
         },
         {
@@ -1088,6 +1150,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 78232679,
             "language": "JavaScript",
             "last_commit": "2021-07-01T15:32:31Z",
             "owner": "filamentgroup",
@@ -1102,6 +1165,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2819010,
             "language": "JavaScript",
             "last_commit": "2026-06-20T08:15:01Z",
             "owner": "bramstein",
@@ -1116,6 +1180,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64840597,
             "language": "JavaScript",
             "last_commit": "2025-08-28T18:36:56Z",
             "owner": "photopea",
@@ -1130,6 +1195,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38490836,
             "language": "JavaScript",
             "last_commit": "2021-02-12T00:21:57Z",
             "owner": "orling",
@@ -1144,6 +1210,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31560925,
             "language": "CSS",
             "last_commit": "2016-02-19T12:46:25Z",
             "owner": "jaicab",
@@ -1158,6 +1225,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105387264,
             "language": "TypeScript",
             "last_commit": "2021-09-22T08:32:09Z",
             "owner": "matthewgonzalez",
@@ -1172,6 +1240,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56270491,
             "language": "TypeScript",
             "last_commit": "2026-04-30T22:05:06Z",
             "owner": "mnater",
@@ -1186,6 +1255,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 32354377,
             "language": "JavaScript",
             "last_commit": "2021-08-23T19:30:17Z",
             "owner": "mnater",
@@ -1200,6 +1270,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26365312,
             "language": "JavaScript",
             "last_commit": "2018-04-20T17:30:17Z",
             "owner": "byte-foundry",
@@ -1214,6 +1285,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1422905,
             "language": "JavaScript",
             "last_commit": "2018-07-29T10:22:24Z",
             "owner": "bramstein",
@@ -1228,6 +1300,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24569923,
             "language": "JavaScript",
             "last_commit": "2024-05-14T13:52:43Z",
             "owner": "foliojs",
@@ -1242,6 +1315,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39325180,
             "language": "JavaScript",
             "last_commit": "2026-06-22T03:08:17Z",
             "owner": "kekee000",
@@ -1256,6 +1330,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9583955,
             "language": "JavaScript",
             "last_commit": "2022-11-23T10:48:31Z",
             "owner": "fontello",
@@ -1270,6 +1345,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37739977,
             "language": "C",
             "last_commit": "2026-05-18T16:52:47Z",
             "owner": "nfroidure",
@@ -1284,6 +1360,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25019706,
             "language": "JavaScript",
             "last_commit": "2019-05-07T11:51:27Z",
             "owner": "eugene1g",
@@ -1298,6 +1375,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62899474,
             "language": "TypeScript",
             "last_commit": "2026-08-17T03:03:11Z",
             "owner": "itgalaxy",
@@ -1312,6 +1390,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12359425,
             "language": "JavaScript",
             "last_commit": "2026-06-13T07:27:35Z",
             "owner": "node-unicode",
@@ -1326,6 +1405,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100596172,
             "language": "JavaScript",
             "last_commit": "2021-05-18T16:43:52Z",
             "owner": "Monotype",
@@ -1340,6 +1420,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9212638,
             "language": "JavaScript",
             "last_commit": "2022-02-04T18:16:58Z",
             "owner": "fontello",
@@ -1354,6 +1435,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48853983,
             "language": null,
             "last_commit": "2020-10-30T09:21:26Z",
             "owner": "fontwr",
@@ -1368,6 +1450,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 12616661,
             "language": "JavaScript",
             "last_commit": "2022-05-16T12:17:07Z",
             "owner": "bramstein",
@@ -1382,6 +1465,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72239709,
             "language": "JavaScript",
             "last_commit": "2023-06-20T00:17:27Z",
             "owner": "forwardemail",
@@ -1396,6 +1480,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61648316,
             "language": "JavaScript",
             "last_commit": "2016-06-21T19:08:33Z",
             "owner": "Experience-Monks",
@@ -1410,6 +1495,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48710310,
             "language": "JavaScript",
             "last_commit": "2023-07-08T21:05:19Z",
             "owner": "RoelN",
@@ -1424,6 +1510,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9805224,
             "language": "JavaScript",
             "last_commit": "2018-02-18T01:19:30Z",
             "owner": "fontello",
@@ -1438,6 +1525,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17890922,
             "language": "JavaScript",
             "last_commit": "2026-08-14T09:39:28Z",
             "owner": "dotcore64",
@@ -1452,6 +1540,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33391280,
             "language": "JavaScript",
             "last_commit": "2023-01-08T21:51:57Z",
             "owner": "foliojs",
@@ -1466,6 +1555,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3934068,
             "language": "JavaScript",
             "last_commit": "2023-08-19T23:34:10Z",
             "owner": "Pomax",
@@ -1480,6 +1570,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44993899,
             "language": "JavaScript",
             "last_commit": "2023-12-27T17:32:30Z",
             "owner": "fontello",
@@ -1494,6 +1585,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55975126,
             "language": "HTML",
             "last_commit": "2016-04-11T13:50:54Z",
             "owner": "magalhini",
@@ -1508,6 +1600,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64300210,
             "language": "JavaScript",
             "last_commit": "2018-05-26T08:03:11Z",
             "owner": "caryll",
@@ -1522,6 +1615,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34576299,
             "language": "JavaScript",
             "last_commit": "2019-06-03T15:40:40Z",
             "owner": "kevinzweerink",
@@ -1536,6 +1630,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12215449,
             "language": "JavaScript",
             "last_commit": "2015-11-18T03:59:44Z",
             "owner": "rocallahan",
@@ -1550,6 +1645,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 39222010,
             "language": "JavaScript",
             "last_commit": "2021-01-23T08:47:41Z",
             "owner": "sindresorhus",
@@ -1564,6 +1660,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 334770906,
             "language": "TypeScript",
             "last_commit": "2025-01-07T16:32:38Z",
             "owner": "tomchen",
@@ -1578,6 +1675,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76851530,
             "language": "JavaScript",
             "last_commit": "2017-01-17T19:14:33Z",
             "owner": "shyiko",
@@ -1592,6 +1690,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 37954204,
             "language": "JavaScript",
             "last_commit": "2017-08-31T12:10:30Z",
             "owner": "be5invis",
@@ -1606,6 +1705,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27179364,
             "language": "JavaScript",
             "last_commit": "2015-01-14T11:05:46Z",
             "owner": "thisarmy",
@@ -1620,6 +1720,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20612543,
             "language": "TypeScript",
             "last_commit": "2024-08-12T07:59:16Z",
             "owner": "nfroidure",
@@ -1634,6 +1735,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128035669,
             "language": "TypeScript",
             "last_commit": "2022-12-06T19:52:24Z",
             "owner": "hsiaosiyuan0",
@@ -1648,6 +1750,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3175783,
             "language": "HTML",
             "last_commit": "2026-07-24T00:44:11Z",
             "owner": "Pomax",
@@ -1662,6 +1765,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50012946,
             "language": "JavaScript",
             "last_commit": "2017-05-04T19:22:55Z",
             "owner": "cameronhunter",
@@ -1676,6 +1780,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65522652,
             "language": "JavaScript",
             "last_commit": "2017-12-01T13:40:15Z",
             "owner": "caryll",
@@ -1690,6 +1795,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81040309,
             "language": "C++",
             "last_commit": "2018-07-03T16:08:35Z",
             "owner": "dfrankland",
@@ -1704,6 +1810,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7473753,
             "language": "JavaScript",
             "last_commit": "2013-04-27T08:07:09Z",
             "owner": "ynakajima",
@@ -1718,6 +1825,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45192614,
             "language": "JavaScript",
             "last_commit": "2015-10-29T19:09:24Z",
             "owner": "graphicore",
@@ -1732,6 +1840,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35113130,
             "language": "JavaScript",
             "last_commit": "2020-05-18T15:59:59Z",
             "owner": "chbrown",
@@ -1746,6 +1855,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132596019,
             "language": "JavaScript",
             "last_commit": "2018-05-08T13:32:04Z",
             "owner": "laoshu133",
@@ -1760,6 +1870,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62334372,
             "language": "JavaScript",
             "last_commit": "2016-09-29T16:40:27Z",
             "owner": "nascherman",
@@ -1774,6 +1885,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46342950,
             "language": "JavaScript",
             "last_commit": "2016-02-19T17:38:39Z",
             "owner": "Pomax",
@@ -1788,30 +1900,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 567177375,
             "language": "JavaScript",
             "last_commit": "2022-11-17T08:34:50Z",
             "owner": "bluejamesbond",
             "repo": "CharacterMap",
             "stars": 2
           }
-        },
-        {
-          "node_type": "item",
-          "title": "ideohint",
-          "description": "Optimized hinter for Ideographs.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Typefont",
-          "description": "First open-source library that detects the font of a text in a image.",
-          "children": []
         }
       ],
       "title": "JavaScript"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1820,11 +1921,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11639637,
             "language": "Python",
-            "last_commit": "2026-08-12T19:32:12Z",
+            "last_commit": "2026-08-19T12:58:13Z",
             "owner": "fonttools",
             "repo": "fonttools",
-            "stars": 5207
+            "stars": 5208
           }
         },
         {
@@ -1834,8 +1936,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47576910,
             "language": "Python",
-            "last_commit": "2026-07-22T23:08:20Z",
+            "last_commit": "2026-08-19T12:42:03Z",
             "owner": "googlefonts",
             "repo": "fontmake",
             "stars": 884
@@ -1848,6 +1951,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8233105,
             "language": "Python",
             "last_commit": "2025-11-04T18:52:25Z",
             "owner": "fonttools",
@@ -1862,6 +1966,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32530253,
             "language": "Python",
             "last_commit": "2026-08-17T14:49:09Z",
             "owner": "twardoch",
@@ -1876,6 +1981,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47231717,
             "language": "Python",
             "last_commit": "2024-01-30T10:26:19Z",
             "owner": "cpitclaudel",
@@ -1890,6 +1996,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36903754,
             "language": "Python",
             "last_commit": "2026-08-03T16:25:19Z",
             "owner": "notofonts",
@@ -1904,6 +2011,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68087844,
             "language": "Python",
             "last_commit": "2024-05-14T18:21:01Z",
             "owner": "adobe-type-tools",
@@ -1918,6 +2026,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21319770,
             "language": "Python",
             "last_commit": "2021-04-28T14:14:18Z",
             "owner": "Pythonity",
@@ -1932,6 +2041,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54590641,
             "language": "Python",
             "last_commit": "2023-05-11T00:57:14Z",
             "owner": "source-foundry",
@@ -1946,6 +2056,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8593623,
             "language": "Python",
             "last_commit": "2020-08-31T08:36:53Z",
             "owner": "adobe-type-tools",
@@ -1960,6 +2071,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 53916282,
             "language": "C++",
             "last_commit": "2021-03-01T21:49:00Z",
             "owner": "googlefonts",
@@ -1974,6 +2086,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72239694,
             "language": "Python",
             "last_commit": "2023-08-14T22:10:33Z",
             "owner": "PageBot",
@@ -1988,6 +2101,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7524710,
             "language": "Python",
             "last_commit": "2026-04-21T21:09:30Z",
             "owner": "googlefonts",
@@ -2002,6 +2116,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52485976,
             "language": "Python",
             "last_commit": "2025-09-04T19:22:41Z",
             "owner": "13rac1",
@@ -2016,6 +2131,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52981889,
             "language": "Python",
             "last_commit": "2026-08-03T10:06:10Z",
             "owner": "LettError",
@@ -2030,6 +2146,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64941963,
             "language": "Python",
             "last_commit": "2026-08-13T19:05:04Z",
             "owner": "huertatipografica",
@@ -2044,6 +2161,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9695172,
             "language": "C",
             "last_commit": "2019-03-27T12:57:30Z",
             "owner": "hodefoting",
@@ -2058,6 +2176,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15145059,
             "language": "Python",
             "last_commit": "2024-05-03T15:45:17Z",
             "owner": "adobe-type-tools",
@@ -2072,6 +2191,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22653004,
             "language": "Python",
             "last_commit": "2024-04-18T12:13:36Z",
             "owner": "typesupply",
@@ -2086,6 +2206,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 45646922,
             "language": "Python",
             "last_commit": "2022-12-09T12:10:28Z",
             "owner": "googlefonts",
@@ -2100,6 +2221,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11505456,
             "language": "Python",
             "last_commit": "2025-06-11T17:29:53Z",
             "owner": "robotools",
@@ -2114,6 +2236,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 57926075,
             "language": "Python",
             "last_commit": "2022-08-12T15:05:20Z",
             "owner": "googlefonts",
@@ -2128,6 +2251,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 11505581,
             "language": "Python",
             "last_commit": "2018-04-16T09:28:46Z",
             "owner": "typesupply",
@@ -2142,6 +2266,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 239890011,
             "language": "Python",
             "last_commit": "2025-01-07T16:31:13Z",
             "owner": "tomchen",
@@ -2156,6 +2281,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11504592,
             "language": "Python",
             "last_commit": "2023-05-30T14:36:42Z",
             "owner": "robotools",
@@ -2170,6 +2296,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36692932,
             "language": "Python",
             "last_commit": "2025-12-02T09:51:27Z",
             "owner": "googlefonts",
@@ -2184,30 +2311,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3723017,
             "language": "Python",
             "last_commit": "2013-06-09T22:55:34Z",
             "owner": "edf825",
             "repo": "SVG-OpenType-Utils",
             "stars": 12
           }
-        },
-        {
-          "node_type": "item",
-          "title": "RoboFab",
-          "description": "Library with objects that deal with data usually associated with fonts and type design.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "color-emoji",
-          "description": "Tool to build color fonts using Google color-font format (CBDT/CBLC).",
-          "children": []
         }
       ],
       "title": "Python"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2216,6 +2332,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 37487051,
             "language": "Java",
             "last_commit": "2022-08-03T10:19:55Z",
             "owner": "googlefonts",
@@ -2230,6 +2347,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 35786329,
             "language": "Python",
             "last_commit": "2022-07-06T20:07:35Z",
             "owner": "MitchTalmadge",
@@ -2244,6 +2362,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68520755,
             "language": "C",
             "last_commit": "2023-06-17T19:30:10Z",
             "owner": "Tehreer",
@@ -2255,7 +2374,7 @@
       "title": "Java"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2264,6 +2383,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6604005,
             "language": "Ruby",
             "last_commit": "2023-01-26T23:22:23Z",
             "owner": "tmm1",
@@ -2278,6 +2398,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 11049339,
             "language": "Ruby",
             "last_commit": "2016-09-29T18:09:09Z",
             "owner": "alyssais",
@@ -2289,7 +2410,7 @@
       "title": "Ruby"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2298,6 +2419,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 40521075,
             "language": "Go",
             "last_commit": "2024-04-15T01:50:06Z",
             "owner": "golang",
@@ -2312,6 +2434,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41647197,
             "language": "Go",
             "last_commit": "2026-02-02T16:14:08Z",
             "owner": "ConradIrwin",
@@ -2323,7 +2446,7 @@
       "title": "Go"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2332,6 +2455,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3970295,
             "language": "PHP",
             "last_commit": "2026-01-20T14:14:46Z",
             "owner": "dompdf",
@@ -2346,6 +2470,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6984080,
             "language": "PHP",
             "last_commit": "2026-08-04T12:02:34Z",
             "owner": "jolicode",
@@ -2360,6 +2485,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 706322,
             "language": "PHP",
             "last_commit": "2021-08-14T10:13:06Z",
             "owner": "michelf",
@@ -2380,6 +2506,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11511555,
             "language": "SCSS",
             "last_commit": "2026-05-21T20:43:01Z",
             "owner": "unified-font-object",
@@ -2394,6 +2521,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29605985,
             "language": "Python",
             "last_commit": "2026-08-10T16:05:42Z",
             "owner": "googlefonts",
@@ -2408,6 +2536,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3031379,
             "language": "JavaScript",
             "last_commit": "2016-05-19T23:47:24Z",
             "owner": "graphicore",
@@ -2422,6 +2551,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38063259,
             "language": "Python",
             "last_commit": "2025-10-03T23:06:23Z",
             "owner": "unified-font-object",
@@ -2436,6 +2566,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 45680474,
             "language": "Python",
             "last_commit": "2019-01-21T19:33:17Z",
             "owner": "unified-font-object",
@@ -2447,102 +2578,110 @@
       "title": "UFO"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FontForge",
+              "description": "Free (libre) font editor for Windows, macOS and GNU+Linux.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5390156,
+                "language": "C",
+                "last_commit": "2026-08-10T19:47:54Z",
+                "owner": "fontforge",
+                "repo": "fontforge",
+                "stars": 7901
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fonteditor",
+              "description": "Web-based TTF font editor, live at fontstore.baidu.com.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28329935,
+                "language": "JavaScript",
+                "last_commit": "2025-07-15T07:19:10Z",
+                "owner": "ecomfe",
+                "repo": "fonteditor",
+                "stars": 1493
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Birdfont",
+              "description": "Font editor which can generate fonts in TTF, EOT, SVG and BF format.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25372499,
+                "language": "Vala",
+                "last_commit": "2025-11-23T19:49:15Z",
+                "owner": "johanmattssonm",
+                "repo": "birdfont",
+                "stars": 551
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TruFont",
+              "description": "UFO3 font editor. À l’ancienne.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44068507,
+                "language": "Python",
+                "last_commit": "2025-12-02T16:43:50Z",
+                "owner": "trufont",
+                "repo": "trufont",
+                "stars": 504
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenType-SVG-Font-Editor",
+              "description": "OpenType-SVG font editor.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 67168426,
+                "language": "C#",
+                "last_commit": "2018-10-17T19:38:40Z",
+                "owner": "microsoft",
+                "repo": "OpenType-SVG-Font-Editor",
+                "stars": 183
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SdfFontDesigner",
+              "description": "A generator of bitmap font, based on ttf & otf, rendered with custom shaders in glsl.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131202200,
+                "language": "GLSL",
+                "last_commit": "2025-06-29T22:59:46Z",
+                "owner": "aiekick",
+                "repo": "SdfFontDesigner",
+                "stars": 79
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Free"
+        }
+      ],
       "title": "Tools with GUI"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "FontForge",
-          "description": "Free (libre) font editor for Windows, macOS and GNU+Linux.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-10T19:47:54Z",
-            "owner": "fontforge",
-            "repo": "fontforge",
-            "stars": 7900
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fonteditor",
-          "description": "Web-based TTF font editor, live at fontstore.baidu.com.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-07-15T07:19:10Z",
-            "owner": "ecomfe",
-            "repo": "fonteditor",
-            "stars": 1493
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Birdfont",
-          "description": "Font editor which can generate fonts in TTF, EOT, SVG and BF format.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2025-11-23T19:49:15Z",
-            "owner": "johanmattssonm",
-            "repo": "birdfont",
-            "stars": 551
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TruFont",
-          "description": "UFO3 font editor. À l’ancienne.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-02T16:43:50Z",
-            "owner": "trufont",
-            "repo": "trufont",
-            "stars": 504
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenType-SVG-Font-Editor",
-          "description": "OpenType-SVG font editor.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C#",
-            "last_commit": "2018-10-17T19:38:40Z",
-            "owner": "microsoft",
-            "repo": "OpenType-SVG-Font-Editor",
-            "stars": 183
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SdfFontDesigner",
-          "description": "A generator of bitmap font, based on ttf & otf, rendered with custom shaders in glsl.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "GLSL",
-            "last_commit": "2025-06-29T22:59:46Z",
-            "owner": "aiekick",
-            "repo": "SdfFontDesigner",
-            "stars": 79
-          }
-        }
-      ],
-      "title": "Free"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2551,6 +2690,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15947557,
             "language": "C++",
             "last_commit": "2026-08-04T00:28:23Z",
             "owner": "khaledhosny",
@@ -2565,6 +2705,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 46022810,
             "language": "C#",
             "last_commit": "2023-06-13T17:37:46Z",
             "owner": "HinTak",
@@ -2576,7 +2717,7 @@
       "title": "Font Validator"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2585,11 +2726,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26291683,
             "language": "HTML",
             "last_commit": "2026-07-07T21:41:18Z",
             "owner": "twitter",
             "repo": "twemoji",
-            "stars": 17733
+            "stars": 17734
           }
         },
         {
@@ -2599,6 +2741,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 23393132,
             "language": "PHP",
             "last_commit": "2019-07-22T23:23:07Z",
             "owner": "joypixels",
@@ -2613,6 +2756,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16223486,
             "language": "JavaScript",
             "last_commit": "2024-08-21T00:44:51Z",
             "owner": "Rush",
@@ -2627,6 +2771,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61745494,
             "language": "TypeScript",
             "last_commit": "2026-02-13T08:33:59Z",
             "owner": "sindresorhus",
@@ -2641,6 +2786,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7670345,
             "language": "HTML",
             "last_commit": "2026-07-16T20:17:55Z",
             "owner": "fontforge",
@@ -2655,6 +2801,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47473566,
             "language": "CSS",
             "last_commit": "2022-04-28T17:21:25Z",
             "owner": "kennethormandy",
@@ -2669,6 +2816,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28194797,
             "language": "Ruby",
             "last_commit": "2021-08-18T17:15:37Z",
             "owner": "bramstein",
@@ -2683,6 +2831,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9544720,
             "language": "PHP",
             "last_commit": "2024-09-10T17:19:40Z",
             "owner": "impallari",
@@ -2697,6 +2846,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70850119,
             "language": null,
             "last_commit": "2019-01-18T17:44:50Z",
             "owner": "scribbletone",
@@ -2711,6 +2861,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104067065,
             "language": null,
             "last_commit": "2018-01-23T13:37:45Z",
             "owner": "RoelN",
@@ -2725,6 +2876,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33033994,
             "language": null,
             "last_commit": "2019-10-31T23:06:26Z",
             "owner": "adobe-type-tools",
@@ -2739,6 +2891,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16350169,
             "language": "HTML",
             "last_commit": "2016-04-21T09:56:52Z",
             "owner": "raphaelbastide",
@@ -2753,6 +2906,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38444001,
             "language": null,
             "last_commit": "2016-01-21T00:52:05Z",
             "owner": "frankrolf",
@@ -2767,6 +2921,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47803075,
             "language": "JavaScript",
             "last_commit": "2017-11-17T01:28:59Z",
             "owner": "jessetane",
@@ -2781,6 +2936,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24448365,
             "language": "JavaScript",
             "last_commit": "2017-11-18T15:37:30Z",
             "owner": "bramstein",
@@ -2795,6 +2951,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4496254,
             "language": "Python",
             "last_commit": "2012-10-21T19:42:48Z",
             "owner": "charlesmchen",
@@ -2809,6 +2966,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49978257,
             "language": null,
             "last_commit": "2016-04-25T22:31:36Z",
             "owner": "n8willis",
@@ -2823,6 +2981,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26007459,
             "language": null,
             "last_commit": "2019-03-22T16:30:19Z",
             "owner": "brew",
@@ -2837,6 +2996,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 270104566,
             "language": "Python",
             "last_commit": "2024-04-11T09:45:57Z",
             "owner": "ruppde",
@@ -2851,6 +3011,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59517729,
             "language": "Python",
             "last_commit": "2026-08-16T19:11:33Z",
             "owner": "typefacts",
@@ -2865,6 +3026,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36188371,
             "language": "HTML",
             "last_commit": "2015-07-17T23:06:25Z",
             "owner": "opensource-opentype",
@@ -2879,6 +3041,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46353923,
             "language": "JavaScript",
             "last_commit": "2017-02-22T16:26:08Z",
             "owner": "Monotype",
@@ -2893,6 +3056,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58360707,
             "language": "Python",
             "last_commit": "2022-08-12T08:54:58Z",
             "owner": "jenskutilek",
@@ -2907,6 +3071,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59147111,
             "language": "Shell",
             "last_commit": "2019-09-03T15:12:25Z",
             "owner": "benkiel",
@@ -2918,7 +3083,7 @@
       "title": "Miscellaneous"
     },
     {
-      "description": "",
+      "description": "For more, check awesome-fonts!",
       "items": [
         {
           "node_type": "item",
@@ -2927,11 +3092,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39315600,
             "language": "JavaScript",
             "last_commit": "2026-08-18T02:58:13Z",
             "owner": "be5invis",
             "repo": "Iosevka",
-            "stars": 22637
+            "stars": 22636
           }
         },
         {
@@ -2941,11 +3107,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21733716,
             "language": "Python",
             "last_commit": "2025-06-25T03:30:03Z",
             "owner": "adobe-fonts",
             "repo": "source-han-sans",
-            "stars": 17096
+            "stars": 17100
           }
         },
         {
@@ -2955,11 +3122,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84254035,
             "language": "Shell",
             "last_commit": "2024-07-30T18:57:27Z",
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9622
+            "stars": 9623
           }
         },
         {
@@ -2969,6 +3137,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18487827,
             "language": "Python",
             "last_commit": "2022-02-19T01:25:54Z",
             "owner": "i-tu",
@@ -2983,6 +3152,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36903690,
             "language": "Python",
             "last_commit": "2025-09-15T22:36:48Z",
             "owner": "googlefonts",
@@ -2997,6 +3167,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 37085010,
             "language": "Python",
             "last_commit": "2023-01-25T13:40:16Z",
             "owner": "notofonts",
@@ -3011,6 +3182,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29510360,
             "language": "Makefile",
             "last_commit": "2023-07-20T19:49:53Z",
             "owner": "RedHatOfficial",
@@ -3025,6 +3197,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53625150,
             "language": "Makefile",
             "last_commit": "2026-06-25T23:04:22Z",
             "owner": "13rac1",
@@ -3039,6 +3212,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 52484899,
             "language": "Makefile",
             "last_commit": "2018-03-12T05:34:57Z",
             "owner": "13rac1",
@@ -3053,6 +3227,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 20598234,
             "language": "Python",
             "last_commit": "2023-05-31T13:52:59Z",
             "owner": "jenskutilek",
@@ -3067,6 +3242,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1801720,
             "language": null,
             "last_commit": "2021-07-27T10:56:36Z",
             "owner": "theleagueof",
@@ -3081,6 +3257,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66328411,
             "language": "HTML",
             "last_commit": "2026-07-28T03:04:10Z",
             "owner": "dy",
@@ -3095,6 +3272,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59200426,
             "language": "JavaScript",
             "last_commit": "2024-03-28T14:16:37Z",
             "owner": "mozilla",
@@ -3109,11 +3287,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43228391,
             "language": "Python",
             "last_commit": "2026-02-01T15:17:57Z",
             "owner": "djrrb",
             "repo": "Bungee",
-            "stars": 375
+            "stars": 376
           }
         },
         {
@@ -3123,6 +3302,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37881054,
             "language": "Python",
             "last_commit": "2024-03-10T12:27:52Z",
             "owner": "mozilla",
@@ -3137,6 +3317,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31365534,
             "language": "Shell",
             "last_commit": "2018-05-08T21:22:09Z",
             "owner": "RoelN",
@@ -3151,6 +3332,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9152296,
             "language": "PostScript",
             "last_commit": "2019-12-03T17:28:23Z",
             "owner": "adobe-fonts",
@@ -3165,6 +3347,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73654515,
             "language": "Python",
             "last_commit": "2022-08-09T15:32:38Z",
             "owner": "adobe-fonts",
@@ -3179,6 +3362,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46079115,
             "language": null,
             "last_commit": "2022-11-28T19:14:04Z",
             "owner": "microsoft",
@@ -3193,6 +3377,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88622510,
             "language": null,
             "last_commit": "2019-05-28T13:26:02Z",
             "owner": "Fontself",
@@ -3207,6 +3392,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59501772,
             "language": "PostScript",
             "last_commit": "2019-12-03T17:18:24Z",
             "owner": "adobe-fonts",
@@ -3221,6 +3407,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43030302,
             "language": "HTML",
             "last_commit": "2025-10-28T13:39:47Z",
             "owner": "adobe-fonts",
@@ -3235,6 +3422,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33254382,
             "language": "PostScript",
             "last_commit": "2022-07-22T07:16:02Z",
             "owner": "adobe-fonts",
@@ -3249,6 +3437,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74075487,
             "language": null,
             "last_commit": "2017-04-19T18:21:08Z",
             "owner": "TrueTyper",
@@ -3263,6 +3452,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22053926,
             "language": "HTML",
             "last_commit": "2018-03-17T13:29:21Z",
             "owner": "RoelN",
@@ -3277,6 +3467,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25351754,
             "language": "Makefile",
             "last_commit": "2015-02-02T06:38:16Z",
             "owner": "bramstein",
@@ -3291,6 +3482,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63239381,
             "language": "HTML",
             "last_commit": "2021-10-14T06:41:27Z",
             "owner": "RoelN",
@@ -3305,6 +3497,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54849517,
             "language": "Python",
             "last_commit": "2016-04-01T14:47:13Z",
             "owner": "Denly",
@@ -3319,6 +3512,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60651456,
             "language": "Makefile",
             "last_commit": "2016-06-07T22:58:23Z",
             "owner": "xerographer",
@@ -3333,6 +3527,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60486501,
             "language": "Makefile",
             "last_commit": "2016-06-06T01:36:52Z",
             "owner": "xerographer",
@@ -3347,6 +3542,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59930742,
             "language": null,
             "last_commit": "2016-05-30T18:10:08Z",
             "owner": "OpenType",
@@ -3361,6 +3557,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71691892,
             "language": "HTML",
             "last_commit": "2017-04-10T09:07:33Z",
             "owner": "RoelN",
@@ -3375,6 +3572,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60329085,
             "language": "Makefile",
             "last_commit": "2016-06-07T23:07:00Z",
             "owner": "xerographer",
@@ -3389,6 +3587,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5739805,
             "language": "Makefile",
             "last_commit": "2016-02-27T19:38:39Z",
             "owner": "grzegorzrolek",
@@ -3403,6 +3602,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52181731,
             "language": null,
             "last_commit": "2017-03-11T18:03:01Z",
             "owner": "Pomax",
@@ -3417,6 +3617,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55856403,
             "language": "PostScript",
             "last_commit": "2019-12-03T17:27:47Z",
             "owner": "adobe-fonts",
@@ -3431,31 +3632,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54408482,
             "language": "PureBasic",
             "last_commit": "2016-10-13T18:34:10Z",
             "owner": "raphaklaus",
             "repo": "fontwr-fonts",
             "stars": 4
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Monotype Variable Font Demo",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Fonts"
-    },
-    {
-      "description": "➡️Pull request! (Or open an issue here).",
-      "items": [],
-      "title": "Contribute"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:54:53.774Z",
+    "last_updated": "2026-08-19T12:59:03.934Z",
     "original_repository": "Jolg42/awesome-typography",
+    "original_repository_id": 60974520,
     "original_repository_sha": "a730d37ca502660ac4c897ec7a55d8614f129e6e",
     "enhanced_repository": "enhansome/enhansome-typography",
     "enhanced_repository_description": null,
