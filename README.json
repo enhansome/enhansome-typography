@@ -194,7 +194,7 @@
             "last_commit": "2026-08-02T06:42:09Z",
             "owner": "nothings",
             "repo": "stb",
-            "stars": 34423
+            "stars": 34437
           }
         },
         {
@@ -208,7 +208,7 @@
             "last_commit": "2026-07-31T11:47:08Z",
             "owner": "swaywm",
             "repo": "sway",
-            "stars": 17242
+            "stars": 17249
           }
         },
         {
@@ -508,7 +508,7 @@
             "last_commit": "2026-06-29T17:04:31Z",
             "owner": "google",
             "repo": "woff2",
-            "stars": 1815
+            "stars": 1816
           }
         },
         {
@@ -1134,7 +1134,7 @@
             "last_commit": "2021-02-12T00:21:57Z",
             "owner": "orling",
             "repo": "grapheme-splitter",
-            "stars": 985
+            "stars": 986
           }
         },
         {
@@ -1894,7 +1894,7 @@
             "last_commit": "2026-08-03T16:25:19Z",
             "owner": "notofonts",
             "repo": "nototools",
-            "stars": 303
+            "stars": 304
           }
         },
         {
@@ -2465,7 +2465,7 @@
             "last_commit": "2026-08-10T19:47:54Z",
             "owner": "fontforge",
             "repo": "fontforge",
-            "stars": 7897
+            "stars": 7900
           }
         },
         {
@@ -2589,7 +2589,7 @@
             "last_commit": "2026-07-07T21:41:18Z",
             "owner": "twitter",
             "repo": "twemoji",
-            "stars": 17731
+            "stars": 17733
           }
         },
         {
@@ -2645,7 +2645,7 @@
             "last_commit": "2026-07-16T20:17:55Z",
             "owner": "fontforge",
             "repo": "designwithfontforge.com",
-            "stars": 1039
+            "stars": 1040
           }
         },
         {
@@ -2931,7 +2931,7 @@
             "last_commit": "2026-08-18T02:58:13Z",
             "owner": "be5invis",
             "repo": "Iosevka",
-            "stars": 22635
+            "stars": 22637
           }
         },
         {
@@ -2945,7 +2945,7 @@
             "last_commit": "2025-06-25T03:30:03Z",
             "owner": "adobe-fonts",
             "repo": "source-han-sans",
-            "stars": 17088
+            "stars": 17096
           }
         },
         {
@@ -2959,7 +2959,7 @@
             "last_commit": "2024-07-30T18:57:27Z",
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9620
+            "stars": 9622
           }
         },
         {
@@ -2987,7 +2987,7 @@
             "last_commit": "2025-09-15T22:36:48Z",
             "owner": "googlefonts",
             "repo": "noto-emoji",
-            "stars": 4883
+            "stars": 4886
           }
         },
         {
@@ -3029,7 +3029,7 @@
             "last_commit": "2026-06-25T23:04:22Z",
             "owner": "13rac1",
             "repo": "twemoji-color-font",
-            "stars": 1918
+            "stars": 1919
           }
         },
         {
@@ -3454,7 +3454,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T04:55:08.565Z",
+    "last_updated": "2026-08-19T04:54:53.774Z",
     "original_repository": "Jolg42/awesome-typography",
     "original_repository_sha": "a730d37ca502660ac4c897ec7a55d8614f129e6e",
     "enhanced_repository": "enhansome/enhansome-typography",
