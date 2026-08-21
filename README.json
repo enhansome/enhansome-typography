@@ -201,7 +201,7 @@
             "last_commit": "2026-08-02T06:42:09Z",
             "owner": "nothings",
             "repo": "stb",
-            "stars": 34446
+            "stars": 34453
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2026-04-15T17:56:36Z",
             "owner": "EricLengyel",
             "repo": "Slug",
-            "stars": 1502
+            "stars": 1503
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2026-08-01T14:41:21Z",
             "owner": "Tehreer",
             "repo": "SheenBidi",
-            "stars": 215
+            "stars": 216
           }
         },
         {
@@ -378,7 +378,7 @@
             "archived": false,
             "id": 1204143287,
             "language": "C++",
-            "last_commit": "2026-08-17T18:14:40Z",
+            "last_commit": "2026-08-20T15:42:56Z",
             "owner": "AlphaPixel",
             "repo": "slughorn",
             "stars": 147
@@ -753,7 +753,7 @@
             "last_commit": "2026-08-11T23:23:35Z",
             "owner": "SixLabors",
             "repo": "Fonts",
-            "stars": 347
+            "stars": 348
           }
         },
         {
@@ -990,7 +990,7 @@
             "last_commit": "2022-12-31T23:41:36Z",
             "owner": "fontello",
             "repo": "fontello",
-            "stars": 7082
+            "stars": 7083
           }
         },
         {
@@ -1005,7 +1005,7 @@
             "last_commit": "2025-08-13T07:03:41Z",
             "owner": "ecomfe",
             "repo": "fontmin",
-            "stars": 6209
+            "stars": 6211
           }
         },
         {
@@ -1035,7 +1035,7 @@
             "last_commit": "2026-08-08T03:59:23Z",
             "owner": "opentypejs",
             "repo": "opentype.js",
-            "stars": 5010
+            "stars": 5012
           }
         },
         {
@@ -1125,7 +1125,7 @@
             "last_commit": "2026-03-21T20:54:02Z",
             "owner": "Munter",
             "repo": "subfont",
-            "stars": 1635
+            "stars": 1636
           }
         },
         {
@@ -1200,7 +1200,7 @@
             "last_commit": "2021-02-12T00:21:57Z",
             "owner": "orling",
             "repo": "grapheme-splitter",
-            "stars": 986
+            "stars": 985
           }
         },
         {
@@ -1527,7 +1527,7 @@
             "archived": false,
             "id": 17890922,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T09:39:28Z",
+            "last_commit": "2026-08-20T23:26:31Z",
             "owner": "dotcore64",
             "repo": "fontfacegen",
             "stars": 60
@@ -1923,10 +1923,10 @@
             "archived": false,
             "id": 11639637,
             "language": "Python",
-            "last_commit": "2026-08-19T14:38:11Z",
+            "last_commit": "2026-08-20T16:44:11Z",
             "owner": "fonttools",
             "repo": "fonttools",
-            "stars": 5209
+            "stars": 5212
           }
         },
         {
@@ -1956,7 +1956,7 @@
             "last_commit": "2025-11-04T18:52:25Z",
             "owner": "fonttools",
             "repo": "fontbakery",
-            "stars": 690
+            "stars": 691
           }
         },
         {
@@ -2436,7 +2436,7 @@
             "archived": false,
             "id": 41647197,
             "language": "Go",
-            "last_commit": "2026-02-02T16:14:08Z",
+            "last_commit": "2026-08-21T02:48:40Z",
             "owner": "ConradIrwin",
             "repo": "font",
             "stars": 77
@@ -2460,7 +2460,7 @@
             "last_commit": "2026-01-20T14:14:46Z",
             "owner": "dompdf",
             "repo": "php-font-lib",
-            "stars": 1801
+            "stars": 1798
           }
         },
         {
@@ -2594,7 +2594,7 @@
                 "last_commit": "2026-08-10T19:47:54Z",
                 "owner": "fontforge",
                 "repo": "fontforge",
-                "stars": 7901
+                "stars": 7904
               }
             },
             {
@@ -2624,7 +2624,7 @@
                 "last_commit": "2025-11-23T19:49:15Z",
                 "owner": "johanmattssonm",
                 "repo": "birdfont",
-                "stars": 551
+                "stars": 554
               }
             },
             {
@@ -2695,7 +2695,7 @@
             "last_commit": "2026-08-04T00:28:23Z",
             "owner": "khaledhosny",
             "repo": "ots",
-            "stars": 307
+            "stars": 308
           }
         },
         {
@@ -2731,7 +2731,7 @@
             "last_commit": "2026-07-07T21:41:18Z",
             "owner": "twitter",
             "repo": "twemoji",
-            "stars": 17743
+            "stars": 17748
           }
         },
         {
@@ -3097,7 +3097,7 @@
             "last_commit": "2026-08-18T02:58:13Z",
             "owner": "be5invis",
             "repo": "Iosevka",
-            "stars": 22638
+            "stars": 22643
           }
         },
         {
@@ -3112,7 +3112,7 @@
             "last_commit": "2025-06-25T03:30:03Z",
             "owner": "adobe-fonts",
             "repo": "source-han-sans",
-            "stars": 17104
+            "stars": 17108
           }
         },
         {
@@ -3127,7 +3127,7 @@
             "last_commit": "2024-07-30T18:57:27Z",
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9625
+            "stars": 9628
           }
         },
         {
@@ -3142,7 +3142,7 @@
             "last_commit": "2022-02-19T01:25:54Z",
             "owner": "i-tu",
             "repo": "Hasklig",
-            "stars": 5717
+            "stars": 5716
           }
         },
         {
@@ -3187,7 +3187,7 @@
             "last_commit": "2023-07-20T19:49:53Z",
             "owner": "RedHatOfficial",
             "repo": "Overpass",
-            "stars": 2097
+            "stars": 2096
           }
         },
         {
@@ -3645,7 +3645,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T04:56:22.927Z",
+    "last_updated": "2026-08-21T04:57:02.180Z",
     "original_repository": "Jolg42/awesome-typography",
     "original_repository_id": 60974520,
     "original_repository_sha": "a730d37ca502660ac4c897ec7a55d8614f129e6e",
