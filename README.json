@@ -201,7 +201,7 @@
             "last_commit": "2026-08-02T06:42:09Z",
             "owner": "nothings",
             "repo": "stb",
-            "stars": 34470
+            "stars": 34483
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-07-31T11:47:08Z",
             "owner": "swaywm",
             "repo": "sway",
-            "stars": 17259
+            "stars": 17261
           }
         },
         {
@@ -975,7 +975,7 @@
             "last_commit": "2024-01-04T09:27:53Z",
             "owner": "typekit",
             "repo": "webfontloader",
-            "stars": 9251
+            "stars": 9250
           }
         },
         {
@@ -1020,7 +1020,7 @@
             "last_commit": "2022-12-30T18:18:29Z",
             "owner": "aui",
             "repo": "font-spider",
-            "stars": 5142
+            "stars": 5143
           }
         },
         {
@@ -1350,7 +1350,7 @@
             "last_commit": "2026-05-18T16:52:47Z",
             "owner": "nfroidure",
             "repo": "ttf2woff2",
-            "stars": 341
+            "stars": 342
           }
         },
         {
@@ -1377,7 +1377,7 @@
             "archived": false,
             "id": 62899474,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T03:03:11Z",
+            "last_commit": "2026-08-24T03:03:39Z",
             "owner": "itgalaxy",
             "repo": "webfont",
             "stars": 308
@@ -1956,7 +1956,7 @@
             "last_commit": "2025-11-04T18:52:25Z",
             "owner": "fonttools",
             "repo": "fontbakery",
-            "stars": 691
+            "stars": 693
           }
         },
         {
@@ -2196,7 +2196,7 @@
             "last_commit": "2024-04-18T12:13:36Z",
             "owner": "typesupply",
             "repo": "glyph-nanny",
-            "stars": 67
+            "stars": 68
           }
         },
         {
@@ -2594,7 +2594,7 @@
                 "last_commit": "2026-08-10T19:47:54Z",
                 "owner": "fontforge",
                 "repo": "fontforge",
-                "stars": 7907
+                "stars": 7908
               }
             },
             {
@@ -2731,7 +2731,7 @@
             "last_commit": "2026-07-07T21:41:18Z",
             "owner": "twitter",
             "repo": "twemoji",
-            "stars": 17755
+            "stars": 17756
           }
         },
         {
@@ -2746,7 +2746,7 @@
             "last_commit": "2019-07-22T23:23:07Z",
             "owner": "joypixels",
             "repo": "emojione",
-            "stars": 4429
+            "stars": 4428
           }
         },
         {
@@ -3097,7 +3097,7 @@
             "last_commit": "2026-08-22T14:52:23Z",
             "owner": "be5invis",
             "repo": "Iosevka",
-            "stars": 22656
+            "stars": 22661
           }
         },
         {
@@ -3112,7 +3112,7 @@
             "last_commit": "2025-06-25T03:30:03Z",
             "owner": "adobe-fonts",
             "repo": "source-han-sans",
-            "stars": 17116
+            "stars": 17120
           }
         },
         {
@@ -3127,7 +3127,7 @@
             "last_commit": "2024-07-30T18:57:27Z",
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9636
+            "stars": 9640
           }
         },
         {
@@ -3157,7 +3157,7 @@
             "last_commit": "2025-09-15T22:36:48Z",
             "owner": "googlefonts",
             "repo": "noto-emoji",
-            "stars": 4894
+            "stars": 4895
           }
         },
         {
@@ -3187,7 +3187,7 @@
             "last_commit": "2023-07-20T19:49:53Z",
             "owner": "RedHatOfficial",
             "repo": "Overpass",
-            "stars": 2095
+            "stars": 2096
           }
         },
         {
@@ -3645,7 +3645,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:54:18.019Z",
+    "last_updated": "2026-08-24T05:04:41.540Z",
     "original_repository": "Jolg42/awesome-typography",
     "original_repository_id": 60974520,
     "original_repository_sha": "a730d37ca502660ac4c897ec7a55d8614f129e6e",
