@@ -5,6 +5,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "the-cff-table",
+          "description": "Markdown conversion of the Adobe Tech notes 5176 and 5177 about CFF.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 51660774,
+            "language": null,
+            "last_commit": "2018-04-03T16:12:48Z",
+            "owner": "Pomax",
+            "repo": "the-cff-table",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Specifications"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The OpenType Cookbook",
+          "description": "Introduction to OpenType features for type designers. (Source).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22152427,
+            "language": null,
+            "last_commit": "2024-02-05T15:35:17Z",
+            "owner": "typesupply",
+            "repo": "opentype-cookbook",
+            "stars": 122
+          }
+        }
+      ],
+      "title": "OpenType"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "amigafonts",
           "description": "Faithfully remade multi platform Amiga fonts in Amiga aspect.",
           "children": [],
@@ -201,7 +243,7 @@
             "last_commit": "2026-08-02T06:42:09Z",
             "owner": "nothings",
             "repo": "stb",
-            "stars": 34483
+            "stars": 34493
           }
         },
         {
@@ -216,7 +258,7 @@
             "last_commit": "2026-07-31T11:47:08Z",
             "owner": "swaywm",
             "repo": "sway",
-            "stars": 17261
+            "stars": 17264
           }
         },
         {
@@ -246,7 +288,7 @@
             "last_commit": "2026-04-15T17:56:36Z",
             "owner": "EricLengyel",
             "repo": "Slug",
-            "stars": 1503
+            "stars": 1504
           }
         },
         {
@@ -537,7 +579,7 @@
             "last_commit": "2026-06-29T17:04:31Z",
             "owner": "google",
             "repo": "woff2",
-            "stars": 1816
+            "stars": 1817
           }
         },
         {
@@ -1005,7 +1047,7 @@
             "last_commit": "2025-08-13T07:03:41Z",
             "owner": "ecomfe",
             "repo": "fontmin",
-            "stars": 6211
+            "stars": 6212
           }
         },
         {
@@ -1230,7 +1272,7 @@
             "last_commit": "2021-09-22T08:32:09Z",
             "owner": "matthewgonzalez",
             "repo": "fontplop",
-            "stars": 789
+            "stars": 790
           }
         },
         {
@@ -1926,7 +1968,7 @@
             "last_commit": "2026-08-20T16:44:11Z",
             "owner": "fonttools",
             "repo": "fonttools",
-            "stars": 5215
+            "stars": 5214
           }
         },
         {
@@ -2148,7 +2190,7 @@
             "archived": false,
             "id": 64941963,
             "language": "Python",
-            "last_commit": "2026-08-13T19:05:04Z",
+            "last_commit": "2026-08-24T11:49:32Z",
             "owner": "huertatipografica",
             "repo": "HTLetterspacer",
             "stars": 80
@@ -2497,6 +2539,48 @@
       "title": "PHP"
     },
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fontastic",
+          "description": "Processing library to create TrueType font files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7970553,
+            "language": "Java",
+            "last_commit": "2013-06-19T22:23:45Z",
+            "owner": "andipollok",
+            "repo": "Fontastic",
+            "stars": 110
+          }
+        }
+      ],
+      "title": "Processing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "opentype.clj",
+          "description": "A simple API over OpenType.js for Clojure. Runs on the JVM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 124687346,
+            "language": "JavaScript",
+            "last_commit": "2018-03-19T18:34:44Z",
+            "owner": "ivarref",
+            "repo": "opentype.clj",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Clojure"
+    },
+    {
       "description": "unifiedfontobject.org",
       "items": [
         {
@@ -2584,6 +2668,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Prototypo",
+              "description": "Web based font generator with a parametric approach.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9656702,
+                "language": "JavaScript",
+                "last_commit": "2021-05-10T03:28:52Z",
+                "owner": "byte-foundry",
+                "repo": "prototypo",
+                "stars": 475
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Non-Free"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "FontForge",
               "description": "Free (libre) font editor for Windows, macOS and GNU+Linux.",
               "children": [],
@@ -2609,7 +2715,7 @@
                 "last_commit": "2025-07-15T07:19:10Z",
                 "owner": "ecomfe",
                 "repo": "fonteditor",
-                "stars": 1493
+                "stars": 1494
               }
             },
             {
@@ -2731,7 +2837,7 @@
             "last_commit": "2026-07-07T21:41:18Z",
             "owner": "twitter",
             "repo": "twemoji",
-            "stars": 17756
+            "stars": 17758
           }
         },
         {
@@ -3094,10 +3200,10 @@
             "archived": false,
             "id": 39315600,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T14:52:23Z",
+            "last_commit": "2026-08-24T05:32:58Z",
             "owner": "be5invis",
             "repo": "Iosevka",
-            "stars": 22661
+            "stars": 22663
           }
         },
         {
@@ -3112,7 +3218,7 @@
             "last_commit": "2025-06-25T03:30:03Z",
             "owner": "adobe-fonts",
             "repo": "source-han-sans",
-            "stars": 17120
+            "stars": 17122
           }
         },
         {
@@ -3127,7 +3233,7 @@
             "last_commit": "2024-07-30T18:57:27Z",
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9640
+            "stars": 9641
           }
         },
         {
@@ -3645,7 +3751,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:04:41.540Z",
+    "last_updated": "2026-08-24T14:14:56.955Z",
     "original_repository": "Jolg42/awesome-typography",
     "original_repository_id": 60974520,
     "original_repository_sha": "a730d37ca502660ac4c897ec7a55d8614f129e6e",
