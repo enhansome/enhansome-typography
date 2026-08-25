@@ -258,7 +258,7 @@
             "last_commit": "2026-07-31T11:47:08Z",
             "owner": "swaywm",
             "repo": "sway",
-            "stars": 17268
+            "stars": 17270
           }
         },
         {
@@ -2897,7 +2897,7 @@
             "last_commit": "2026-07-16T20:17:55Z",
             "owner": "fontforge",
             "repo": "designwithfontforge.com",
-            "stars": 1040
+            "stars": 1041
           }
         },
         {
@@ -3200,10 +3200,10 @@
             "archived": false,
             "id": 39315600,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T05:32:58Z",
+            "last_commit": "2026-08-25T05:05:31Z",
             "owner": "be5invis",
             "repo": "Iosevka",
-            "stars": 22663
+            "stars": 22664
           }
         },
         {
@@ -3263,7 +3263,7 @@
             "last_commit": "2025-09-15T22:36:48Z",
             "owner": "googlefonts",
             "repo": "noto-emoji",
-            "stars": 4896
+            "stars": 4897
           }
         },
         {
@@ -3751,7 +3751,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:56:41.785Z",
+    "last_updated": "2026-08-25T06:03:49.955Z",
     "original_repository": "Jolg42/awesome-typography",
     "original_repository_id": 60974520,
     "original_repository_sha": "a730d37ca502660ac4c897ec7a55d8614f129e6e",

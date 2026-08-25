@@ -76,7 +76,7 @@ Curated list about digital typography.
 ## C
 
 * [stb\_truetype](https://github.com/nothings/stb/) ⭐ 34,497 | 🐛 417 | 🌐 C | 📅 2026-08-02 - Parse, decode, and rasterize characters for TrueType fonts. Single header file.
-* [sway](https://codeberg.org/dnkl/sway) - This is a fork of <https://github.com/swaywm/sway> ⭐ 17,268 | 🐛 1,377 | 🌐 C | 📅 2026-07-31 that replaces pango with <https://codeberg.org/dnkl/fcft> for font rendering.
+* [sway](https://codeberg.org/dnkl/sway) - This is a fork of <https://github.com/swaywm/sway> ⭐ 17,270 | 🐛 1,377 | 🌐 C | 📅 2026-07-31 that replaces pango with <https://codeberg.org/dnkl/fcft> for font rendering.
 * [freetype-gl](https://github.com/rougier/freetype-gl) ⭐ 1,744 | 🐛 75 | 🌐 C | 📅 2026-07-20 - OpenGL text using one vertex buffer, one texture and FreeType.
 * [Slug](https://github.com/EricLengyel/Slug) ⭐ 1,504 | 🐛 0 | 🌐 HLSL | 📅 2026-04-15 - Reference code for the Slug Algorithm.
 * [AFDKO](https://github.com/adobe-type-tools/afdko) ⭐ 1,177 | 🐛 213 | 🌐 PostScript | 📅 2026-07-10 - Adobe Font Development Kit for OpenType. See [AFDKO Overview](https://www.adobe.com/devnet/opentype/afdko/topic_overview.html).
@@ -359,7 +359,7 @@ Curated list about digital typography.
 * [EmojiOne](https://github.com/emojione/emojione) ⚠️ Archived - EmojiOne™ is the open emoji standard.
 * [Font-Awesome-SVG-PNG](https://github.com/encharm/Font-Awesome-SVG-PNG) ⭐ 3,228 | 🐛 20 | 🌐 JavaScript | 📅 2024-08-21 - Font Awesome split to individual SVG and PNG files of different sizes along with Node.js based generator.
 * [Emoj](https://github.com/sindresorhus/emoj) ⭐ 2,429 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-13 - Find relevant emoji from text on the command-line 😮 ✨ 🙌 🐴 💥 🙈.
-* [designwithfontforge.com](https://github.com/fontforge/designwithfontforge.com) ⭐ 1,040 | 🐛 61 | 🌐 HTML | 📅 2026-07-16 - Book about how to design new typefaces with FontForge. See [designwithfontforge.com](http://designwithfontforge.com).
+* [designwithfontforge.com](https://github.com/fontforge/designwithfontforge.com) ⭐ 1,041 | 🐛 61 | 🌐 HTML | 📅 2026-07-16 - Book about how to design new typefaces with FontForge. See [designwithfontforge.com](http://designwithfontforge.com).
 * [CSS Utility OpenType](https://github.com/kennethormandy/utility-opentype) ⭐ 500 | 🐛 7 | 🌐 CSS | 📅 2022-04-28 - Simple, CSS utility classes for advanced typographic features. See it [here](http://utility-opentype.kennethormandy.com).
 * [homebrew-webfonttools](https://github.com/bramstein/homebrew-webfonttools) ⭐ 364 | 🐛 3 | 🌐 Ruby | 📅 2021-08-18 - Homebrew formulae for font tools.
 * [FontTesting Page](https://github.com/impallari/Font-Testing-Page) ⭐ 277 | 🐛 18 | 🌐 PHP | 📅 2024-09-10 - Webpage for testing typefaces.
@@ -407,11 +407,11 @@ Curated list about digital typography.
 
 ## Fonts
 
-* [Iosevka](https://github.com/be5invis/Iosevka) ⭐ 22,663 | 🐛 104 | 🌐 JavaScript | 📅 2026-08-24 - Slender typeface for code, from code.
+* [Iosevka](https://github.com/be5invis/Iosevka) ⭐ 22,664 | 🐛 102 | 🌐 JavaScript | 📅 2026-08-25 - Slender typeface for code, from code.
 * [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) ⭐ 17,123 | 🐛 162 | 🌐 Python | 📅 2025-06-25 - Set of OpenType/CFF Pan-CJK fonts.
 * [Source Han Serif](https://github.com/adobe-fonts/source-han-serif) ⭐ 9,641 | 🐛 74 | 🌐 Shell | 📅 2024-07-30 - Set of OpenType/CFF Pan-CJK fonts.
 * [Hasklig](https://github.com/i-tu/Hasklig) ⭐ 5,716 | 🐛 44 | 🌐 Python | 📅 2022-02-19 - Code font with monospaced ligatures.
-* [Noto Emoji](https://github.com/googlei18n/noto-emoji) ⭐ 4,896 | 🐛 107 | 🌐 Python | 📅 2025-09-15 - Color and Black-and-White Noto emoji fonts, and tools for working with them.
+* [Noto Emoji](https://github.com/googlei18n/noto-emoji) ⭐ 4,897 | 🐛 107 | 🌐 Python | 📅 2025-09-15 - Color and Black-and-White Noto emoji fonts, and tools for working with them.
 * [Noto Fonts](https://github.com/googlei18n/noto-fonts) ⚠️ Archived - Noto’s goal is to provide a beautiful reading experience for all languages.
 * [Overpass](https://github.com/RedHatBrand/Overpass) ⭐ 2,096 | 🐛 46 | 🌐 Makefile | 📅 2023-07-20 - Open source font family inspired by Highway Gothic.
 * [Twitter Color Emoji Font](https://github.com/eosrei/twemoji-color-font) ⭐ 1,918 | 🐛 44 | 🌐 Makefile | 📅 2026-06-25 - Color emoji OpenType-SVG font using Twitter Unicode 9.0 emoji with diversity and country flags.
