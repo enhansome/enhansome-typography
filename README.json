@@ -243,7 +243,7 @@
             "last_commit": "2026-08-02T06:42:09Z",
             "owner": "nothings",
             "repo": "stb",
-            "stars": 34493
+            "stars": 34497
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2026-07-31T11:47:08Z",
             "owner": "swaywm",
             "repo": "sway",
-            "stars": 17264
+            "stars": 17268
           }
         },
         {
@@ -621,7 +621,7 @@
             "archived": false,
             "id": 69223520,
             "language": "HTML",
-            "last_commit": "2026-08-22T14:47:30Z",
+            "last_commit": "2026-08-24T21:26:26Z",
             "owner": "unicode-org",
             "repo": "text-rendering-tests",
             "stars": 186
@@ -1965,10 +1965,10 @@
             "archived": false,
             "id": 11639637,
             "language": "Python",
-            "last_commit": "2026-08-20T16:44:11Z",
+            "last_commit": "2026-08-24T20:58:48Z",
             "owner": "fonttools",
             "repo": "fonttools",
-            "stars": 5214
+            "stars": 5215
           }
         },
         {
@@ -2700,7 +2700,7 @@
                 "last_commit": "2026-08-10T19:47:54Z",
                 "owner": "fontforge",
                 "repo": "fontforge",
-                "stars": 7908
+                "stars": 7910
               }
             },
             {
@@ -2837,7 +2837,7 @@
             "last_commit": "2026-07-07T21:41:18Z",
             "owner": "twitter",
             "repo": "twemoji",
-            "stars": 17758
+            "stars": 17759
           }
         },
         {
@@ -3218,7 +3218,7 @@
             "last_commit": "2025-06-25T03:30:03Z",
             "owner": "adobe-fonts",
             "repo": "source-han-sans",
-            "stars": 17122
+            "stars": 17123
           }
         },
         {
@@ -3263,7 +3263,7 @@
             "last_commit": "2025-09-15T22:36:48Z",
             "owner": "googlefonts",
             "repo": "noto-emoji",
-            "stars": 4895
+            "stars": 4896
           }
         },
         {
@@ -3751,7 +3751,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:14:56.955Z",
+    "last_updated": "2026-08-25T04:56:41.785Z",
     "original_repository": "Jolg42/awesome-typography",
     "original_repository_id": 60974520,
     "original_repository_sha": "a730d37ca502660ac4c897ec7a55d8614f129e6e",
