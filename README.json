@@ -258,7 +258,7 @@
             "last_commit": "2026-07-31T11:47:08Z",
             "owner": "swaywm",
             "repo": "sway",
-            "stars": 17273
+            "stars": 17272
           }
         },
         {
@@ -639,7 +639,7 @@
             "last_commit": "2025-05-08T01:44:11Z",
             "owner": "kohler",
             "repo": "lcdf-typetools",
-            "stars": 170
+            "stars": 169
           }
         },
         {
@@ -3203,7 +3203,7 @@
             "last_commit": "2026-08-27T03:38:17Z",
             "owner": "be5invis",
             "repo": "Iosevka",
-            "stars": 22679
+            "stars": 22680
           }
         },
         {
@@ -3218,7 +3218,7 @@
             "last_commit": "2025-06-25T03:30:03Z",
             "owner": "adobe-fonts",
             "repo": "source-han-sans",
-            "stars": 17136
+            "stars": 17138
           }
         },
         {
@@ -3751,7 +3751,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:08:56.454Z",
+    "last_updated": "2026-08-27T15:18:13.655Z",
     "original_repository_info": {
       "archived": false,
       "id": 60974520,

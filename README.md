@@ -76,7 +76,7 @@ Curated list about digital typography.
 ## C
 
 * [stb\_truetype](https://github.com/nothings/stb/) ⭐ 34,519 | 🐛 417 | 🌐 C | 📅 2026-08-02 - Parse, decode, and rasterize characters for TrueType fonts. Single header file.
-* [sway](https://codeberg.org/dnkl/sway) - This is a fork of <https://github.com/swaywm/sway> ⭐ 17,273 | 🐛 1,379 | 🌐 C | 📅 2026-07-31 that replaces pango with <https://codeberg.org/dnkl/fcft> for font rendering.
+* [sway](https://codeberg.org/dnkl/sway) - This is a fork of <https://github.com/swaywm/sway> ⭐ 17,272 | 🐛 1,379 | 🌐 C | 📅 2026-07-31 that replaces pango with <https://codeberg.org/dnkl/fcft> for font rendering.
 * [freetype-gl](https://github.com/rougier/freetype-gl) ⭐ 1,745 | 🐛 75 | 🌐 C | 📅 2026-07-20 - OpenGL text using one vertex buffer, one texture and FreeType.
 * [Slug](https://github.com/EricLengyel/Slug) ⭐ 1,508 | 🐛 0 | 🌐 HLSL | 📅 2026-04-15 - Reference code for the Slug Algorithm.
 * [AFDKO](https://github.com/adobe-type-tools/afdko) ⭐ 1,177 | 🐛 214 | 🌐 PostScript | 📅 2026-08-27 - Adobe Font Development Kit for OpenType. See [AFDKO Overview](https://www.adobe.com/devnet/opentype/afdko/topic_overview.html).
@@ -117,7 +117,7 @@ Curated list about digital typography.
 * [FontView](https://github.com/googlei18n/fontview) ⚠️ Archived - Demo app that displays fonts with a free/libre/open-source text rendering stack: FreeType, HarfBuzz and Raqm.
 * [font to svg](https://github.com/donbright/font_to_svg) ⭐ 268 | 🐛 2 | 🌐 C++ | 📅 2022-11-21 - Render characters from font files into an SVG path.
 * [Text rendering tests](https://github.com/unicode-org/text-rendering-tests) ⭐ 186 | 🐛 18 | 🌐 HTML | 📅 2026-08-24 - Test suite for text rendering.
-* [LCDF Typetools](https://github.com/kohler/lcdf-typetools) ⭐ 170 | 🐛 5 | 🌐 C++ | 📅 2025-05-08 - Utilities for manipulating OpenType, PostScript Type 1, and Multiple Master fonts.
+* [LCDF Typetools](https://github.com/kohler/lcdf-typetools) ⭐ 169 | 🐛 5 | 🌐 C++ | 📅 2025-05-08 - Utilities for manipulating OpenType, PostScript Type 1, and Multiple Master fonts.
 * [FTGLES](https://github.com/cdave1/ftgles) ⭐ 144 | 🐛 10 | 🌐 C++ | 📅 2018-02-28 - TrueType font rendering library for OpenGL ES on iOS devices (iPad and iPhone).
 * [ascii-art](https://github.com/codewithnick/ascii-art) ⭐ 94 | 🐛 23 | 🌐 C++ | 📅 2025-01-29 - A C++ library to make everyday alphabets look much better on the terminal , this project uses OOPS concepts to make unique fonts and display letters on command line.
 * [stb-truetype-opengl-examples](https://github.com/0xc0dec/demos) ⭐ 48 | 🐛 0 | 🌐 C++ | 📅 2026-03-31 - Examples of TrueType font rendering in C++11 using stb\_truetype library and OpenGL 3+.
@@ -235,7 +235,7 @@ Curated list about digital typography.
 
 * [fontTools](https://github.com/fonttools/fonttools) ⭐ 5,219 | 🐛 405 | 🌐 Python | 📅 2026-08-25 - Library for manipulating fonts, written in Python.
 * [fontmake](https://github.com/googlei18n/fontmake) ⭐ 884 | 🐛 270 | 🌐 Python | 📅 2026-08-19 - Compile fonts from sources (UFO, Glyphs) to binary (OpenType, TrueType).
-* [Font Bakery](https://github.com/googlefonts/fontbakery) ⭐ 695 | 🐛 302 | 🌐 Python | 📅 2025-11-04 - Tools to prepare font families for inclusion in [github.com/google/fonts](https://github.com/google/fonts) ⭐ 20,414 | 🐛 1,408 | 🌐 HTML | 📅 2026-08-27.
+* [Font Bakery](https://github.com/googlefonts/fontbakery) ⭐ 695 | 🐛 302 | 🌐 Python | 📅 2025-11-04 - Tools to prepare font families for inclusion in [github.com/google/fonts](https://github.com/google/fonts) ⭐ 20,417 | 🐛 1,409 | 🌐 HTML | 📅 2026-08-27.
 * [pyftfeatfreeze](https://github.com/twardoch/fonttools-utils/tree/master/pyftfeatfreeze) ⭐ 484 | 🐛 19 | 🌐 Python | 📅 2026-08-17 - With pyftfeatfreeze, you can “freeze” some OpenType features into a font.
 * [monospacifier.py](https://github.com/cpitclaudel/monospacifier) ⭐ 429 | 🐛 10 | 🌐 Python | 📅 2024-01-30 - Convert variable-pitch fonts to monospace (useful for unicode and indentation-friendly programming).
 * [Noto Tools](https://github.com/googlei18n/nototools) ⭐ 304 | 🐛 99 | 🌐 Python | 📅 2026-08-03 - Noto fonts support tools and scripts.
@@ -407,8 +407,8 @@ Curated list about digital typography.
 
 ## Fonts
 
-* [Iosevka](https://github.com/be5invis/Iosevka) ⭐ 22,679 | 🐛 101 | 🌐 JavaScript | 📅 2026-08-27 - Slender typeface for code, from code.
-* [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) ⭐ 17,136 | 🐛 163 | 🌐 Python | 📅 2025-06-25 - Set of OpenType/CFF Pan-CJK fonts.
+* [Iosevka](https://github.com/be5invis/Iosevka) ⭐ 22,680 | 🐛 101 | 🌐 JavaScript | 📅 2026-08-27 - Slender typeface for code, from code.
+* [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) ⭐ 17,138 | 🐛 163 | 🌐 Python | 📅 2025-06-25 - Set of OpenType/CFF Pan-CJK fonts.
 * [Source Han Serif](https://github.com/adobe-fonts/source-han-serif) ⭐ 9,646 | 🐛 74 | 🌐 Shell | 📅 2024-07-30 - Set of OpenType/CFF Pan-CJK fonts.
 * [Hasklig](https://github.com/i-tu/Hasklig) ⭐ 5,716 | 🐛 44 | 🌐 Python | 📅 2022-02-19 - Code font with monospaced ligatures.
 * [Noto Emoji](https://github.com/googlei18n/noto-emoji) ⭐ 4,905 | 🐛 107 | 🌐 Python | 📅 2025-09-15 - Color and Black-and-White Noto emoji fonts, and tools for working with them.
