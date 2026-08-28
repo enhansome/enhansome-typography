@@ -16,7 +16,8 @@
             "owner": "Pomax",
             "repo": "the-cff-table",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         }
       ],
       "title": "Specifications"
@@ -37,7 +38,8 @@
             "owner": "typesupply",
             "repo": "opentype-cookbook",
             "stars": 122
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         }
       ],
       "title": "OpenType"
@@ -58,7 +60,8 @@
             "owner": "rewtnull",
             "repo": "amigafonts",
             "stars": 372
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -73,7 +76,8 @@
             "owner": "viler-int10h",
             "repo": "Fontraption",
             "stars": 122
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -88,7 +92,8 @@
             "owner": "ISSOtm",
             "repo": "gb-vwf",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "echolevel",
             "repo": "protracker-font",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "viler-int10h",
             "repo": "CGA-font-compare",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "mchlmmc",
             "repo": "x86-Assembly-Font-Renderer",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "kenjennings",
             "repo": "Atari-Font-To-Code",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "ArTicZera",
             "repo": "x86-Assembly-Fonts",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "hexagonix",
             "repo": "xfnt",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "imnr",
             "repo": "persian-assembly-font",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "kenjennings",
             "repo": "Atari-Binary-To-Code",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "samoylenko",
             "repo": "again",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         }
       ],
       "title": "Assembly"
@@ -243,8 +257,9 @@
             "last_commit": "2026-08-02T06:42:09Z",
             "owner": "nothings",
             "repo": "stb",
-            "stars": 34519
-          }
+            "stars": 34525
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -258,8 +273,9 @@
             "last_commit": "2026-07-31T11:47:08Z",
             "owner": "swaywm",
             "repo": "sway",
-            "stars": 17272
-          }
+            "stars": 17277
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -274,7 +290,8 @@
             "owner": "rougier",
             "repo": "freetype-gl",
             "stars": 1745
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -288,8 +305,9 @@
             "last_commit": "2026-04-15T17:56:36Z",
             "owner": "EricLengyel",
             "repo": "Slug",
-            "stars": 1508
-          }
+            "stars": 1507
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "adobe-type-tools",
             "repo": "afdko",
             "stars": 1177
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "caryll",
             "repo": "otfcc",
             "stars": 436
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "onecoolx",
             "repo": "picasso",
             "stars": 378
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "HOST-Oman",
             "repo": "libraqm",
             "stars": 330
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -363,8 +385,9 @@
             "last_commit": "2024-06-26T01:30:21Z",
             "owner": "fetisov",
             "repo": "ttf2mesh",
-            "stars": 232
-          }
+            "stars": 233
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "Tehreer",
             "repo": "SheenBidi",
             "stars": 216
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "mightycow",
             "repo": "Sluggish",
             "stars": 198
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -409,7 +434,8 @@
             "owner": "rillig",
             "repo": "sfntly",
             "stars": 178
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -424,7 +450,8 @@
             "owner": "AlphaPixel",
             "repo": "slughorn",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "saidwho12",
             "repo": "hamza",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "cbm80amiga",
             "repo": "RREFont",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -469,7 +498,8 @@
             "owner": "Tehreer",
             "repo": "SheenFigure",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -484,7 +514,8 @@
             "owner": "samboy",
             "repo": "WOFF",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -499,7 +530,8 @@
             "owner": "michaelrsweet",
             "repo": "ttf",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -514,7 +546,8 @@
             "owner": "AlphaPixel",
             "repo": "osgSlug",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -529,7 +562,8 @@
             "owner": "craftmicro",
             "repo": "craftmicro-fonts",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -544,7 +578,8 @@
             "owner": "cellularmitosis",
             "repo": "libint10h_fonts",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -559,7 +594,8 @@
             "owner": "roundsToThree",
             "repo": "TeensieFont",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         }
       ],
       "title": "C"
@@ -580,7 +616,8 @@
             "owner": "google",
             "repo": "woff2",
             "stars": 1818
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -595,7 +632,8 @@
             "owner": "googlefonts",
             "repo": "fontview",
             "stars": 336
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -610,7 +648,8 @@
             "owner": "donbright",
             "repo": "font_to_svg",
             "stars": 268
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -625,7 +664,8 @@
             "owner": "unicode-org",
             "repo": "text-rendering-tests",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -640,7 +680,8 @@
             "owner": "kohler",
             "repo": "lcdf-typetools",
             "stars": 169
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -655,7 +696,8 @@
             "owner": "cdave1",
             "repo": "ftgles",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -669,8 +711,9 @@
             "last_commit": "2025-01-29T11:04:20Z",
             "owner": "codewithnick",
             "repo": "ascii-art",
-            "stars": 94
-          }
+            "stars": 95
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -685,7 +728,8 @@
             "owner": "lexfn",
             "repo": "demos",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -700,7 +744,8 @@
             "owner": "KyrietS",
             "repo": "trex",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -715,7 +760,8 @@
             "owner": "Chlumsky",
             "repo": "artery-font-format",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -730,7 +776,8 @@
             "owner": "cbm80amiga",
             "repo": "DigiFont",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -745,7 +792,8 @@
             "owner": "rmuch",
             "repo": "ttfpatch",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -760,7 +808,8 @@
             "owner": "VoxelStorm-Ltd",
             "repo": "vectorfontstorm",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         }
       ],
       "title": "C++"
@@ -781,7 +830,8 @@
             "owner": "LayoutFarm",
             "repo": "Typography",
             "stars": 456
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -796,7 +846,8 @@
             "owner": "SixLabors",
             "repo": "Fonts",
             "stars": 348
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -811,7 +862,8 @@
             "owner": "MikePopoloski",
             "repo": "SharpFont",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -826,7 +878,8 @@
             "owner": "vidstige",
             "repo": "NRasterizer",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         }
       ],
       "title": "C#"
@@ -847,7 +900,8 @@
             "owner": "servo",
             "repo": "font-kit",
             "stars": 836
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -862,7 +916,8 @@
             "owner": "raphlinus",
             "repo": "font-rs",
             "stars": 774
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -877,7 +932,8 @@
             "owner": "redox-os",
             "repo": "rusttype",
             "stars": 639
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -892,7 +948,8 @@
             "owner": "pcwalton",
             "repo": "pathfinder",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -907,7 +964,8 @@
             "owner": "PistonDevelopers",
             "repo": "freetype-rs",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -922,7 +980,8 @@
             "owner": "bodoni",
             "repo": "font",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -937,7 +996,8 @@
             "owner": "bodoni",
             "repo": "opentype",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -952,7 +1012,8 @@
             "owner": "PistonDevelopers",
             "repo": "freetype-sys",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -967,7 +1028,8 @@
             "owner": "PistonDevelopers",
             "repo": "truetype",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -982,7 +1044,8 @@
             "owner": "bodoni",
             "repo": "truetype",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -997,7 +1060,8 @@
             "owner": "bodoni",
             "repo": "postscript",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         }
       ],
       "title": "Rust"
@@ -1018,7 +1082,8 @@
             "owner": "typekit",
             "repo": "webfontloader",
             "stars": 9249
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1033,7 +1098,8 @@
             "owner": "fontello",
             "repo": "fontello",
             "stars": 7083
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1047,8 +1113,9 @@
             "last_commit": "2025-08-13T07:03:41Z",
             "owner": "ecomfe",
             "repo": "fontmin",
-            "stars": 6212
-          }
+            "stars": 6213
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1062,8 +1129,9 @@
             "last_commit": "2022-12-30T18:18:29Z",
             "owner": "aui",
             "repo": "font-spider",
-            "stars": 5143
-          }
+            "stars": 5142
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1077,8 +1145,9 @@
             "last_commit": "2026-08-08T03:59:23Z",
             "owner": "opentypejs",
             "repo": "opentype.js",
-            "stars": 5012
-          }
+            "stars": 5011
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1093,7 +1162,8 @@
             "owner": "bramstein",
             "repo": "fontfaceobserver",
             "stars": 4335
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1108,7 +1178,8 @@
             "owner": "davidmerfield",
             "repo": "Typeset",
             "stars": 2679
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1123,7 +1194,8 @@
             "owner": "Mottie",
             "repo": "GitHub-userscripts",
             "stars": 2029
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1138,7 +1210,8 @@
             "owner": "mathiasbynens",
             "repo": "punycode.js",
             "stars": 1689
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1153,7 +1226,8 @@
             "owner": "foliojs",
             "repo": "fontkit",
             "stars": 1668
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1168,7 +1242,8 @@
             "owner": "Munter",
             "repo": "subfont",
             "stars": 1636
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1183,7 +1258,8 @@
             "owner": "omnidan",
             "repo": "node-emoji",
             "stars": 1341
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1198,7 +1274,8 @@
             "owner": "filamentgroup",
             "repo": "glyphhanger",
             "stars": 1123
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1213,7 +1290,8 @@
             "owner": "bramstein",
             "repo": "typeset",
             "stars": 1037
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1228,7 +1306,8 @@
             "owner": "photopea",
             "repo": "Typr.js",
             "stars": 1000
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1243,7 +1322,8 @@
             "owner": "orling",
             "repo": "grapheme-splitter",
             "stars": 985
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1257,8 +1337,9 @@
             "last_commit": "2016-02-19T12:46:25Z",
             "owner": "jaicab",
             "repo": "localFont",
-            "stars": 846
-          }
+            "stars": 845
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1273,7 +1354,8 @@
             "owner": "matthewgonzalez",
             "repo": "fontplop",
             "stars": 790
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1288,7 +1370,8 @@
             "owner": "mnater",
             "repo": "Hyphenopoly",
             "stars": 734
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1303,7 +1386,8 @@
             "owner": "mnater",
             "repo": "Hyphenator",
             "stars": 595
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1318,7 +1402,8 @@
             "owner": "byte-foundry",
             "repo": "plumin.js",
             "stars": 591
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1333,7 +1418,8 @@
             "owner": "bramstein",
             "repo": "hypher",
             "stars": 583
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1348,7 +1434,8 @@
             "owner": "foliojs",
             "repo": "brotli.js",
             "stars": 537
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1362,8 +1449,9 @@
             "last_commit": "2026-06-22T03:08:17Z",
             "owner": "kekee000",
             "repo": "fonteditor-core",
-            "stars": 385
-          }
+            "stars": 386
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1378,7 +1466,8 @@
             "owner": "fontello",
             "repo": "ttf2woff",
             "stars": 359
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1393,7 +1482,8 @@
             "owner": "nfroidure",
             "repo": "ttf2woff2",
             "stars": 342
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1408,7 +1498,8 @@
             "owner": "eugene1g",
             "repo": "font-blast",
             "stars": 339
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1423,7 +1514,8 @@
             "owner": "itgalaxy",
             "repo": "webfont",
             "stars": 308
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1438,7 +1530,8 @@
             "owner": "node-unicode",
             "repo": "node-unicode-data",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1453,7 +1546,8 @@
             "owner": "Monotype",
             "repo": "variableFont.js",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1468,7 +1562,8 @@
             "owner": "fontello",
             "repo": "ttf2eot",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1483,7 +1578,8 @@
             "owner": "fontwr",
             "repo": "fontwr",
             "stars": 136
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1498,7 +1594,8 @@
             "owner": "bramstein",
             "repo": "opentype",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1513,7 +1610,8 @@
             "owner": "forwardemail",
             "repo": "custom-fonts-in-emails",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1528,7 +1626,8 @@
             "owner": "Experience-Monks",
             "repo": "opentype-layout",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1543,7 +1642,8 @@
             "owner": "RoelN",
             "repo": "ChromaCheck",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1558,7 +1658,8 @@
             "owner": "fontello",
             "repo": "svg-font-create",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1573,7 +1674,8 @@
             "owner": "dotcore64",
             "repo": "fontfacegen",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1588,7 +1690,8 @@
             "owner": "foliojs",
             "repo": "unicode-properties",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1603,7 +1706,8 @@
             "owner": "Pomax",
             "repo": "A-binary-parser-generator",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1618,7 +1722,8 @@
             "owner": "fontello",
             "repo": "cubic2quad",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1633,7 +1738,8 @@
             "owner": "magalhini",
             "repo": "open-type-playground",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1648,7 +1754,8 @@
             "owner": "caryll",
             "repo": "otfcc-cubic2quad",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1663,7 +1770,8 @@
             "owner": "kevinzweerink",
             "repo": "ntype",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1678,7 +1786,8 @@
             "owner": "rocallahan",
             "repo": "svg-opentype-workshop",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1693,7 +1802,8 @@
             "owner": "sindresorhus",
             "repo": "code-point-at",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1708,7 +1818,8 @@
             "owner": "tomchen",
             "repo": "bdfparser-js",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1723,7 +1834,8 @@
             "owner": "shyiko",
             "repo": "canvas-text-opentypejs-shim",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1738,7 +1850,8 @@
             "owner": "be5invis",
             "repo": "node-sfnt",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1753,7 +1866,8 @@
             "owner": "thisarmy",
             "repo": "fontsinfo",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1768,7 +1882,8 @@
             "owner": "nfroidure",
             "repo": "svgfont2svgicons",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1783,7 +1898,8 @@
             "owner": "hsiaosiyuan0",
             "repo": "fonts",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1798,7 +1914,8 @@
             "owner": "Pomax",
             "repo": "minimal-font-generator",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1813,7 +1930,8 @@
             "owner": "cameronhunter",
             "repo": "unicode-tr51-emoji",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1828,7 +1946,8 @@
             "owner": "caryll",
             "repo": "shapeops",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1843,7 +1962,8 @@
             "owner": "dfrankland",
             "repo": "node-fonttools",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1858,7 +1978,8 @@
             "owner": "ynakajima",
             "repo": "ucd",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1873,7 +1994,8 @@
             "owner": "graphicore",
             "repo": "charset-inspector",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1888,7 +2010,8 @@
             "owner": "chbrown",
             "repo": "unidata",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1903,7 +2026,8 @@
             "owner": "laoshu133",
             "repo": "sfnt2woff",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1918,7 +2042,8 @@
             "owner": "nascherman",
             "repo": "opentype-geometry",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1933,7 +2058,8 @@
             "owner": "Pomax",
             "repo": "simple-cff-builder",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1948,7 +2074,8 @@
             "owner": "bluejamesbond",
             "repo": "CharacterMap",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         }
       ],
       "title": "JavaScript"
@@ -1965,11 +2092,12 @@
             "archived": false,
             "id": 11639637,
             "language": "Python",
-            "last_commit": "2026-08-25T21:59:20Z",
+            "last_commit": "2026-08-28T16:17:29Z",
             "owner": "fonttools",
             "repo": "fonttools",
-            "stars": 5219
-          }
+            "stars": 5222
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1984,7 +2112,8 @@
             "owner": "googlefonts",
             "repo": "fontmake",
             "stars": 884
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -1998,8 +2127,9 @@
             "last_commit": "2025-11-04T18:52:25Z",
             "owner": "fonttools",
             "repo": "fontbakery",
-            "stars": 695
-          }
+            "stars": 696
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2014,7 +2144,8 @@
             "owner": "twardoch",
             "repo": "fonttools-opentype-feature-freezer",
             "stars": 484
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2029,7 +2160,8 @@
             "owner": "cpitclaudel",
             "repo": "monospacifier",
             "stars": 429
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2044,7 +2176,8 @@
             "owner": "notofonts",
             "repo": "nototools",
             "stars": 304
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2059,7 +2192,8 @@
             "owner": "adobe-type-tools",
             "repo": "opentype-svg",
             "stars": 231
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2074,7 +2208,8 @@
             "owner": "Pythonity",
             "repo": "icon-font-to-png",
             "stars": 208
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2089,7 +2224,8 @@
             "owner": "source-foundry",
             "repo": "font-line",
             "stars": 203
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2104,7 +2240,8 @@
             "owner": "adobe-type-tools",
             "repo": "box-drawing",
             "stars": 157
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2119,7 +2256,8 @@
             "owner": "googlefonts",
             "repo": "fontdiff",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2134,7 +2272,8 @@
             "owner": "PageBot",
             "repo": "PageBot",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2149,7 +2288,8 @@
             "owner": "googlefonts",
             "repo": "pyfontaine",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2164,7 +2304,8 @@
             "owner": "13rac1",
             "repo": "scfbuild",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2179,7 +2320,8 @@
             "owner": "LettError",
             "repo": "glyphNameFormatter",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2194,7 +2336,8 @@
             "owner": "huertatipografica",
             "repo": "HTLetterspacer",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2209,7 +2352,8 @@
             "owner": "hodefoting",
             "repo": "kernagic",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2224,7 +2368,8 @@
             "owner": "adobe-type-tools",
             "repo": "kern-dump",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2239,7 +2384,8 @@
             "owner": "typesupply",
             "repo": "glyph-nanny",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2254,7 +2400,8 @@
             "owner": "googlefonts",
             "repo": "cu2qu",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2269,7 +2416,8 @@
             "owner": "robotools",
             "repo": "extractor",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2284,7 +2432,8 @@
             "owner": "googlefonts",
             "repo": "fontreport",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2299,7 +2448,8 @@
             "owner": "typesupply",
             "repo": "woffTools",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2314,7 +2464,8 @@
             "owner": "tomchen",
             "repo": "bdfparser",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2329,7 +2480,8 @@
             "owner": "robotools",
             "repo": "compositor",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2344,7 +2496,8 @@
             "owner": "googlefonts",
             "repo": "compreffor",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2359,7 +2512,8 @@
             "owner": "edf825",
             "repo": "SVG-OpenType-Utils",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         }
       ],
       "title": "Python"
@@ -2380,7 +2534,8 @@
             "owner": "googlefonts",
             "repo": "sfntly",
             "stars": 470
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2395,7 +2550,8 @@
             "owner": "MitchTalmadge",
             "repo": "Emoji-Tools",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2410,7 +2566,8 @@
             "owner": "Tehreer",
             "repo": "Tehreer-Android",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         }
       ],
       "title": "Java"
@@ -2431,7 +2588,8 @@
             "owner": "tmm1",
             "repo": "emoji-extractor",
             "stars": 562
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2446,7 +2604,8 @@
             "owner": "alyssais",
             "repo": "font",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         }
       ],
       "title": "Ruby"
@@ -2467,7 +2626,8 @@
             "owner": "golang",
             "repo": "freetype",
             "stars": 820
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2482,7 +2642,8 @@
             "owner": "ConradIrwin",
             "repo": "font",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         }
       ],
       "title": "Go"
@@ -2503,7 +2664,8 @@
             "owner": "dompdf",
             "repo": "php-font-lib",
             "stars": 1798
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2518,7 +2680,8 @@
             "owner": "jolicode",
             "repo": "JoliTypo",
             "stars": 350
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2533,7 +2696,8 @@
             "owner": "michelf",
             "repo": "php-smartypants",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         }
       ],
       "title": "PHP"
@@ -2554,7 +2718,8 @@
             "owner": "andipollok",
             "repo": "Fontastic",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         }
       ],
       "title": "Processing"
@@ -2575,7 +2740,8 @@
             "owner": "ivarref",
             "repo": "opentype.clj",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         }
       ],
       "title": "Clojure"
@@ -2596,7 +2762,8 @@
             "owner": "unified-font-object",
             "repo": "ufo-spec",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2611,7 +2778,8 @@
             "owner": "googlefonts",
             "repo": "ufo2ft",
             "stars": 175
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2626,7 +2794,8 @@
             "owner": "graphicore",
             "repo": "ufoJS",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2641,7 +2810,8 @@
             "owner": "unified-font-object",
             "repo": "ufoNormalizer",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2656,7 +2826,8 @@
             "owner": "unified-font-object",
             "repo": "ufoLib",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         }
       ],
       "title": "UFO"
@@ -2679,7 +2850,8 @@
                 "owner": "byte-foundry",
                 "repo": "prototypo",
                 "stars": 475
-              }
+              },
+              "first_seen": "2026-08-28T16:41:52.376Z"
             }
           ],
           "description": null,
@@ -2700,8 +2872,9 @@
                 "last_commit": "2026-08-10T19:47:54Z",
                 "owner": "fontforge",
                 "repo": "fontforge",
-                "stars": 7914
-              }
+                "stars": 7917
+              },
+              "first_seen": "2026-08-28T16:41:52.376Z"
             },
             {
               "node_type": "item",
@@ -2715,8 +2888,9 @@
                 "last_commit": "2025-07-15T07:19:10Z",
                 "owner": "ecomfe",
                 "repo": "fonteditor",
-                "stars": 1494
-              }
+                "stars": 1495
+              },
+              "first_seen": "2026-08-28T16:41:52.376Z"
             },
             {
               "node_type": "item",
@@ -2731,7 +2905,8 @@
                 "owner": "johanmattssonm",
                 "repo": "birdfont",
                 "stars": 555
-              }
+              },
+              "first_seen": "2026-08-28T16:41:52.376Z"
             },
             {
               "node_type": "item",
@@ -2746,7 +2921,8 @@
                 "owner": "trufont",
                 "repo": "trufont",
                 "stars": 505
-              }
+              },
+              "first_seen": "2026-08-28T16:41:52.376Z"
             },
             {
               "node_type": "item",
@@ -2761,7 +2937,8 @@
                 "owner": "microsoft",
                 "repo": "OpenType-SVG-Font-Editor",
                 "stars": 183
-              }
+              },
+              "first_seen": "2026-08-28T16:41:52.376Z"
             },
             {
               "node_type": "item",
@@ -2776,7 +2953,8 @@
                 "owner": "aiekick",
                 "repo": "SdfFontDesigner",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T16:41:52.376Z"
             }
           ],
           "description": null,
@@ -2801,8 +2979,9 @@
             "last_commit": "2026-08-04T00:28:23Z",
             "owner": "khaledhosny",
             "repo": "ots",
-            "stars": 308
-          }
+            "stars": 309
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2817,7 +2996,8 @@
             "owner": "HinTak",
             "repo": "Font-Validator",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         }
       ],
       "title": "Font Validator"
@@ -2837,8 +3017,9 @@
             "last_commit": "2026-07-07T21:41:18Z",
             "owner": "twitter",
             "repo": "twemoji",
-            "stars": 17766
-          }
+            "stars": 17767
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2853,7 +3034,8 @@
             "owner": "joypixels",
             "repo": "emojione",
             "stars": 4428
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2868,7 +3050,8 @@
             "owner": "Rush",
             "repo": "Font-Awesome-SVG-PNG",
             "stars": 3227
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2883,7 +3066,8 @@
             "owner": "sindresorhus",
             "repo": "emoj",
             "stars": 2430
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2898,7 +3082,8 @@
             "owner": "fontforge",
             "repo": "designwithfontforge.com",
             "stars": 1041
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2913,7 +3098,8 @@
             "owner": "kennethormandy",
             "repo": "utility-opentype",
             "stars": 501
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2928,7 +3114,8 @@
             "owner": "bramstein",
             "repo": "homebrew-webfonttools",
             "stars": 364
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2942,8 +3129,9 @@
             "last_commit": "2024-09-10T17:19:40Z",
             "owner": "impallari",
             "repo": "Font-Testing-Page",
-            "stars": 277
-          }
+            "stars": 278
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2958,7 +3146,8 @@
             "owner": "scribbletone",
             "repo": "i-can-variable-font",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2973,7 +3162,8 @@
             "owner": "RoelN",
             "repo": "Font-Falsehoods",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -2988,7 +3178,8 @@
             "owner": "adobe-type-tools",
             "repo": "agl-aglfn",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3003,7 +3194,8 @@
             "owner": "raphaelbastide",
             "repo": "ofont",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3018,7 +3210,8 @@
             "owner": "frankrolf",
             "repo": "git-for-type-designers",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3033,7 +3226,8 @@
             "owner": "jessetane",
             "repo": "unicodes",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3048,7 +3242,8 @@
             "owner": "bramstein",
             "repo": "stateofwebtype",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3063,7 +3258,8 @@
             "owner": "charlesmchen",
             "repo": "typefacet",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3078,7 +3274,8 @@
             "owner": "n8willis",
             "repo": "kernall",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3093,7 +3290,8 @@
             "owner": "brew",
             "repo": "opentype-feature-bundle",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3108,7 +3306,8 @@
             "owner": "ruppde",
             "repo": "crypto_puzzles",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3123,7 +3322,8 @@
             "owner": "typefacts",
             "repo": "alfred-special-characters",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3138,7 +3338,8 @@
             "owner": "opensource-opentype",
             "repo": "features",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3153,7 +3354,8 @@
             "owner": "Monotype",
             "repo": "OpenType_Table_Source",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3168,7 +3370,8 @@
             "owner": "jenskutilek",
             "repo": "TypoLabs2016",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3183,7 +3386,8 @@
             "owner": "benkiel",
             "repo": "dotfiles",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         }
       ],
       "title": "Miscellaneous"
@@ -3203,8 +3407,9 @@
             "last_commit": "2026-08-27T03:38:17Z",
             "owner": "be5invis",
             "repo": "Iosevka",
-            "stars": 22680
-          }
+            "stars": 22685
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3218,8 +3423,9 @@
             "last_commit": "2025-06-25T03:30:03Z",
             "owner": "adobe-fonts",
             "repo": "source-han-sans",
-            "stars": 17138
-          }
+            "stars": 17148
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3233,8 +3439,9 @@
             "last_commit": "2024-07-30T18:57:27Z",
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9646
-          }
+            "stars": 9653
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3249,7 +3456,8 @@
             "owner": "i-tu",
             "repo": "Hasklig",
             "stars": 5716
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3263,8 +3471,9 @@
             "last_commit": "2025-09-15T22:36:48Z",
             "owner": "googlefonts",
             "repo": "noto-emoji",
-            "stars": 4905
-          }
+            "stars": 4907
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3279,7 +3488,8 @@
             "owner": "notofonts",
             "repo": "noto-fonts",
             "stars": 2503
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3294,7 +3504,8 @@
             "owner": "RedHatOfficial",
             "repo": "Overpass",
             "stars": 2096
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3309,7 +3520,8 @@
             "owner": "13rac1",
             "repo": "twemoji-color-font",
             "stars": 1918
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3324,7 +3536,8 @@
             "owner": "13rac1",
             "repo": "emojione-color-font",
             "stars": 904
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3339,7 +3552,8 @@
             "owner": "jenskutilek",
             "repo": "FiraSystemFontReplacement",
             "stars": 746
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3354,7 +3568,8 @@
             "owner": "theleagueof",
             "repo": "raleway",
             "stars": 627
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3369,7 +3584,8 @@
             "owner": "dy",
             "repo": "wavefont",
             "stars": 466
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3384,7 +3600,8 @@
             "owner": "mozilla",
             "repo": "twemoji-colr",
             "stars": 395
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3399,7 +3616,8 @@
             "owner": "djrrb",
             "repo": "Bungee",
             "stars": 376
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3414,7 +3632,8 @@
             "owner": "mozilla",
             "repo": "fxemoji",
             "stars": 333
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3429,7 +3648,8 @@
             "owner": "RoelN",
             "repo": "SansBullshitSans",
             "stars": 321
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3444,7 +3664,8 @@
             "owner": "adobe-fonts",
             "repo": "adobe-blank",
             "stars": 226
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3459,7 +3680,8 @@
             "owner": "adobe-fonts",
             "repo": "adobe-variable-font-prototype",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3474,7 +3696,8 @@
             "owner": "microsoft",
             "repo": "fonts",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3489,7 +3712,8 @@
             "owner": "Fontself",
             "repo": "TypeWithPride",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3504,7 +3728,8 @@
             "owner": "adobe-fonts",
             "repo": "adobe-notdef",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3519,7 +3744,8 @@
             "owner": "adobe-fonts",
             "repo": "source-emoji",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3534,7 +3760,8 @@
             "owner": "adobe-fonts",
             "repo": "adobe-blank-2",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3549,7 +3776,8 @@
             "owner": "TrueTyper",
             "repo": "BuffaloGals",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3564,7 +3792,8 @@
             "owner": "RoelN",
             "repo": "Compyx",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3579,7 +3808,8 @@
             "owner": "bramstein",
             "repo": "nanofont",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3594,7 +3824,8 @@
             "owner": "RoelN",
             "repo": "LapisLegit",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3609,7 +3840,8 @@
             "owner": "Denly",
             "repo": "AIFont",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3624,7 +3856,8 @@
             "owner": "xerographer",
             "repo": "multicoloure-font",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3639,7 +3872,8 @@
             "owner": "xerographer",
             "repo": "reinebow-color-font",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3654,7 +3888,8 @@
             "owner": "OpenType",
             "repo": "TestFont",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3669,7 +3904,8 @@
             "owner": "RoelN",
             "repo": "Blackout",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3684,7 +3920,8 @@
             "owner": "xerographer",
             "repo": "freizer-color-font",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3699,7 +3936,8 @@
             "owner": "grzegorzrolek",
             "repo": "null-ttf",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3714,7 +3952,8 @@
             "owner": "Pomax",
             "repo": "cff-opcode-fonts",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3729,7 +3968,8 @@
             "owner": "adobe-fonts",
             "repo": "width-test",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         },
         {
           "node_type": "item",
@@ -3744,14 +3984,15 @@
             "owner": "raphaklaus",
             "repo": "fontwr-fonts",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
         }
       ],
       "title": "Fonts"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:18:13.655Z",
+    "last_updated": "2026-08-28T16:41:52.376Z",
     "original_repository_info": {
       "archived": false,
       "id": 60974520,
