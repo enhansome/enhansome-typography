@@ -73,7 +73,7 @@
             "open_issues": 3,
             "owner": "rewtnull",
             "repo": "amigafonts",
-            "stars": 377,
+            "stars": 378,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -377,7 +377,7 @@
             "open_issues": 429,
             "owner": "nothings",
             "repo": "stb",
-            "stars": 34631,
+            "stars": 34632,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -395,10 +395,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-09-11T09:40:40Z",
-            "open_issues": 1383,
+            "open_issues": 1387,
             "owner": "swaywm",
             "repo": "sway",
-            "stars": 17317,
+            "stars": 17319,
             "topics": [
               "compositor",
               "wayland"
@@ -448,7 +448,7 @@
             "open_issues": 0,
             "owner": "EricLengyel",
             "repo": "Slug",
-            "stars": 1520,
+            "stars": 1521,
             "topics": [
               "font-rendering",
               "vector-graphics"
@@ -1244,7 +1244,7 @@
             "id": 648393112,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-12T01:23:10Z",
+            "last_commit": "2026-09-12T11:07:25Z",
             "open_issues": 1,
             "owner": "VoxelStorm-Ltd",
             "repo": "vectorfontstorm",
@@ -1757,7 +1757,7 @@
             "open_issues": 207,
             "owner": "opentypejs",
             "repo": "opentype.js",
-            "stars": 5012,
+            "stars": 5013,
             "topics": [
               "font",
               "glyphs",
@@ -1835,7 +1835,7 @@
             "open_issues": 52,
             "owner": "Mottie",
             "repo": "GitHub-userscripts",
-            "stars": 2032,
+            "stars": 2031,
             "topics": [
               "github",
               "github-userscripts",
@@ -2026,7 +2026,7 @@
             "open_issues": 9,
             "owner": "orling",
             "repo": "grapheme-splitter",
-            "stars": 984,
+            "stars": 983,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -2177,7 +2177,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2024-05-14T13:52:43Z",
-            "open_issues": 30,
+            "open_issues": 31,
             "owner": "foliojs",
             "repo": "brotli.js",
             "stars": 537,
@@ -2290,8 +2290,8 @@
             "id": 62899474,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T01:26:22Z",
-            "open_issues": 25,
+            "last_commit": "2026-09-13T04:57:14Z",
+            "open_issues": 26,
             "owner": "itgalaxy",
             "repo": "webfont",
             "stars": 308,
@@ -3111,8 +3111,8 @@
             "id": 11639637,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-11T09:06:34Z",
-            "open_issues": 401,
+            "last_commit": "2026-09-12T09:55:35Z",
+            "open_issues": 404,
             "owner": "fonttools",
             "repo": "fonttools",
             "stars": 5246,
@@ -4237,7 +4237,7 @@
                 "open_issues": 1036,
                 "owner": "fontforge",
                 "repo": "fontforge",
-                "stars": 7946,
+                "stars": 7947,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:41:52.376Z"
@@ -4543,7 +4543,7 @@
             "open_issues": 61,
             "owner": "fontforge",
             "repo": "designwithfontforge.com",
-            "stars": 1041,
+            "stars": 1043,
             "topics": [
               "book",
               "fonts",
@@ -4649,6 +4649,27 @@
         },
         {
           "node_type": "item",
+          "title": "AGL & AGLFN",
+          "description": "AGL / AGLFN (Adobe Glyph List / For New Fonts) simply provides mappings from glyph names to Unicode scalar values. See specification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "AGL & AGLFN",
+            "homepage": null,
+            "id": 33033994,
+            "language": null,
+            "license": "BSD-3-Clause",
+            "last_commit": "2019-10-31T23:06:26Z",
+            "open_issues": 4,
+            "owner": "adobe-type-tools",
+            "repo": "agl-aglfn",
+            "stars": 111,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
+        },
+        {
+          "node_type": "item",
           "title": "Font Falsehoods",
           "description": "Falsehoods programmers believe about fonts.",
           "children": [],
@@ -4664,27 +4685,6 @@
             "owner": "RoelN",
             "repo": "Font-Falsehoods",
             "stars": 111,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T16:41:52.376Z"
-        },
-        {
-          "node_type": "item",
-          "title": "AGL & AGLFN",
-          "description": "AGL / AGLFN (Adobe Glyph List / For New Fonts) simply provides mappings from glyph names to Unicode scalar values. See specification.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "AGL & AGLFN",
-            "homepage": null,
-            "id": 33033994,
-            "language": null,
-            "license": "BSD-3-Clause",
-            "last_commit": "2019-10-31T23:06:26Z",
-            "open_issues": 4,
-            "owner": "adobe-type-tools",
-            "repo": "agl-aglfn",
-            "stars": 110,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -4999,11 +4999,11 @@
             "id": 39315600,
             "language": "JavaScript",
             "license": "OFL-1.1",
-            "last_commit": "2026-09-12T06:22:14Z",
+            "last_commit": "2026-09-12T22:33:55Z",
             "open_issues": 101,
             "owner": "be5invis",
             "repo": "Iosevka",
-            "stars": 22738,
+            "stars": 22741,
             "topics": [
               "font",
               "iosevka",
@@ -5033,7 +5033,7 @@
             "open_issues": 162,
             "owner": "adobe-fonts",
             "repo": "source-han-sans",
-            "stars": 17207,
+            "stars": 17209,
             "topics": [
               "cff",
               "cff2",
@@ -5064,7 +5064,7 @@
             "open_issues": 74,
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9676,
+            "stars": 9679,
             "topics": [
               "cff",
               "cff2",
@@ -5122,7 +5122,7 @@
             "open_issues": 107,
             "owner": "googlefonts",
             "repo": "noto-emoji",
-            "stars": 4926,
+            "stars": 4927,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -5143,7 +5143,7 @@
             "open_issues": 29,
             "owner": "notofonts",
             "repo": "noto-fonts",
-            "stars": 2500,
+            "stars": 2499,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -5295,7 +5295,7 @@
             "open_issues": 8,
             "owner": "dy",
             "repo": "wavefont",
-            "stars": 466,
+            "stars": 465,
             "topics": [
               "afdko",
               "barchart",
@@ -5883,7 +5883,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T08:40:17.143Z",
+    "last_updated": "2026-09-13T09:36:28.911Z",
     "original_repository_info": {
       "archived": false,
       "description": "✏︎ Curated list about digital typography 🔥",
