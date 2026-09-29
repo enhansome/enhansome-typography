@@ -374,10 +374,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-02T06:42:09Z",
-            "open_issues": 431,
+            "open_issues": 432,
             "owner": "nothings",
             "repo": "stb",
-            "stars": 34730,
+            "stars": 34729,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -398,7 +398,7 @@
             "open_issues": 1389,
             "owner": "swaywm",
             "repo": "sway",
-            "stars": 17360,
+            "stars": 17364,
             "topics": [
               "compositor",
               "wayland"
@@ -448,7 +448,7 @@
             "open_issues": 0,
             "owner": "EricLengyel",
             "repo": "Slug",
-            "stars": 1535,
+            "stars": 1537,
             "topics": [
               "font-rendering",
               "vector-graphics"
@@ -469,10 +469,10 @@
             "language": "PostScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-10T19:34:47Z",
-            "open_issues": 215,
+            "open_issues": 216,
             "owner": "adobe-type-tools",
             "repo": "afdko",
-            "stars": 1182,
+            "stars": 1183,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -688,7 +688,7 @@
             "open_issues": 2,
             "owner": "AlphaPixel",
             "repo": "slughorn",
-            "stars": 183,
+            "stars": 185,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -1658,7 +1658,7 @@
             "open_issues": 109,
             "owner": "typekit",
             "repo": "webfontloader",
-            "stars": 9247,
+            "stars": 9246,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -1726,7 +1726,7 @@
             "open_issues": 81,
             "owner": "aui",
             "repo": "font-spider",
-            "stars": 5139,
+            "stars": 5140,
             "topics": [
               "eot",
               "font-face",
@@ -1757,7 +1757,7 @@
             "open_issues": 209,
             "owner": "opentypejs",
             "repo": "opentype.js",
-            "stars": 5023,
+            "stars": 5024,
             "topics": [
               "font",
               "glyphs",
@@ -1788,7 +1788,7 @@
             "open_issues": 11,
             "owner": "bramstein",
             "repo": "fontfaceobserver",
-            "stars": 4334,
+            "stars": 4335,
             "topics": [
               "font-loading",
               "fontfaceobserver",
@@ -1881,7 +1881,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2024-08-14T09:31:51Z",
-            "open_issues": 166,
+            "open_issues": 167,
             "owner": "foliojs",
             "repo": "fontkit",
             "stars": 1674,
@@ -2197,7 +2197,7 @@
             "id": 39325180,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-06-22T03:08:17Z",
+            "last_commit": "2026-09-29T10:39:08Z",
             "open_issues": 21,
             "owner": "kekee000",
             "repo": "fonteditor-core",
@@ -2290,11 +2290,11 @@
             "id": 62899474,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T03:03:09Z",
-            "open_issues": 27,
+            "last_commit": "2026-09-29T06:17:56Z",
+            "open_issues": 28,
             "owner": "itgalaxy",
             "repo": "webfont",
-            "stars": 307,
+            "stars": 308,
             "topics": [
               "cli",
               "converts-ttf-fonts",
@@ -2541,8 +2541,8 @@
             "id": 17890922,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T05:04:55Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-29T07:50:43Z",
+            "open_issues": 13,
             "owner": "dotcore64",
             "repo": "fontfacegen",
             "stars": 60,
@@ -3111,11 +3111,11 @@
             "id": 11639637,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-24T13:05:25Z",
-            "open_issues": 398,
+            "last_commit": "2026-09-28T12:10:34Z",
+            "open_issues": 401,
             "owner": "fonttools",
             "repo": "fonttools",
-            "stars": 5266,
+            "stars": 5267,
             "topics": [
               "fonts",
               "opentype",
@@ -3186,7 +3186,7 @@
             "open_issues": 19,
             "owner": "twardoch",
             "repo": "fonttools-opentype-feature-freezer",
-            "stars": 486,
+            "stars": 487,
             "topics": [
               "font",
               "fonttools",
@@ -3214,7 +3214,7 @@
             "open_issues": 10,
             "owner": "cpitclaudel",
             "repo": "monospacifier",
-            "stars": 430,
+            "stars": 431,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -4107,7 +4107,7 @@
             "id": 29605985,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-21T16:02:13Z",
+            "last_commit": "2026-09-28T17:01:21Z",
             "open_issues": 82,
             "owner": "googlefonts",
             "repo": "ufo2ft",
@@ -4234,10 +4234,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-27T17:34:05Z",
-                "open_issues": 1043,
+                "open_issues": 1041,
                 "owner": "fontforge",
                 "repo": "fontforge",
-                "stars": 7983,
+                "stars": 7984,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:41:52.376Z"
@@ -4279,7 +4279,7 @@
                 "open_issues": 79,
                 "owner": "johanmattssonm",
                 "repo": "birdfont",
-                "stars": 561,
+                "stars": 562,
                 "topics": [
                   "font-editor",
                   "fonts",
@@ -4456,7 +4456,7 @@
             "open_issues": 144,
             "owner": "twitter",
             "repo": "twemoji",
-            "stars": 17792,
+            "stars": 17794,
             "topics": [
               "emoji",
               "twemoji"
@@ -4501,7 +4501,7 @@
             "open_issues": 20,
             "owner": "Rush",
             "repo": "Font-Awesome-SVG-PNG",
-            "stars": 3228,
+            "stars": 3227,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -5003,7 +5003,7 @@
             "open_issues": 98,
             "owner": "be5invis",
             "repo": "Iosevka",
-            "stars": 22785,
+            "stars": 22792,
             "topics": [
               "font",
               "iosevka",
@@ -5033,7 +5033,7 @@
             "open_issues": 163,
             "owner": "adobe-fonts",
             "repo": "source-han-sans",
-            "stars": 17288,
+            "stars": 17292,
             "topics": [
               "cff",
               "cff2",
@@ -5064,7 +5064,7 @@
             "open_issues": 74,
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9725,
+            "stars": 9732,
             "topics": [
               "cff",
               "cff2",
@@ -5143,7 +5143,7 @@
             "open_issues": 29,
             "owner": "notofonts",
             "repo": "noto-fonts",
-            "stars": 2499,
+            "stars": 2498,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -5164,7 +5164,7 @@
             "open_issues": 46,
             "owner": "RedHatOfficial",
             "repo": "Overpass",
-            "stars": 2098,
+            "stars": 2099,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -5185,7 +5185,7 @@
             "open_issues": 44,
             "owner": "13rac1",
             "repo": "twemoji-color-font",
-            "stars": 1928,
+            "stars": 1929,
             "topics": [
               "color-emoji",
               "color-font",
@@ -5291,11 +5291,11 @@
             "id": 66328411,
             "language": "JavaScript",
             "license": "OFL-1.1",
-            "last_commit": "2026-09-28T10:28:49Z",
+            "last_commit": "2026-09-28T17:20:07Z",
             "open_issues": 1,
             "owner": "dy",
             "repo": "wavefont",
-            "stars": 466,
+            "stars": 467,
             "topics": [
               "afdko",
               "barchart",
@@ -5349,7 +5349,7 @@
             "open_issues": 9,
             "owner": "djrrb",
             "repo": "Bungee",
-            "stars": 378,
+            "stars": 379,
             "topics": [
               "bungee",
               "color",
@@ -5883,7 +5883,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T10:59:20.330Z",
+    "last_updated": "2026-09-29T10:44:16.234Z",
     "original_repository_info": {
       "archived": false,
       "description": "✏︎ Curated list about digital typography 🔥",
@@ -5895,7 +5895,7 @@
       "open_issues": 9,
       "owner": "Jolg42",
       "repo": "awesome-typography",
-      "stars": 1538,
+      "stars": 1539,
       "topics": [
         "awesome",
         "awesome-list",
