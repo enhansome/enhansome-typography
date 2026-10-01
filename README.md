@@ -69,31 +69,31 @@ Curated list about digital typography.
 
 ## Shell
 
-* [Crimson Pro](https://github.com/Fonthausen/CrimsonPro) ⭐ 340 | 🐛 0 | 🌐 Shell | 📅 2026-06-03 - The Crimson Text typeface.
+* [Crimson Pro](https://github.com/Fonthausen/CrimsonPro) ⭐ 341 | 🐛 0 | 🌐 Shell | 📅 2026-06-03 - The Crimson Text typeface.
 * [fontpreview-tui](https://codeberg.org/DCoderUltra/fontpreview-tui) - Minimal command line tool that allows to visualize fonts inside the terminal and copy the selected font to the clipboard.
 * [NerdFetch](https://codeberg.org/ThatOneCalculator/NerdFetch) - A POSIX \*nix (Linux, macOS, Android, BSD, etc) fetch script using Nerdfonts (and others).
 
 ## C
 
-* [stb\_truetype](https://github.com/nothings/stb/) ⭐ 34,739 | 🐛 432 | 🌐 C | 📅 2026-08-02 - Parse, decode, and rasterize characters for TrueType fonts. Single header file.
-* [sway](https://codeberg.org/dnkl/sway) - This is a fork of <https://github.com/swaywm/sway> ⭐ 17,366 | 🐛 1,389 | 🌐 C | 📅 2026-09-21 that replaces pango with <https://codeberg.org/dnkl/fcft> for font rendering.
+* [stb\_truetype](https://github.com/nothings/stb/) ⭐ 34,747 | 🐛 432 | 🌐 C | 📅 2026-08-02 - Parse, decode, and rasterize characters for TrueType fonts. Single header file.
+* [sway](https://codeberg.org/dnkl/sway) - This is a fork of <https://github.com/swaywm/sway> ⭐ 17,372 | 🐛 1,389 | 🌐 C | 📅 2026-09-21 that replaces pango with <https://codeberg.org/dnkl/fcft> for font rendering.
 * [freetype-gl](https://github.com/rougier/freetype-gl) ⭐ 1,743 | 🐛 75 | 🌐 C | 📅 2026-07-20 - OpenGL text using one vertex buffer, one texture and FreeType.
-* [Slug](https://github.com/EricLengyel/Slug) ⭐ 1,539 | 🐛 0 | 🌐 HLSL | 📅 2026-04-15 - Reference code for the Slug Algorithm.
+* [Slug](https://github.com/EricLengyel/Slug) ⭐ 1,542 | 🐛 0 | 🌐 HLSL | 📅 2026-04-15 - Reference code for the Slug Algorithm.
 * [AFDKO](https://github.com/adobe-type-tools/afdko) ⭐ 1,183 | 🐛 216 | 🌐 PostScript | 📅 2026-09-10 - Adobe Font Development Kit for OpenType. See [AFDKO Overview](https://www.adobe.com/devnet/opentype/afdko/topic_overview.html).
 * [otfcc](https://github.com/caryll/otfcc) ⚠️ Archived - Parses & writes SFNT structures.
 * [picasso](https://github.com/onecoolx/picasso) ⭐ 380 | 🐛 0 | 🌐 C++ | 📅 2026-07-21 - High quality 2D vector graphic rendering library. It support path , matrix , gradient , pattern , image and truetype font.
 * [Raqm](https://github.com/HOST-Oman/libraqm) ⭐ 334 | 🐛 6 | 🌐 C | 📅 2026-07-23 - Library for complex text layout.
 * [ttf2mesh](https://github.com/fetisov/ttf2mesh) ⭐ 236 | 🐛 12 | 🌐 C++ | 📅 2024-06-26 - Standalone library for TrueType font tessellation. Allows to load ttf-file and convert its glyphs to 2D or 3D mesh objects without rasterization.
+* [slughorn](https://github.com/AlphaPixel/slughorn) ⭐ 226 | 🐛 2 | 🌐 C++ | 📅 2026-10-01 - Library for shoehorning the Slug text/graphics GPU rendering library into projects.
 * [SheenBidi](https://github.com/mta452/SheenBidi) ⭐ 223 | 🐛 4 | 🌐 C | 📅 2026-08-01 - World's most sophisticated implementation of latest unicode bidirectional algorithm.
 * [Sluggish](https://github.com/mightycow/Sluggish) ⭐ 200 | 🐛 0 | 🌐 C | 📅 2026-03-17 - Toy CPU and GPU implementations of the Slug rendering algorithm.
-* [slughorn](https://github.com/AlphaPixel/slughorn) ⭐ 186 | 🐛 2 | 🌐 C++ | 📅 2026-09-27 - Library for shoehorning the Slug text/graphics GPU rendering library into projects.
 * [sfntly](https://github.com/rillig/sfntly) ⭐ 178 | 🐛 6 | 🌐 Java | 📅 2022-01-27 - A Library for Using, Editing, and Creating SFNT-based Fonts.
 * [hamza](https://github.com/saidwho12/hamza) ⭐ 55 | 🐛 6 | 🌐 C | 📅 2025-03-13 - C Unicode/OpenType Library.
 * [RREFont](https://github.com/cbm80amiga/RREFont) ⭐ 46 | 🐛 1 | 🌐 C | 📅 2024-09-19 - Fast RRE Font rendering library.
 * [SheenFigure](https://github.com/mta452/SheenFigure) ⭐ 34 | 🐛 4 | 🌐 C | 📅 2023-11-17 - Implementation of advanced typographic tables of OpenType specification.
 * [WOFF](https://github.com/samboy/WOFF) ⭐ 24 | 🐛 0 | 🌐 C | 📅 2019-02-24 - Conversion reference code.
+* [osgSlug](https://github.com/AlphaPixel/osgSlug) ⭐ 15 | 🐛 2 | 🌐 C++ | 📅 2026-09-28 - Slug support for OpenSceneGraph via SlugHorn
 * [ttf](https://github.com/michaelrsweet/ttf) ⭐ 15 | 🐛 3 | 🌐 C | 📅 2026-09-07 - TrueType/OpenType Font Library.
-* [osgSlug](https://github.com/AlphaPixel/osgSlug) ⭐ 11 | 🐛 2 | 🌐 C++ | 📅 2026-09-28 - Slug support for OpenSceneGraph via SlugHorn
 * [craftmicro-fonts](https://github.com/craftmicro/craftmicro-fonts) ⭐ 3 | 🐛 2 | 🌐 C | 📅 2024-08-16 - Pixel/bitmap font library for Craft Micro SDK.
 * [libint10h\_fonts](https://github.com/cellularmitosis/libint10h_fonts) ⭐ 2 | 🐛 0 | 🌐 C | 📅 2024-06-26 - The int10h.org bitmap font collection as a library of C structs.
 * [TeensieFont](https://github.com/roundsToThree/TeensieFont) ⭐ 0 | 🐛 0 | 🌐 C | 📅 2024-09-04 - A tiny font library intended for use on Arduino and other similar platforms.
@@ -113,7 +113,7 @@ Curated list about digital typography.
 
 ## C++
 
-* [WOFF2](https://github.com/google/woff2) ⭐ 1,821 | 🐛 94 | 🌐 C++ | 📅 2026-06-29
+* [WOFF2](https://github.com/google/woff2) ⭐ 1,822 | 🐛 94 | 🌐 C++ | 📅 2026-06-29
 * [FontView](https://github.com/googlei18n/fontview) ⚠️ Archived - Demo app that displays fonts with a free/libre/open-source text rendering stack: FreeType, HarfBuzz and Raqm.
 * [font to svg](https://github.com/donbright/font_to_svg) ⭐ 271 | 🐛 2 | 🌐 C++ | 📅 2022-11-21 - Render characters from font files into an SVG path.
 * [Text rendering tests](https://github.com/unicode-org/text-rendering-tests) ⭐ 187 | 🐛 18 | 🌐 HTML | 📅 2026-08-24 - Test suite for text rendering.
@@ -164,11 +164,11 @@ Curated list about digital typography.
 ## JavaScript
 
 * [Web Font Loader](https://github.com/typekit/webfontloader) ⭐ 9,246 | 🐛 109 | 🌐 JavaScript | 📅 2024-01-04 - Gives you added control when using linked fonts via @font-face.
-* [Fontello](https://github.com/fontello/fontello) ⭐ 7,083 | 🐛 69 | 🌐 JavaScript | 📅 2022-12-31 - This tool lets you combine icon webfonts for your own project.
+* [Fontello](https://github.com/fontello/fontello) ⭐ 7,084 | 🐛 69 | 🌐 JavaScript | 📅 2022-12-31 - This tool lets you combine icon webfonts for your own project.
 * [fontmin](https://github.com/ecomfe/fontmin) ⭐ 6,220 | 🐛 65 | 🌐 JavaScript | 📅 2025-08-13 - Minify font seamlessly.
 * [font-spider](https://github.com/aui/font-spider) ⭐ 5,140 | 🐛 81 | 🌐 JavaScript | 📅 2022-12-30 - Smart webfont compression and format conversion tool.
-* [OpenType.js](https://github.com/nodebox/opentype.js) ⭐ 5,024 | 🐛 209 | 🌐 JavaScript | 📅 2026-08-08 - Read and write OpenType fonts.
-* [Font Face Observer](https://github.com/bramstein/fontfaceobserver) ⭐ 4,335 | 🐛 11 | 🌐 JavaScript | 📅 2025-02-18 - Font load events, simple, small and efficient [fontfaceobserver.com](https://fontfaceobserver.com).
+* [OpenType.js](https://github.com/nodebox/opentype.js) ⭐ 5,027 | 🐛 209 | 🌐 JavaScript | 📅 2026-08-08 - Read and write OpenType fonts.
+* [Font Face Observer](https://github.com/bramstein/fontfaceobserver) ⭐ 4,334 | 🐛 11 | 🌐 JavaScript | 📅 2025-02-18 - Font load events, simple, small and efficient [fontfaceobserver.com](https://fontfaceobserver.com).
 * [Typeset.js](https://github.com/davidmerfield/Typeset) ⭐ 2,679 | 🐛 21 | 🌐 JavaScript | 📅 2025-04-19 - HTML pre-processor for web typography (hanging punctuation, soft hyphen insertion, optical margin outdents, small-caps conversion and punctuation substitution).
 * [GitHub Font Preview](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-font-preview) ⭐ 2,034 | 🐛 52 | 🌐 JavaScript | 📅 2024-07-07 - Adds a preview for fonts & glyphs on GitHub with OpenType.js.
 * [Punycode.js](https://github.com/bestiejs/punycode.js) ⭐ 1,691 | 🐛 47 | 🌐 JavaScript | 📅 2024-04-18 - Robust Punycode converter that fully complies to RFC 3492 and RFC 5891.
@@ -233,9 +233,9 @@ Curated list about digital typography.
 
 ## Python
 
-* [fontTools](https://github.com/fonttools/fonttools) ⭐ 5,271 | 🐛 395 | 🌐 Python | 📅 2026-09-30 - Library for manipulating fonts, written in Python.
+* [fontTools](https://github.com/fonttools/fonttools) ⭐ 5,272 | 🐛 396 | 🌐 Python | 📅 2026-09-30 - Library for manipulating fonts, written in Python.
 * [fontmake](https://github.com/googlei18n/fontmake) ⭐ 888 | 🐛 269 | 🌐 Python | 📅 2026-09-14 - Compile fonts from sources (UFO, Glyphs) to binary (OpenType, TrueType).
-* [Font Bakery](https://github.com/googlefonts/fontbakery) ⭐ 705 | 🐛 303 | 🌐 Python | 📅 2025-11-04 - Tools to prepare font families for inclusion in [github.com/google/fonts](https://github.com/google/fonts) ⭐ 20,541 | 🐛 1,437 | 🌐 HTML | 📅 2026-09-30.
+* [Font Bakery](https://github.com/googlefonts/fontbakery) ⭐ 706 | 🐛 303 | 🌐 Python | 📅 2025-11-04 - Tools to prepare font families for inclusion in [github.com/google/fonts](https://github.com/google/fonts) ⭐ 20,549 | 🐛 1,440 | 🌐 HTML | 📅 2026-10-01.
 * [pyftfeatfreeze](https://github.com/twardoch/fonttools-utils/tree/master/pyftfeatfreeze) ⭐ 487 | 🐛 19 | 🌐 Python | 📅 2026-08-17 - With pyftfeatfreeze, you can “freeze” some OpenType features into a font.
 * [monospacifier.py](https://github.com/cpitclaudel/monospacifier) ⭐ 431 | 🐛 10 | 🌐 Python | 📅 2024-01-30 - Convert variable-pitch fonts to monospace (useful for unicode and indentation-friendly programming).
 * [Noto Tools](https://github.com/googlei18n/nototools) ⭐ 305 | 🐛 99 | 🌐 Python | 📅 2026-08-03 - Noto fonts support tools and scripts.
@@ -284,7 +284,7 @@ Curated list about digital typography.
 ## PHP
 
 * [PHP Font Lib](https://github.com/PhenX/php-font-lib) ⭐ 1,799 | 🐛 24 | 🌐 PHP | 📅 2026-01-20 - Library to read, parse, export and make subsets of different types of font files.
-* [JoliTypo](https://github.com/jolicode/JoliTypo) ⭐ 351 | 🐛 0 | 🌐 PHP | 📅 2026-09-25 - Microtypography fixer for the web.
+* [JoliTypo](https://github.com/jolicode/JoliTypo) ⭐ 351 | 🐛 0 | 🌐 PHP | 📅 2026-10-01 - Microtypography fixer for the web.
 * [PHP SmartyPants](https://github.com/michelf/php-smartypants) ⭐ 112 | 🐛 6 | 🌐 PHP | 📅 2021-08-14 - SmartyPants is a free web typography prettifyier tool for web writers. It easily translates plain ASCII punctuation characters into "smart" typographic punctuation HTML entities.
 
 ## Perl
@@ -325,7 +325,7 @@ Curated list about digital typography.
 
 ### Free
 
-* [FontForge](https://github.com/fontforge/fontforge) ⭐ 7,987 | 🐛 1,042 | 🌐 C | 📅 2026-09-29 - Free (libre) font editor for Windows, macOS and GNU+Linux.
+* [FontForge](https://github.com/fontforge/fontforge) ⭐ 7,991 | 🐛 1,041 | 🌐 C | 📅 2026-09-30 - Free (libre) font editor for Windows, macOS and GNU+Linux.
 * [fonteditor](https://github.com/ecomfe/fonteditor) ⭐ 1,497 | 🐛 2 | 🌐 JavaScript | 📅 2025-07-15 - Web-based TTF font editor, live at [fontstore.baidu.com](http://fontstore.baidu.com/static/editor/index-en.html).
 * [Birdfont](https://github.com/johanmattssonm/birdfont) ⭐ 563 | 🐛 79 | 🌐 Vala | 📅 2025-11-23 - Font editor which can generate fonts in TTF, EOT, SVG and BF format.
 * [TruFont](https://github.com/trufont/trufont) ⭐ 505 | 🐛 95 | 🌐 Python | 📅 2025-12-02 - UFO3 font editor. À l’ancienne.
@@ -355,10 +355,10 @@ Curated list about digital typography.
 
 ## Miscellaneous
 
-* [Twitter Emoji (Twemoji)](https://github.com/twitter/twemoji) ⭐ 17,793 | 🐛 144 | 🌐 HTML | 📅 2026-07-07 - The Twemoji library offers support for +2k emojis, including skin tone and gender modifiers.
+* [Twitter Emoji (Twemoji)](https://github.com/twitter/twemoji) ⭐ 17,796 | 🐛 144 | 🌐 HTML | 📅 2026-07-07 - The Twemoji library offers support for +2k emojis, including skin tone and gender modifiers.
 * [EmojiOne](https://github.com/emojione/emojione) ⚠️ Archived - EmojiOne™ is the open emoji standard.
 * [Font-Awesome-SVG-PNG](https://github.com/encharm/Font-Awesome-SVG-PNG) ⭐ 3,228 | 🐛 20 | 🌐 JavaScript | 📅 2024-08-21 - Font Awesome split to individual SVG and PNG files of different sizes along with Node.js based generator.
-* [Emoj](https://github.com/sindresorhus/emoj) ⭐ 2,428 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-13 - Find relevant emoji from text on the command-line 😮 ✨ 🙌 🐴 💥 🙈.
+* [Emoj](https://github.com/sindresorhus/emoj) ⭐ 2,429 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-13 - Find relevant emoji from text on the command-line 😮 ✨ 🙌 🐴 💥 🙈.
 * [designwithfontforge.com](https://github.com/fontforge/designwithfontforge.com) ⭐ 1,050 | 🐛 61 | 🌐 HTML | 📅 2026-09-20 - Book about how to design new typefaces with FontForge. See [designwithfontforge.com](http://designwithfontforge.com).
 * [CSS Utility OpenType](https://github.com/kennethormandy/utility-opentype) ⭐ 497 | 🐛 7 | 🌐 CSS | 📅 2022-04-28 - Simple, CSS utility classes for advanced typographic features. See it [here](http://utility-opentype.kennethormandy.com).
 * [homebrew-webfonttools](https://github.com/bramstein/homebrew-webfonttools) ⭐ 362 | 🐛 3 | 🌐 Ruby | 📅 2021-08-18 - Homebrew formulae for font tools.
@@ -407,14 +407,14 @@ Curated list about digital typography.
 
 ## Fonts
 
-* [Iosevka](https://github.com/be5invis/Iosevka) ⭐ 22,793 | 🐛 98 | 🌐 JavaScript | 📅 2026-09-27 - Slender typeface for code, from code.
-* [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) ⭐ 17,297 | 🐛 163 | 🌐 Python | 📅 2025-06-25 - Set of OpenType/CFF Pan-CJK fonts.
-* [Source Han Serif](https://github.com/adobe-fonts/source-han-serif) ⭐ 9,736 | 🐛 74 | 🌐 Shell | 📅 2024-07-30 - Set of OpenType/CFF Pan-CJK fonts.
+* [Iosevka](https://github.com/be5invis/Iosevka) ⭐ 22,798 | 🐛 98 | 🌐 JavaScript | 📅 2026-10-01 - Slender typeface for code, from code.
+* [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) ⭐ 17,299 | 🐛 163 | 🌐 Python | 📅 2025-06-25 - Set of OpenType/CFF Pan-CJK fonts.
+* [Source Han Serif](https://github.com/adobe-fonts/source-han-serif) ⭐ 9,737 | 🐛 74 | 🌐 Shell | 📅 2024-07-30 - Set of OpenType/CFF Pan-CJK fonts.
 * [Hasklig](https://github.com/i-tu/Hasklig) ⭐ 5,709 | 🐛 46 | 🌐 Python | 📅 2022-02-19 - Code font with monospaced ligatures.
-* [Noto Emoji](https://github.com/googlei18n/noto-emoji) ⭐ 5,021 | 🐛 112 | 🌐 Python | 📅 2026-09-24 - Color and Black-and-White Noto emoji fonts, and tools for working with them.
+* [Noto Emoji](https://github.com/googlei18n/noto-emoji) ⭐ 5,026 | 🐛 112 | 🌐 Python | 📅 2026-09-24 - Color and Black-and-White Noto emoji fonts, and tools for working with them.
 * [Noto Fonts](https://github.com/googlei18n/noto-fonts) ⚠️ Archived - Noto’s goal is to provide a beautiful reading experience for all languages.
 * [Overpass](https://github.com/RedHatBrand/Overpass) ⭐ 2,099 | 🐛 46 | 🌐 Makefile | 📅 2023-07-20 - Open source font family inspired by Highway Gothic.
-* [Twitter Color Emoji Font](https://github.com/eosrei/twemoji-color-font) ⭐ 1,928 | 🐛 44 | 🌐 Makefile | 📅 2026-06-25 - Color emoji OpenType-SVG font using Twitter Unicode 9.0 emoji with diversity and country flags.
+* [Twitter Color Emoji Font](https://github.com/eosrei/twemoji-color-font) ⭐ 1,931 | 🐛 44 | 🌐 Makefile | 📅 2026-06-25 - Color emoji OpenType-SVG font using Twitter Unicode 9.0 emoji with diversity and country flags.
 * [EmojiOne OpenType-SVG](https://github.com/eosrei/emojione-color-font) ⚠️ Archived - Color emoji OpenType-SVG font using EmojiOne Unicode 9.0 emoji with diversity and country flags.
 * [FiraSystemFontReplacement](https://github.com/jenskutilek/FiraSystemFontReplacement) ⚠️ Archived - Modified version of the Fira Sans fonts to replace the default system font on macOS 10.10 and 10.11.
 * [Raleway](https://github.com/theleagueof/raleway) ⭐ 628 | 🐛 11 | 📅 2021-07-27 - Elegant sans-serif, designed in a single thin weight.
@@ -471,4 +471,4 @@ For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts) ⭐ 2,
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
