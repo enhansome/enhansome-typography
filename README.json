@@ -398,7 +398,7 @@
             "open_issues": 1388,
             "owner": "swaywm",
             "repo": "sway",
-            "stars": 17380,
+            "stars": 17379,
             "topics": [
               "compositor",
               "wayland"
@@ -1434,7 +1434,7 @@
             "open_issues": 7,
             "owner": "redox-os",
             "repo": "rusttype",
-            "stars": 639,
+            "stars": 640,
             "topics": [
               "font",
               "opentype",
@@ -3111,8 +3111,8 @@
             "id": 11639637,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-03T05:08:48Z",
-            "open_issues": 414,
+            "last_commit": "2026-10-03T05:58:53Z",
+            "open_issues": 420,
             "owner": "fonttools",
             "repo": "fonttools",
             "stars": 5272,
@@ -4237,7 +4237,7 @@
                 "open_issues": 1040,
                 "owner": "fontforge",
                 "repo": "fontforge",
-                "stars": 7993,
+                "stars": 7992,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:41:52.376Z"
@@ -5003,7 +5003,7 @@
             "open_issues": 98,
             "owner": "be5invis",
             "repo": "Iosevka",
-            "stars": 22807,
+            "stars": 22806,
             "topics": [
               "font",
               "iosevka",
@@ -5883,7 +5883,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:12:22.073Z",
+    "last_updated": "2026-10-03T09:54:40.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "✏︎ Curated list about digital typography 🔥",
@@ -5892,7 +5892,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-24T20:07:50Z",
-      "open_issues": 9,
+      "open_issues": 10,
       "owner": "Jolg42",
       "repo": "awesome-typography",
       "stars": 1540,
