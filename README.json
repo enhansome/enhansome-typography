@@ -377,7 +377,7 @@
             "open_issues": 432,
             "owner": "nothings",
             "repo": "stb",
-            "stars": 34760,
+            "stars": 34769,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -395,10 +395,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-09-21T12:28:58Z",
-            "open_issues": 1389,
+            "open_issues": 1388,
             "owner": "swaywm",
             "repo": "sway",
-            "stars": 17379,
+            "stars": 17380,
             "topics": [
               "compositor",
               "wayland"
@@ -493,7 +493,7 @@
             "open_issues": 14,
             "owner": "caryll",
             "repo": "otfcc",
-            "stars": 436,
+            "stars": 435,
             "topics": [
               "cff-otf",
               "clang",
@@ -571,6 +571,27 @@
         },
         {
           "node_type": "item",
+          "title": "slughorn",
+          "description": "Library for shoehorning the Slug text/graphics GPU rendering library into projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Library for shoehorning the Slug text/graphics GPU rendering library into projects.",
+            "homepage": null,
+            "id": 1204143287,
+            "language": "C++",
+            "license": "MIT",
+            "last_commit": "2026-10-01T16:02:13Z",
+            "open_issues": 2,
+            "owner": "AlphaPixel",
+            "repo": "slughorn",
+            "stars": 236,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
+        },
+        {
+          "node_type": "item",
           "title": "ttf2mesh",
           "description": "Standalone library for TrueType font tessellation. Allows to load ttf-file and convert its glyphs to 2D or 3D mesh objects without rasterization.",
           "children": [],
@@ -601,27 +622,6 @@
               "ttf-fonts",
               "vector-graphics"
             ]
-          },
-          "first_seen": "2026-08-28T16:41:52.376Z"
-        },
-        {
-          "node_type": "item",
-          "title": "slughorn",
-          "description": "Library for shoehorning the Slug text/graphics GPU rendering library into projects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Library for shoehorning the Slug text/graphics GPU rendering library into projects.",
-            "homepage": null,
-            "id": 1204143287,
-            "language": "C++",
-            "license": "MIT",
-            "last_commit": "2026-10-01T16:02:13Z",
-            "open_issues": 2,
-            "owner": "AlphaPixel",
-            "repo": "slughorn",
-            "stars": 234,
-            "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
         },
@@ -946,7 +946,7 @@
         {
           "node_type": "item",
           "title": "WOFF2",
-          "description": null,
+          "description": "google/woff2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1489,7 +1489,7 @@
         {
           "node_type": "item",
           "title": "Font toolbox",
-          "description": null,
+          "description": "bodoni/font",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1516,7 +1516,7 @@
         {
           "node_type": "item",
           "title": "Parser for OpenType fonts",
-          "description": null,
+          "description": "bodoni/opentype",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1585,7 +1585,7 @@
         {
           "node_type": "item",
           "title": "Parser for TrueType fonts",
-          "description": null,
+          "description": "bodoni/truetype",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1612,7 +1612,7 @@
         {
           "node_type": "item",
           "title": "Parser for PostScript fonts",
-          "description": null,
+          "description": "bodoni/postscript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1835,7 +1835,7 @@
             "open_issues": 52,
             "owner": "Mottie",
             "repo": "GitHub-userscripts",
-            "stars": 2035,
+            "stars": 2036,
             "topics": [
               "github",
               "github-userscripts",
@@ -1863,7 +1863,7 @@
             "open_issues": 47,
             "owner": "mathiasbynens",
             "repo": "punycode.js",
-            "stars": 1691,
+            "stars": 1690,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -1880,8 +1880,8 @@
             "id": 27195805,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-29T23:16:14Z",
-            "open_issues": 166,
+            "last_commit": "2026-10-02T21:33:59Z",
+            "open_issues": 164,
             "owner": "foliojs",
             "repo": "fontkit",
             "stars": 1673,
@@ -2159,7 +2159,7 @@
             "open_issues": 6,
             "owner": "bramstein",
             "repo": "hypher",
-            "stars": 582,
+            "stars": 581,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -3111,8 +3111,8 @@
             "id": 11639637,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T10:29:54Z",
-            "open_issues": 397,
+            "last_commit": "2026-10-03T05:08:48Z",
+            "open_issues": 414,
             "owner": "fonttools",
             "repo": "fonttools",
             "stars": 5272,
@@ -4233,8 +4233,8 @@
                 "id": 5390156,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T13:49:59Z",
-                "open_issues": 1041,
+                "last_commit": "2026-10-02T19:07:42Z",
+                "open_issues": 1040,
                 "owner": "fontforge",
                 "repo": "fontforge",
                 "stars": 7993,
@@ -4456,7 +4456,7 @@
             "open_issues": 144,
             "owner": "twitter",
             "repo": "twemoji",
-            "stars": 17798,
+            "stars": 17799,
             "topics": [
               "emoji",
               "twemoji"
@@ -4543,7 +4543,7 @@
             "open_issues": 61,
             "owner": "fontforge",
             "repo": "designwithfontforge.com",
-            "stars": 1050,
+            "stars": 1051,
             "topics": [
               "book",
               "fonts",
@@ -4713,7 +4713,7 @@
         {
           "node_type": "item",
           "title": "Git for Type Designers",
-          "description": null,
+          "description": "frankrolf/git-for-type-designers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5000,10 +5000,10 @@
             "language": "JavaScript",
             "license": "OFL-1.1",
             "last_commit": "2026-10-01T05:49:59Z",
-            "open_issues": 99,
+            "open_issues": 98,
             "owner": "be5invis",
             "repo": "Iosevka",
-            "stars": 22803,
+            "stars": 22807,
             "topics": [
               "font",
               "iosevka",
@@ -5033,7 +5033,7 @@
             "open_issues": 164,
             "owner": "adobe-fonts",
             "repo": "source-han-sans",
-            "stars": 17301,
+            "stars": 17300,
             "topics": [
               "cff",
               "cff2",
@@ -5064,7 +5064,7 @@
             "open_issues": 74,
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9735,
+            "stars": 9734,
             "topics": [
               "cff",
               "cff2",
@@ -5122,7 +5122,7 @@
             "open_issues": 112,
             "owner": "googlefonts",
             "repo": "noto-emoji",
-            "stars": 5026,
+            "stars": 5028,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -5274,7 +5274,7 @@
             "open_issues": 11,
             "owner": "theleagueof",
             "repo": "raleway",
-            "stars": 628,
+            "stars": 627,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -5883,7 +5883,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:33:06.395Z",
+    "last_updated": "2026-10-03T05:12:22.073Z",
     "original_repository_info": {
       "archived": false,
       "description": "✏︎ Curated list about digital typography 🔥",
@@ -5895,7 +5895,7 @@
       "open_issues": 9,
       "owner": "Jolg42",
       "repo": "awesome-typography",
-      "stars": 1539,
+      "stars": 1540,
       "topics": [
         "awesome",
         "awesome-list",
