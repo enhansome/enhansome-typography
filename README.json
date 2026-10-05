@@ -377,7 +377,7 @@
             "open_issues": 432,
             "owner": "nothings",
             "repo": "stb",
-            "stars": 34777,
+            "stars": 34784,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -398,7 +398,7 @@
             "open_issues": 1390,
             "owner": "swaywm",
             "repo": "sway",
-            "stars": 17386,
+            "stars": 17388,
             "topics": [
               "compositor",
               "wayland"
@@ -448,7 +448,7 @@
             "open_issues": 0,
             "owner": "EricLengyel",
             "repo": "Slug",
-            "stars": 1546,
+            "stars": 1547,
             "topics": [
               "font-rendering",
               "vector-graphics"
@@ -564,7 +564,7 @@
             "open_issues": 6,
             "owner": "HOST-Oman",
             "repo": "libraqm",
-            "stars": 334,
+            "stars": 335,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -585,7 +585,7 @@
             "open_issues": 2,
             "owner": "AlphaPixel",
             "repo": "slughorn",
-            "stars": 239,
+            "stars": 240,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -641,7 +641,7 @@
             "open_issues": 4,
             "owner": "Tehreer",
             "repo": "SheenBidi",
-            "stars": 224,
+            "stars": 225,
             "topics": [
               "ansi-c",
               "bidi",
@@ -1022,7 +1022,7 @@
             "open_issues": 18,
             "owner": "unicode-org",
             "repo": "text-rendering-tests",
-            "stars": 187,
+            "stars": 188,
             "topics": [
               "coretext",
               "fonts",
@@ -1275,7 +1275,7 @@
             "open_issues": 35,
             "owner": "LayoutFarm",
             "repo": "Typography",
-            "stars": 456,
+            "stars": 457,
             "topics": [
               "cff",
               "contour",
@@ -1679,7 +1679,7 @@
             "open_issues": 69,
             "owner": "fontello",
             "repo": "fontello",
-            "stars": 7085,
+            "stars": 7084,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -1835,7 +1835,7 @@
             "open_issues": 52,
             "owner": "Mottie",
             "repo": "GitHub-userscripts",
-            "stars": 2036,
+            "stars": 2035,
             "topics": [
               "github",
               "github-userscripts",
@@ -1905,7 +1905,7 @@
             "open_issues": 16,
             "owner": "Munter",
             "repo": "subfont",
-            "stars": 1639,
+            "stars": 1638,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -1984,7 +1984,7 @@
             "open_issues": 10,
             "owner": "bramstein",
             "repo": "typeset",
-            "stars": 1038,
+            "stars": 1039,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -2005,7 +2005,7 @@
             "open_issues": 10,
             "owner": "photopea",
             "repo": "Typr.js",
-            "stars": 1006,
+            "stars": 1007,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -2197,7 +2197,7 @@
             "id": 39325180,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T04:37:26Z",
+            "last_commit": "2026-10-05T07:58:15Z",
             "open_issues": 21,
             "owner": "kekee000",
             "repo": "fonteditor-core",
@@ -2290,8 +2290,8 @@
             "id": 62899474,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T23:03:49Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-05T03:03:55Z",
+            "open_issues": 30,
             "owner": "itgalaxy",
             "repo": "webfont",
             "stars": 308,
@@ -3111,11 +3111,11 @@
             "id": 11639637,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-03T05:58:53Z",
-            "open_issues": 420,
+            "last_commit": "2026-10-05T11:20:46Z",
+            "open_issues": 419,
             "owner": "fonttools",
             "repo": "fonttools",
-            "stars": 5272,
+            "stars": 5273,
             "topics": [
               "fonts",
               "opentype",
@@ -3140,7 +3140,7 @@
             "open_issues": 269,
             "owner": "googlefonts",
             "repo": "fontmake",
-            "stars": 888,
+            "stars": 889,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -3619,6 +3619,36 @@
         },
         {
           "node_type": "item",
+          "title": "bdfparser",
+          "description": "BDF (Glyph Bitmap Distribution) format bitmap font file parser library in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "BDF (Glyph Bitmap Distribution) format bitmap font file parser library in Python 🔤🔣",
+            "homepage": "https://fontpixel.com/en/bdfparser_py/",
+            "id": 239890011,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-01-07T16:31:13Z",
+            "open_issues": 4,
+            "owner": "fontpixel",
+            "repo": "bdfparser",
+            "stars": 49,
+            "topics": [
+              "bdf",
+              "bdf-font",
+              "bdf-fonts",
+              "bdf-format",
+              "bitmap-font",
+              "bitmap-fonts",
+              "font",
+              "parser"
+            ]
+          },
+          "first_seen": "2026-08-28T16:41:52.376Z"
+        },
+        {
+          "node_type": "item",
           "title": "woffTools",
           "description": "Library for working with WOFF files.",
           "children": [],
@@ -3635,36 +3665,6 @@
             "repo": "woffTools",
             "stars": 48,
             "topics": []
-          },
-          "first_seen": "2026-08-28T16:41:52.376Z"
-        },
-        {
-          "node_type": "item",
-          "title": "bdfparser",
-          "description": "BDF (Glyph Bitmap Distribution) format bitmap font file parser library in Python.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "BDF (Glyph Bitmap Distribution) format bitmap font file parser library in Python 🔤🔣",
-            "homepage": "https://fontpixel.com/en/bdfparser_py/",
-            "id": 239890011,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-01-07T16:31:13Z",
-            "open_issues": 4,
-            "owner": "fontpixel",
-            "repo": "bdfparser",
-            "stars": 48,
-            "topics": [
-              "bdf",
-              "bdf-font",
-              "bdf-fonts",
-              "bdf-format",
-              "bitmap-font",
-              "bitmap-fonts",
-              "font",
-              "parser"
-            ]
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
         },
@@ -3800,7 +3800,7 @@
             "id": 68520755,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2023-06-17T19:30:10Z",
+            "last_commit": "2026-10-05T10:02:59Z",
             "open_issues": 2,
             "owner": "Tehreer",
             "repo": "Tehreer-Android",
@@ -4233,11 +4233,11 @@
                 "id": 5390156,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T20:06:32Z",
-                "open_issues": 1039,
+                "last_commit": "2026-10-04T20:08:49Z",
+                "open_issues": 1038,
                 "owner": "fontforge",
                 "repo": "fontforge",
-                "stars": 7995,
+                "stars": 8001,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:41:52.376Z"
@@ -4456,7 +4456,7 @@
             "open_issues": 144,
             "owner": "twitter",
             "repo": "twemoji",
-            "stars": 17798,
+            "stars": 17799,
             "topics": [
               "emoji",
               "twemoji"
@@ -4522,7 +4522,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "emoj",
-            "stars": 2429,
+            "stars": 2428,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -4747,7 +4747,7 @@
             "open_issues": 12,
             "owner": "jessetane",
             "repo": "unicodes",
-            "stars": 80,
+            "stars": 79,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -4999,11 +4999,11 @@
             "id": 39315600,
             "language": "JavaScript",
             "license": "OFL-1.1",
-            "last_commit": "2026-10-03T18:37:57Z",
+            "last_commit": "2026-10-05T01:54:23Z",
             "open_issues": 97,
             "owner": "be5invis",
             "repo": "Iosevka",
-            "stars": 22814,
+            "stars": 22819,
             "topics": [
               "font",
               "iosevka",
@@ -5033,7 +5033,7 @@
             "open_issues": 164,
             "owner": "adobe-fonts",
             "repo": "source-han-sans",
-            "stars": 17303,
+            "stars": 17306,
             "topics": [
               "cff",
               "cff2",
@@ -5064,7 +5064,7 @@
             "open_issues": 74,
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9736,
+            "stars": 9739,
             "topics": [
               "cff",
               "cff2",
@@ -5095,7 +5095,7 @@
             "open_issues": 46,
             "owner": "i-tu",
             "repo": "Hasklig",
-            "stars": 5704,
+            "stars": 5705,
             "topics": [
               "afdko",
               "font",
@@ -5122,7 +5122,7 @@
             "open_issues": 112,
             "owner": "googlefonts",
             "repo": "noto-emoji",
-            "stars": 5033,
+            "stars": 5034,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -5377,7 +5377,7 @@
             "open_issues": 8,
             "owner": "mozilla",
             "repo": "fxemoji",
-            "stars": 334,
+            "stars": 335,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -5883,7 +5883,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T10:37:07.444Z",
+    "last_updated": "2026-10-05T11:34:44.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "✏︎ Curated list about digital typography 🔥",
@@ -5895,7 +5895,7 @@
       "open_issues": 10,
       "owner": "Jolg42",
       "repo": "awesome-typography",
-      "stars": 1540,
+      "stars": 1541,
       "topics": [
         "awesome",
         "awesome-list",
