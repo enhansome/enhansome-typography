@@ -377,7 +377,7 @@
             "open_issues": 433,
             "owner": "nothings",
             "repo": "stb",
-            "stars": 34796,
+            "stars": 34797,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -395,7 +395,7 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-09-21T12:28:58Z",
-            "open_issues": 1390,
+            "open_issues": 1391,
             "owner": "swaywm",
             "repo": "sway",
             "stars": 17392,
@@ -5883,7 +5883,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:51:23.855Z",
+    "last_updated": "2026-10-06T11:19:41.465Z",
     "original_repository_info": {
       "archived": false,
       "description": "✏︎ Curated list about digital typography 🔥",
