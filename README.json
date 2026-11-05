@@ -67,7 +67,7 @@
             "open_issues": 3,
             "owner": "rewtnull",
             "repo": "amigafonts",
-            "stars": 379,
+            "stars": 380,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -368,10 +368,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-11-03T05:31:25Z",
-            "open_issues": 154,
+            "open_issues": 155,
             "owner": "nothings",
             "repo": "stb",
-            "stars": 34941,
+            "stars": 34946,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -392,7 +392,7 @@
             "open_issues": 1415,
             "owner": "swaywm",
             "repo": "sway",
-            "stars": 17484,
+            "stars": 17494,
             "topics": [
               "compositor",
               "wayland"
@@ -558,7 +558,7 @@
             "open_issues": 6,
             "owner": "HOST-Oman",
             "repo": "libraqm",
-            "stars": 340,
+            "stars": 339,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -579,7 +579,7 @@
             "open_issues": 2,
             "owner": "AlphaPixel",
             "repo": "slughorn",
-            "stars": 315,
+            "stars": 317,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -635,7 +635,7 @@
             "open_issues": 4,
             "owner": "Tehreer",
             "repo": "SheenBidi",
-            "stars": 227,
+            "stars": 226,
             "topics": [
               "ansi-c",
               "bidi",
@@ -949,11 +949,11 @@
             "id": 5050525,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T21:18:24Z",
-            "open_issues": 121,
+            "last_commit": "2026-11-04T23:32:12Z",
+            "open_issues": 117,
             "owner": "harfbuzz",
             "repo": "harfbuzz",
-            "stars": 6194,
+            "stars": 6197,
             "topics": [
               "aat",
               "c",
@@ -986,7 +986,7 @@
             "open_issues": 8,
             "owner": "Chlumsky",
             "repo": "msdfgen",
-            "stars": 4964,
+            "stars": 4966,
             "topics": []
           },
           "first_seen": "2026-10-09T11:22:09.234Z"
@@ -1440,7 +1440,7 @@
             "open_issues": 126,
             "owner": "pop-os",
             "repo": "cosmic-text",
-            "stars": 2187,
+            "stars": 2186,
             "topics": []
           },
           "first_seen": "2026-10-09T11:22:09.234Z"
@@ -1457,11 +1457,11 @@
             "id": 455581993,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T05:30:14Z",
-            "open_issues": 264,
+            "last_commit": "2026-11-04T22:18:30Z",
+            "open_issues": 265,
             "owner": "googlefonts",
             "repo": "fontations",
-            "stars": 853,
+            "stars": 854,
             "topics": []
           },
           "first_seen": "2026-10-09T11:22:09.234Z"
@@ -1546,8 +1546,8 @@
             "id": 829031665,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-02T05:16:22Z",
-            "open_issues": 39,
+            "last_commit": "2026-11-04T23:39:23Z",
+            "open_issues": 32,
             "owner": "harfbuzz",
             "repo": "harfrust",
             "stars": 324,
@@ -1567,8 +1567,8 @@
             "id": 564099683,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T11:31:12Z",
-            "open_issues": 170,
+            "last_commit": "2026-11-04T18:40:04Z",
+            "open_issues": 169,
             "owner": "googlefonts",
             "repo": "fontc",
             "stars": 195,
@@ -1857,10 +1857,10 @@
             "language": "TypeScript",
             "license": "MPL-2.0",
             "last_commit": "2026-10-23T14:15:30Z",
-            "open_issues": 159,
+            "open_issues": 160,
             "owner": "vercel",
             "repo": "satori",
-            "stars": 14161,
+            "stars": 14165,
             "topics": [
               "css",
               "image",
@@ -1912,7 +1912,7 @@
             "open_issues": 70,
             "owner": "fontello",
             "repo": "fontello",
-            "stars": 7079,
+            "stars": 7078,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -1930,10 +1930,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-03T17:21:41Z",
-            "open_issues": 37,
+            "open_issues": 40,
             "owner": "fontsource",
             "repo": "fontsource",
-            "stars": 6262,
+            "stars": 6263,
             "topics": [
               "css",
               "font",
@@ -1993,7 +1993,7 @@
             "open_issues": 81,
             "owner": "aui",
             "repo": "font-spider",
-            "stars": 5139,
+            "stars": 5138,
             "topics": [
               "eot",
               "font-face",
@@ -2024,7 +2024,7 @@
             "open_issues": 213,
             "owner": "opentypejs",
             "repo": "opentype.js",
-            "stars": 5043,
+            "stars": 5045,
             "topics": [
               "font",
               "glyphs",
@@ -2130,7 +2130,7 @@
             "open_issues": 95,
             "owner": "protectwise",
             "repo": "troika",
-            "stars": 1985,
+            "stars": 1986,
             "topics": [
               "canvas",
               "data-visualization",
@@ -2159,7 +2159,7 @@
             "open_issues": 9,
             "owner": "seek-oss",
             "repo": "capsize",
-            "stars": 1735,
+            "stars": 1734,
             "topics": []
           },
           "first_seen": "2026-10-09T11:22:09.234Z"
@@ -2201,7 +2201,7 @@
             "open_issues": 135,
             "owner": "foliojs",
             "repo": "fontkit",
-            "stars": 1680,
+            "stars": 1679,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -2548,7 +2548,7 @@
             "open_issues": 1,
             "owner": "fontello",
             "repo": "ttf2woff",
-            "stars": 357,
+            "stars": 356,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -3497,11 +3497,11 @@
             "id": 11639637,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T18:36:11Z",
-            "open_issues": 410,
+            "last_commit": "2026-11-05T12:09:59Z",
+            "open_issues": 409,
             "owner": "fonttools",
             "repo": "fonttools",
-            "stars": 5306,
+            "stars": 5307,
             "topics": [
               "fonts",
               "opentype",
@@ -3659,7 +3659,7 @@
             "id": 106485135,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T11:26:01Z",
+            "last_commit": "2026-11-04T14:35:34Z",
             "open_issues": 149,
             "owner": "googlefonts",
             "repo": "gftools",
@@ -3770,8 +3770,8 @@
             "id": 44563779,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T12:15:07Z",
-            "open_issues": 206,
+            "last_commit": "2026-11-04T15:09:06Z",
+            "open_issues": 204,
             "owner": "googlefonts",
             "repo": "glyphsLib",
             "stars": 204,
@@ -3923,7 +3923,7 @@
             "id": 362839599,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-04T09:50:31Z",
+            "last_commit": "2026-11-05T09:21:30Z",
             "open_issues": 0,
             "owner": "ftCLI",
             "repo": "FoundryTools-CLI",
@@ -4469,11 +4469,11 @@
             "id": 691108048,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T07:26:13Z",
+            "last_commit": "2026-11-05T10:40:59Z",
             "open_issues": 13,
             "owner": "googlefonts",
             "repo": "fontquant",
-            "stars": 26,
+            "stars": 27,
             "topics": []
           },
           "first_seen": "2026-10-09T11:22:09.234Z"
@@ -4641,7 +4641,7 @@
             "open_issues": 10,
             "owner": "tmm1",
             "repo": "emoji-extractor",
-            "stars": 559,
+            "stars": 558,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -4658,8 +4658,8 @@
             "id": 250296974,
             "language": "Ruby",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-04T03:44:06Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-05T12:01:19Z",
+            "open_issues": 25,
             "owner": "fontist",
             "repo": "fontist",
             "stars": 45,
@@ -4704,7 +4704,7 @@
             "language": "Ruby",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-03T10:53:06Z",
-            "open_issues": 0,
+            "open_issues": 5,
             "owner": "fontist",
             "repo": "fontisan",
             "stars": 3,
@@ -5088,11 +5088,11 @@
                 "id": 5390156,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T20:01:32Z",
-                "open_issues": 1017,
+                "last_commit": "2026-11-04T20:23:12Z",
+                "open_issues": 1016,
                 "owner": "fontforge",
                 "repo": "fontforge",
-                "stars": 8057,
+                "stars": 8061,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:41:52.376Z"
@@ -5130,8 +5130,8 @@
                 "id": 430681576,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-04T07:10:41Z",
-                "open_issues": 207,
+                "last_commit": "2026-11-04T13:48:07Z",
+                "open_issues": 206,
                 "owner": "fontra",
                 "repo": "fontra",
                 "stars": 854,
@@ -5233,7 +5233,7 @@
                 "open_issues": 65,
                 "owner": "justvanrossum",
                 "repo": "fontgoggles",
-                "stars": 475,
+                "stars": 476,
                 "topics": [
                   "cocoa",
                   "font",
@@ -5446,8 +5446,8 @@
             "id": 731988198,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T11:09:52Z",
-            "open_issues": 161,
+            "last_commit": "2026-11-04T12:20:30Z",
+            "open_issues": 160,
             "owner": "fonttools",
             "repo": "fontspector",
             "stars": 119,
@@ -5477,7 +5477,7 @@
             "open_issues": 144,
             "owner": "twitter",
             "repo": "twemoji",
-            "stars": 17815,
+            "stars": 17814,
             "topics": [
               "emoji",
               "twemoji"
@@ -6024,7 +6024,7 @@
             "open_issues": 32,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 65128,
+            "stars": 65135,
             "topics": [
               "font",
               "font-awesome",
@@ -6059,7 +6059,7 @@
             "open_issues": 95,
             "owner": "be5invis",
             "repo": "Iosevka",
-            "stars": 23207,
+            "stars": 23206,
             "topics": [
               "font",
               "iosevka",
@@ -6086,10 +6086,10 @@
             "language": "Python",
             "license": "OFL-1.1",
             "last_commit": "2024-11-19T03:16:13Z",
-            "open_issues": 148,
+            "open_issues": 149,
             "owner": "rsms",
             "repo": "inter",
-            "stars": 20036,
+            "stars": 20042,
             "topics": [
               "design",
               "font",
@@ -6114,7 +6114,7 @@
             "open_issues": 165,
             "owner": "adobe-fonts",
             "repo": "source-han-sans",
-            "stars": 17435,
+            "stars": 17441,
             "topics": [
               "cff",
               "cff2",
@@ -6145,7 +6145,7 @@
             "open_issues": 74,
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9822,
+            "stars": 9823,
             "topics": [
               "cff",
               "cff2",
@@ -6203,7 +6203,7 @@
             "open_issues": 116,
             "owner": "googlefonts",
             "repo": "noto-emoji",
-            "stars": 5119,
+            "stars": 5121,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:52.376Z"
@@ -6376,7 +6376,7 @@
             "open_issues": 2,
             "owner": "dy",
             "repo": "wavefont",
-            "stars": 474,
+            "stars": 476,
             "topics": [
               "afdko",
               "barchart",
@@ -6496,8 +6496,8 @@
             "id": 31365534,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2018-05-08T21:22:09Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-04T18:48:04Z",
+            "open_issues": 18,
             "owner": "RoelN",
             "repo": "SansBullshitSans",
             "stars": 324,
@@ -6985,7 +6985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T12:14:43.278Z",
+    "last_updated": "2026-11-05T12:27:21.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "✏︎ Curated list about digital typography 🔥",
